@@ -3,7 +3,7 @@ layout: investigation.html
 title: "قاعدة بيانات بالهجمات الروسية ضد المدنيين في سوريا"
 date: 2016-05-13
 desc: "بيان حول الأدلة البصرية التي جمعها الأرشيف السوري كقاعدة بيانات عن الهجمات الروسية ضد المدنيين في سوريا"
-image: /assets/investigations/russian-attacks.png
+image: ../assets/investigations/russian-attacks.png
 ---
 
 انتهى فريق "الأرشيف السوري" من إنشاء [&nbsp;قاعدة بيانات تضم مقاطع مصوّرة تدل على انتهاكات حصلت ضد المدنيين](https://syrianarchive.org/ar/database?collection=Civilian%20casualties%20as%20a%20result%20of%20alleged%20russian%20attacks) في سوريا يُرجّح أن مرتكبيها قوات روسية، وذلك في الفترة الواقعة ما بين 30 أيلول/ سبتمبر 2015 وحتى 30 آذار/مارس 2016.
@@ -36,11 +36,11 @@ image: /assets/investigations/russian-attacks.png
 
 نلاحظ من خلال الرسم البياني أن العدد الأكبر من الفيديوهات التي تدل على انتهاكات روسية لمدنيين تم نشرها في شهر تشرين الأول/ أوكتوبر
 
-![screenshot](/assets/timeline_russianattacks.png)
+![screenshot](../assets/timeline_russianattacks.png)
 
 نلاحظ أيضا نشر فيديوهات تدل على انتهاكات روسية لمدنيين في شهر آذار رغم الهدنة المتفق عليها والتي بدأت بتاريخ ٢٧ شباط ٢٠١٦ مما يدل على خرقها من قبل الطيران الروسي. [نشرت الشبكة السورية لحقوق الإنسان تقريرا مفصلا حول هذا الموضوع](http://sn4hr.org/arabic/2016/03/15/5791/).
 
-![screenshot](/assets/timelinemarch.png)
+![screenshot](../assets/timelinemarch.png)
 
 ## تقارير حول الهجمات الروسية ضد المدنيين في الفترة الواقعة بين 29 أيلول/ سبتمبر 2015 و30 نيسان/ أبريل 2016
 
@@ -65,7 +65,7 @@ image: /assets/investigations/russian-attacks.png
 
 *   استخدمنا ملف اكسل للقيام بهذه العملية كما نرى في الأسفل.
 
-![screenshot](/assets/sheet.png)
+![screenshot](../assets/sheet.png)
 ### ثالثا: التحقق من الموقع الجغرافي
 
 * حدّد فريق الأرشيف السوري الموقع الجغرافي لجميع الفيديوهات التي تدل على هجمات روسية ضد المدنيين.
@@ -94,15 +94,15 @@ image: /assets/investigations/russian-attacks.png
 
 نشر أول فيديو من قبل [abnhoran hariri](https://syrianarchive.org/ar/database?term=%20https://www.youtube.com/watch?v&after=2015-10-05&before=2015-10-07&unit=efd4dd2f)
 
-![screenshot](/assets/cluster1.png)
+![screenshot](../assets/cluster1.png)
 
 ونشر ثاني فيديو من قبل[ فريق الدفاع المدني في حلب](https://syrianarchive.org/ar/database?term=%20RU_2146&after=2015-10-21&before=2015-10-23&unit=7efa8e82)
 
-![screenshot](/assets/cluster2.png)
+![screenshot](../assets/cluster2.png)
 
 * تسجيل أوامر ومحادثات الطياريين الروسيين عند اقلاعهم من مطار حميميم عن طريق أجهزة تنصت منتشرة بالمراصد الموجودة في سوريا. [وقد نشر مركز توثيق الانتهاكات بعض التسجيلات التي تم تزويد المركز بها من قبل المراصد](https://www.youtube.com/watch?v=EmWcfssz9r0). سجلت هذه المقاطع بتاريخ 24 و 25 تشرين أول/ أكتوبر 2015\. شاهد صورة الأجهزة التي استخدمت من قبل المراصد لمراقبة حركة الطائرات الروسية.
 
-![screenshot](/assets/vdc.png)
+![screenshot](../assets/vdc.png)
 
 صورت بعض الوكالات الإخبارية مقابلات مع الأشخاص العاملين في المراصد لتوضيح طريقة رصدهم للطائرات الروسية. [شاهد المقابلة التي قامت بها وكالة خطوة مع المرصد ٨٠ والمرصد أبو فيصل في ريف حماة](https://syrianarchive.org/ar/database?after=2015-11-18&before=2015-11-20&unit=65f239d0).
 
@@ -126,9 +126,9 @@ image: /assets/investigations/russian-attacks.png
 
 فقدت بعض الفيديوهات أيضا من تقارير منظمات حقوقية وطبية عالمية كفيديو موجود في تقرير أطباء من أجل حقوق الإنسان الذي وثّق الهجمات الروسية على النقاط الطبية في سوريا. يوضح الشكل التالي [فقدان هذا الفيديو من اليوتيوب](https://www.youtube.com/watch?v=A4uhPXrU9hg) والذي يدل على استهداف سيارة اسعاف في ريف ادلب من قبل الطيران الروسي.
 
-![screenshot](/assets/phr.png)
+![screenshot](../assets/phr.png)
 
-![screenshot](/assets/yt1.png)
+![screenshot](../assets/yt1.png)
 
 ## **شاركونا مقاطع الفيديو لحفظها وتصنيفها**
 

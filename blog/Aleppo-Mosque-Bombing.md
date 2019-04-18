@@ -2,7 +2,7 @@
 title: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
 date: 2017-04-18
 desc: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
-image: /assets/8j.width-800.png
+image: ../assets/8j.width-800.png
 ---
 *This is a developing investigation, which will be updated as soon as there are new findings. We are currently waiting for a reaction from CENTCOM and the Pentagon with regards to our findings. Last update: March 18, 2017, 19:41 UTC.*
 
@@ -22,13 +22,13 @@ Most of the initial posts on social media blamed either the [Russian](http://arc
 
 The civilian casualty figures are high, ranging from 29 ([Syrian Network for Human Rights](http://sn4hr.org/blog/2017/03/16/massacre-syrian-regime-shelling-mosque-al-jeina-village-aleppo-governorate-march-16/)), to 35 ([Syrian Civil Defence](https://www.facebook.com/SCDaleppo/posts/1285988564814132:0)), to even higher casualty figures putting the number of civilians killed at over 50.
 
-![1j.png](../assets/1j.width-800.png)
+![1j.png](..../assets/1j.width-800.png)
 
 Local media sources claimed that a religious meeting was ongoing in the 'Umar ibn Al-Khaṭṭāb mosque when they were targeted by what an eyewitness described as [seven airstrikes](https://twitter.com/trbrtc/status/842549995492577282). The mosque, which could host over 200 individuals, partly collapsed. According to reports, the evening prayer was mainly attended by civilians, and was also used for religious teaching. The amount of damage will be further discussed under "Where did it happen?" section.
 
 There are dozens of photos and videos of victims and the airstrike aftermath, such as this excerpt filmed by Thiqa News Agency, which shows how a child is uncovered from under the rubble.
 
-![2j.png](/assets/2j.width-800.png)
+![2j.png](../assets/2j.width-800.png)
 
 The attack was a condemned by a number of opposition groups, including Hay'at Tahrir al-Sham (HTS), the Levant Front, and Ahrar al-Sham.
 
@@ -42,15 +42,15 @@ Based on the information available, the location of the airstrike is said to be 
 
 There are three mosques found on satellite imagery in Al-Jīnah itself; however, local activists told *Bellingcat* that the targeted mosque was a relatively newly built house of worship just southwest of the village: 36.107721, 36.787080 ([Wikimapia](http://wikimapia.org/#lang=en&lat=36.107785&lon=36.786904&z=15&m=b)).
 
-![3j.png](/assets/3j.width-800.png)
+![3j.png](../assets/3j.width-800.png)
 
 Based on [a video uploaded to YouTube](https://www.youtube.com/watch?v=29UptxVQwL8) by citizen journalist Hadi al-Abdallah showing the aftermath, it is possible to confirm that the two locations match.
 
-![4j.png](/assets/4j.width-800.png)
+![4j.png](../assets/4j.width-800.png)
 
 Half a dozen videos have been published the next morning, giving a better impression of the targeted site. These videos were published by, amongst others, "[SMART News Agency](https://www.youtube.com/watch?v=TBwagt3lXXU)" and Bilal Abdul Kareem from the small media outlet "On the Ground News" (OGN), which often reports from territories controlled by Jabhat Fateh al-Sham (JFS). Mr. Abdul Kareem [was recently interviewed by the New York Times](https://www.nytimes.com/2017/03/10/world/middleeast/reporting-from-syria-an-american-with-a-point-of-view-and-a-message.html).
 
-![5j.png](/assets/5j.width-800.png)
+![5j.png](../assets/5j.width-800.png)
 
 Based on historical satellite imagery, for example via Google Earth, it can be determined that the mosque was not built yet in June 2011. This means the mosque must have been constructed after the Syrian war began.
 
@@ -58,21 +58,21 @@ By cross-referencing ground footage from the aftermath with satellite imagery, i
 
 The southern side of the 'Umar ibn al-Khaṭṭāb mosque, which is the prayer room, has some minimal damage, but is still standing.
 
-![6j.png](/assets/6j.width-800.png)
+![6j.png](../assets/6j.width-800.png)
 
 The old mosque as well as the new construction right north of the new mosque are completely intact. Locals confirmed to \_Bellingcat \_that the smaller building with minarets and speakers is indeed a mosque, which is visible in a video of RFS.
 
-![8j.png](/assets/8j.width-800.png)
+![8j.png](../assets/8j.width-800.png)
 
 Therefore, there were two mosques right next to each other. This is important to note, because an initial statement of the US Central Command (CENTCOM) claimed that it bombed a building at the opposite side of the street, but did not target the mosque. They also claimed that the mosque was not damaged. This seems to suggest that CENTCOM refers to the smaller and older mosque, which is indeed undamaged.
 
 The above theory was indeed confirmed on March 17, when [the Pentagon presented a photo](https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001718389) of the airstrike aftermath, shown below.
 
-![9j.png](/assets/9j.width-800.png)
+![9j.png](../assets/9j.width-800.png)
 
 The image is annotated below by Bellingcat to show that it is indeed the same location as shown above on the Google Earth satellite imagery.
 
-![10j.png](/assets/10j.width-800.png)
+![10j.png](../assets/10j.width-800.png)
 
 It is thus clear that the Pentagon, the local citizens, activists, and journalists on the ground, as well as Bellingcat, are speaking of the very same location. But while the small building is confirmed to be a mosque, and clearly looks like one, what can we find out about the bigger building? Was it indeed a mosque?
 
@@ -80,23 +80,23 @@ All available information from local and international media points towards it i
 
 First of all, a sign outside the western side of the building says this is the 'Umar ibn al-Khaṭṭāb mosque, indicates it is a religious school (Arabic: مدرسة شرعية), and refers to a text on people financing the construction of the mosque.
 
-![11j.png](/assets/11j.width-800.png)
+![11j.png](../assets/11j.width-800.png)
 
-![12j.png](/assets/12j.width-800.png)
+![12j.png](../assets/12j.width-800.png)
 
 Some have suggested that the sign appears a bit awkwardly situated against the wall, leading some to suggest the sign was placed in hindsight. the location is right next from the part of the building which collapsed. The sign is visible on the image provided by the Pentagon, which appears to be a still from a video filming the airstrike and its aftermath. It is unclear how many minutes or hours the Pentagon image was taken.
 
-![13j.png](/assets/13j.width-800.png)
+![13j.png](../assets/13j.width-800.png)
 
 Besides, the interior of the targeted building does strongly resemble the interior of a mosque's prayer room, as shown in videos uploaded by OGN and "[Moaz al-Shaami](https://www.facebook.com/moaz.Alshami.shada/videos/1836671799918423/)", as it features the miḥrāb, a semicircular niche in the wall of a mosque that indicates the direction of the Kaaba.
 
 The interior can be matched with the exterior of the building, as shown below, for example by the 3-4-3 upper windows and entrance blocked by the collapse of the northern part of the building.
 
-![14j.png](/assets/14j.width-800.png)
+![14j.png](../assets/14j.width-800.png)
 
 On eve of the attack, CENTCOM did report that they struck "Al Qaeda meeting location" in Idlib.
 
-![15j.png](/assets/15j.width-800.png)
+![15j.png](../assets/15j.width-800.png)
 
 As we have seen above, the mosque's location is in the Aleppo governorate though only 4 km from the governorate's border with Idlib. For that reason, it may have been that the Idlib strike referred to the same incident -- something Airwars journalist [Samuel Oakford first noted](https://twitter.com/samueloakford/status/842514169941442561).
 
@@ -106,7 +106,7 @@ However, confusion remained, so \_Bellingcat \_e-mailed CENTCOM for a statement 
 
 Now, this is interesting. Bellingcat contributors and others, most notably Twitter user @obretix, have geolocated official CJTF-OIR airstrike videos from Iraq and Syria for over two years now. All these videos came with a rough description of a location, e.g. "near Raqqah". Obretix [mapped all these geolocated videos](https://sami-r.carto.com/viz/dc7a04e6-f284-11e5-8e3d-0ea31932ec1d/embed_map) and used a Voronoi diagram to get an impression of the region labels the Coalition -- which is led by CENTCOM -- uses. It shows that they labels were not always that accurate, and that governorate borders may well overlap each other.
 
-![16j.png](/assets/16j.width-800.png)
+![16j.png](../assets/16j.width-800.png)
 
 Either way, CENTCOM said it targeted a building in the Idlib governorate, while it actually was in the Aleppo governorate.
 
@@ -118,7 +118,7 @@ Both the Russian Air Force as well as the United States(-led Coalition) have bee
 
 However, a photo showing an alleged weapon remnant found in the rubble of the mosque may reveal more about the perpetrator of the attack.
 
-![17j.png](/assets/17j.width-800.png)
+![17j.png](../assets/17j.width-800.png)
 
 The photo was published on Twitter by Sakir Khader, a Dutch journalist, who said he received the photo from local activists on the ground. No results show up in a reverse image search, suggesting the photo has not been indexed by Google and may thus be authentic. The location and authenticity of the photo could not be independently referenced, and caution is thus needed.
 
@@ -126,29 +126,29 @@ A text in Latin is visible on the alleged weapon remnant: "WT: 52.0 kg". 'WT' is
 
 Interestingly, the specific font and abbreviation are used on US missiles, as can be seen in [hundreds of reference pictures](https://www.google.com/search?q=AGM-114&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjJ5paljdzSAhVMmBoKHeeyD70Q_AUICSgC&biw=767&bih=756) of AGM-114 Hellfire air-to-surface missiles, as shown below. This fact, combined with the striking similarity of rivets, paint, et cetera, strongly suggests the photographed object is a remnant of a US AGM-variant.
 
-![18j.png](/assets/18j.width-800.png)
+![18j.png](../assets/18j.width-800.png)
 
 Noteworthy is that the exact same label on a weapon remnant was found at the site of an alleged drone strike on a high value target (HVT) in Syria's Idlib province in October 2016. At the day that those photos were published by pro-opposition Step News Agency, the US admitted targeting a target with a drone.
 
-![19j.png](/assets/19j.width-800.png)
+![19j.png](../assets/19j.width-800.png)
 
 If the photo of Mr. Khader thus indeed was taken at the mosque site, it is highly likely that the US is the perpetrator of this attack. It is, however, also worth mentioning that the damage shown in the October 16, 2016, footage of Idlib is considerably smaller than the March 16, 2017, strike, as was noted by Twitter-uster [@sasmojo][39](https://twitter.com/sasmojo/status/842513526174433281).
 
 An explanation follows the next day, when Washington Post journalist Thomas Gibbons-Neff [tweets a statement](https://twitter.com/Tmgneff/status/842740011099459585) by a US official he spoke: "US official: AQ strike in N. Syria involved two Reapers that fired roughly entirety of their Hellfire payload and followed up w/ 500lb bomb."
 
-![20j.png](/assets/20j.width-800.png)
+![20j.png](../assets/20j.width-800.png)
 
 The MQ-9 Reaper drone usually carries up to four Hellfire missiles, meaning eight missiles were fired at the location, followed by a 500 lb bomb. A photo, courtesy of [Getty Images/Anadolu Agency](http://www.gettyimages.pt/detail/fotografia-de-not%C3%ADcias/civil-defense-team-members-and-people-try-to-fotografia-de-not%C3%ADcias/654406182#civil-defense-team-members-and-people-try-to-rescue-people-who-were-picture-id654406182), of the aftermath shows what a massive crater has been created by that 500 lb bomb.
 
-![21j.png](/assets/21j.width-800.png)
+![21j.png](../assets/21j.width-800.png)
 
 The next morning, new photos emerged of weapon remnants published by both the Syrian Institute for Justice as well as Getty Images, which can be grouped by three different objects. It is important to mention that *Bellingcat* cannot confirm the authenticity of this photos, only that they do not show up in reverse image searches.
 
 First of all, there is an object with the Latin inscription which reads "30000892-01 REV C S/N 005827". "S/N" refers to the serial number, which is thus 005827. However, it is unclear to which specific group of ammunition this object belongs, but some have suggested it may be a GUB-12 or GBU-39.
 
-![22j.png](/assets/22j.width-800.png)
+![22j.png](../assets/22j.width-800.png)
 
-![23j.png](/assets/23j.width-800.png)
+![23j.png](../assets/23j.width-800.png)
 
 The second object has a label with a text in Latin and three bar codes. The text read: "WOODWARD HRT Revision B"; "(1P) MFR PART\# 41013490-108"; "SERIAL\# 15862"; and "\[??\] DATE 1\[?\]12/22"; "(17V) MFR CAGE 81873".
 
@@ -156,13 +156,13 @@ Woodward is a US company which supplies fin actuators for Joint Direct Attack Mu
 
 [It has been suggested](https://twitter.com/marcgarlasco/status/842744382512140289) that the remnants pictured may be related to JDAM-ER. Woodward received several US Department of Defence (DoD) contracts, though the [the Military-Industrial Complex website](http://www.militaryindustrialcomplex.com/totals.asp?thisContractor=Woodward%20HRT) only lists contracts with a value of \$6.5 million USD or higher.
 
-![24j.png](/assets/24j.width-800.png)
+![24j.png](../assets/24j.width-800.png)
 
-![30j.png](/assets/25j.width-800.png)
+![30j.png](../assets/25j.width-800.png)
 
 The third object was visible in photos in the [Getty Images databank](http://www.gettyimages.pt/detail/fotografia-de-not%C3%ADcias/civil-defense-team-members-and-people-try-to-fotografia-de-not%C3%ADcias/654406182#civil-defense-team-members-and-people-try-to-rescue-people-who-were-picture-id654406182), provided by Anadolu Agency. It is unclear what the object belongs to.
 
-![26j.png](/assets/26j.width-800.png)
+![26j.png](../assets/26j.width-800.png)
 
 ## Why did it happen?
 

@@ -2,7 +2,7 @@
 title: "Press Release of the Chemical Weapons Attack on Damascus"
 date: 2015-08-21
 desc: "The Syrian Archive Team on the 2nd anniversary of the chemical weapons attack on Ghouta, Syria"
-image: /assets/media_activist_in_Damascus.jpg
+image: ../assets/media_activist_in_Damascus.jpg
 ---
 The Syrian Archive Team on the 2nd anniversary of the chemical weapons attack on Ghouta, Syria \| 21 August 2015
 
@@ -18,7 +18,7 @@ The Syrian Archive is an initiative launched by a network of human rights activi
 
 Working in support of media and documentation centres in Syria, our goal is to preserve the most valuable material to ensure it is organised and accessible for use by current researchers, journalists, lawyers and others with an interest in the conflict as well as to facilitate the work of future historians and investigators.
 
-![media\_activist\_in\_Damascus.jpg](/assets/media_activist_in_Damascus.jpg)
+![media\_activist\_in\_Damascus.jpg](../assets/media_activist_in_Damascus.jpg)
 
 Preserving the hundreds of thousands of pictures and videos recorded by Syrian citizen journalists not only honours those who made great efforts by risking their lives to document these crimes.
 

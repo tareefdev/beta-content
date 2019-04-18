@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف تلبيسة بغارات جويّة يُزعم أنها روسية"
 date: 2018-11-26
 desc: "بعد جمع وتحليل الصور والأدلّة البصريّة التي نشرت على مواقع التواصل الاجتماعي وشبكات الأخبار؛ تبيّن لفريق التحقيقات مفتوحة المصدر في الأرشيف السوري أن مدينة تلبيسة في ريف حمص قد استُهدفت بغارات جوية روسية بتاريخ 30 أيلول سبتمبر 2015"
-image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
+image: ../assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 ---
 
 ## حول الحادثة
@@ -21,38 +21,38 @@ image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 
 في يوم 30 أيلول\\سبتمبر 2015 تداولت العديد من الشبكات الإخبارية وصفحات الناشطين [أنباءً](https://www.youtube.com/watch?v=pPfe3S5vvMc) حول غارات شنها الطيران الروسي على مدينة [تلبيسة](https://goo.gl/maps/HR6mru5nPSz) في ريف حمص، تزامناً مع تفويض المجلس الاتحادي الروسي للرئيس الروسي فلاديمير بوتين باستخدام القوّة في سوريا معلنين [بدء العمليّات العسكريّة الروسيّة في الأراضي السوريّة](https://www.youtube.com/watch?v%3DqblmOvkV9KM&sa=D&ust=1539189669552000).
 
-![](/assets/investigations/Talbiseh/image34.jpg)
+![](../assets/investigations/Talbiseh/image34.jpg)
 
 موقع تلبيسة في ريف حمص الشمالي
 
-![](/assets/investigations/Talbiseh/image14.jpg)
+![](../assets/investigations/Talbiseh/image14.jpg)
 
 موقع تلبيسة بين مدينتي الرستن وحمص
 
-![](/assets/investigations/Talbiseh/image35.jpg)
+![](../assets/investigations/Talbiseh/image35.jpg)
 
 صورة من الأقمار الصناعيّة لمدينة تلبيسة
 
 في 30 أيلول/ سبتمبر 2015 نشرت قناة أخبار تلبيسة مقطع [فيديو](https://www.youtube.com/watch?v%3DKqEtOd5Mypg&sa=D&ust=1539189669554000) للحظة وصول المراسل بعد الغارة الجوية المزعومة إلى مكان سقوط الصواريخ الفراغيّة والبدء بعمليّات الإنقاذ وفقًا للمصدر الذي التقط مقطع الفيديو.
 
-![](/assets/investigations/Talbiseh/image1.png)
+![](../assets/investigations/Talbiseh/image1.png)
 
 بعد ساعات قليلة من الفيديو الأول؛ نشرت القناة نفسها [فيديو](https://www.youtube.com/watch?v%3DpPfe3S5vvMc&sa=D&ust=1539189669554000) يُظهر عمليات الإنقاذ، آثار  الدمار وقتلى نتيجة للغارة.
 
 في 30 أيلول\\سبتمبر 2015، نشرت قناة تجمّع ثوّار سوريا على يوتيوب [فيديو](https://www.youtube.com/watch?v%3D66G9nXb1oCA&sa=D&ust=1539189669555000) للحظات الأولى من الغارات التي شنّها الطيران الحربي الروسي على أحياء المدينة، حسبما ادّعى المصدر الذي التقط مقطع الفيديو.
 
-![](/assets/investigations/Talbiseh/image12.png)
+![](../assets/investigations/Talbiseh/image12.png)
 
 صورة لموقع الغارة ونلاحظ برج المياه على يمين الصورة
 
 نشرت قناة "المكتب الإعلامي -تجمّع ثوار سوريا حمص الريف الشمالي "في اليوم ذاته [فيديو](https://www.youtube.com/watch?v%3DO4cP-FUFQrY&sa=D&ust=1539189669556000) على اليوتيوب يُظهر اللحظات الأولى من الغارات الجوية التي نفذها طيران روسي وفقًا لادّعاء المصدر الذي التقط الفيديو. يظهر المقطع أيضًا موقع التأثير، الأضرار في مباني المدنيين وعمليّات الإنقاذ.
 
 
-![](/assets/investigations/Talbiseh/image13.png)
+![](../assets/investigations/Talbiseh/image13.png)
 
 موقع الغارة في مدينة تلبيسة، ونشاهد مجدّداً برج المياه في الفيديو، كما يظهر أدناه
 
-![](/assets/investigations/Talbiseh/image17.png)
+![](../assets/investigations/Talbiseh/image17.png)
 
 ## متى وقع الهجوم؟
 
@@ -68,75 +68,75 @@ image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 
 كما [نشر المركز](http://www.vdc-sy.info/pdf/reports/1444252328-Arabic.pdf)أسماء ثمانية عشر شخصًا قُتلوا نتيجة للغارات الجوية، بمن فيهم أطفال.
 
-![](/assets/investigations/Talbiseh/image21.png)
+![](../assets/investigations/Talbiseh/image21.png)
 
 
 ## تحديد المعالم البارزة والموقع الجغرافيّ
 
 نشرت شبكة تلبيسة مباشر في 30 أيلول 2015 مقطع [فيديو](https://www.youtube.com/watch?v%3DlQNhP6G0u7s&sa=D&ust=1539189669559000) يظهر تصاعد الدخان نتيجة لغارات جوية استهدفت مدينة تلبيسة، كما يمكن رؤية مئذنة جامع أمام الموقع المستهدف. تبيّن لفريق التحقيقات مفتوحة المصدر في الأرشيف السوريّ أنّها تعود [لجامع الإيمان والرحمة](https://goo.gl/maps/43Sk5FnU9Cs) شرقي المدينة.
 
-![](/assets/investigations/Talbiseh/image11.png)
+![](../assets/investigations/Talbiseh/image11.png)
 
 أدناه صورة [نُشرت على خرائط جوجل](https://goo.gl/maps/iZSk24sNV1F2)، تُظهر مئذنة جامع الإيمان والرحمة وتبدو من خلفها مئذنة جامعٍ ثانٍ.
 
-![](/assets/investigations/Talbiseh/image36.png)
+![](../assets/investigations/Talbiseh/image36.png)
 
 صورة أخرى [نُشرت على خرائط جوجل](https://goo.gl/maps/CSHK4ByDq9R2) تُظهر جامع الإيمان والرحمة إضافة إلى برج المياه.
 
-![](/assets/investigations/Talbiseh/image4.png)
+![](../assets/investigations/Talbiseh/image4.png)
 
 أدناه صورة أقمار صناعية من جوجل إيرث [يظهر فيها برج المياه، مدرسة، الجامع الثاني والثالث في منطقة الهجوم](https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000) وهي نفسها المعالم البارزة الظاهرة في مقطع الفيديو المشار إليه أعلاه.
 
-![](/assets/investigations/Talbiseh/image8.jpg)
+![](../assets/investigations/Talbiseh/image8.jpg)
 
 صورة من الأقمار الصناعيّة تبيّن مواقع برج المياه، الجامع الثاني في الجنوب الشرقي، والمسجد الثالث، الذي ليس له مئذنة، في الشمال الشرقي.
 
-![](/assets/investigations/Talbiseh/image19.png)
+![](../assets/investigations/Talbiseh/image19.png)
 
 
 نشر [راديو الكُلّ](https://www.youtube.com/watch?v%3Do233wvp_3AA&sa=D&ust=1539189669564000) مقطع فيديو بعد سنة من الهجوم، يظهر الأضرار التي لحقت [بالمسجد الثاني](https://www.google.com.tr/maps/@34.843604,36.7278948,981m/data%3D!3m1!1e3&sa=D&ust=153918817118600).
 
 فيما يلي تحديد الموقع الجغرافي لبرج المياه إلى اليمين، والمسجد الثالث، من دون مئذنة، إلى اليسار. يمكن تقدير قرب مكان الاستهداف من المعلمين تبعًا لحركة المصوّر والدخان المتصاعد.
 
-![](/assets/investigations/Talbiseh/image33.jpg)
+![](../assets/investigations/Talbiseh/image33.jpg)
 
 في مقطع [الفيديو](https://www.youtube.com/watch?v%3DO4cP-FUFQrY&sa=D&ust=1539189669565000) المنشور من قبل "المكتب الإعلامي -تجمّع سوريا حمص الريف الشمالي"؛ تظهر مئذنة المسجد الثاني للحظة، مما يُبيّن مدى قرب الموقع المستهدف من المسجد.
 
-![](/assets/investigations/Talbiseh/image10.png)
+![](../assets/investigations/Talbiseh/image10.png)
 
 
 بمقارنة هذه الصور مع المعالم البارزة؛ نستطيع تحديد مسار المصوّر بدقة.
 
 يظهر سور مدرسة إلى يسار المصور قريبًا من مكان الاستهداف
 
-![](/assets/investigations/Talbiseh/image28.png)
+![](../assets/investigations/Talbiseh/image28.png)
 
 ويظهر بعده بناء المدرسة على شكل حرف L مدمّر جزئيًا
 
-![](/assets/investigations/Talbiseh/image30.png)
+![](../assets/investigations/Talbiseh/image30.png)
 
 
-![](/assets/investigations/Talbiseh/image20.jpg)
+![](../assets/investigations/Talbiseh/image20.jpg)
 
 بعد مطابقة الفيديو مع صور الأقمار الصناعيّة ومحاولة ربطها؛ تمكّن فريق التحقيقات مفتوحة المصدر في الأرشيف السوري من تحديد موقع المدرسة المدمّرة جزئيًا ذات البناء على شكل حرف L حيث يقع الجامع الثاني، والذي تظهر مئذنته بوضوح، إلى الجنوب الشرقي منها؛ وبرج المياه إلى الجنوب الغربي منها.
 
-![](/assets/investigations/Talbiseh/image8.jpg)
+![](../assets/investigations/Talbiseh/image8.jpg)
 
 توضّح الصورة أدناه مسار المصوّر من [فيديو](https://www.youtube.com/watch?v%3DO4cP-FUFQrY&sa=D&ust=1539189669567000) تجمّع ثوّار سوريا
 
-![](/assets/investigations/Talbiseh/image29.jpg)
+![](../assets/investigations/Talbiseh/image29.jpg)
 
 بعد تحديد مسار المصوّر، والمعالم البارزة من جامع الرحمة والإيمان، الجامع الثاني ذو المئذنة، والجامع الثالث الذي ليست له مئذنة، إضافة إلى برج المياه الذي يعلو قلعة تلبيسة نستطيع [تحديد المكان المستهدف بدقّة](https://www.google.com.tr/maps/@34.8448492,36.7315971,103m/data%3D!3m1!1e3&sa=D&ust=1539189669568000) وهو:
 
-![](/assets/investigations/Talbiseh/image2.jpg)
+![](../assets/investigations/Talbiseh/image2.jpg)
 
 تظهر جميع المعالم البارزة التي تم تحديدها في صورة الأقمار الصناعيّة التالية من جوجل إيرث، والملتقطة بتاريخ 17/07/2015:
 
-![](/assets/investigations/Talbiseh/image5.png)
+![](../assets/investigations/Talbiseh/image5.png)
 
 فيما يلي صورتا أقمار صناعية (التُقطت الأولى في 17 نوفمبر 2013، والثانية في 30 مايو 2016) توضّحان الأضرار اللاحقة بالمباني نتيجة للغارة الجوية.
 
-![](/assets/investigations/Talbiseh/talbiseh-before-after-updated.png)
+![](../assets/investigations/Talbiseh/talbiseh-before-after-updated.png)
 
 لاحقاً وبعد الغارة، تحدّثت عدّة مصادر عن استهداف الطيران الحربي لنفس موقع الغارة الأولى مرّة ثانية أثناء عمليّات الإنقاذ، حيث نشر العديد من الناشطين والشبكات الإخباريّة صوراً وأخباراً عن ضحايا وجرحى مدنيّين وقعوا جرّاء الغارات الجوية على مدينة تلبيسة، ونُفّذ القصف الثاني من قبل الطيران الروسي أيضًا بحسب بعض الشبكات الإعلاميّة.
 
@@ -150,7 +150,7 @@ image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 
 نشرت صفحة الشبكة السوريّة لحقوق الإنسان صورة لطفلين قُتلا نتيجة للغارات على مدينة تلبيسة وهما الطفلان أحمد ويامن محمد الجمعة.
 
-![](/assets/investigations/Talbiseh/image7.png)
+![](../assets/investigations/Talbiseh/image7.png)
 
 في اليوم ذاته؛نشرت قناة أخبار تلبيسة فيديوهات لبعض المصابين، من بينها [فيديو لطفل](https://www.youtube.com/watch?v%3DiW_PfDoR-60&sa=D&ust=1539189669572000) مصاب بشظايا جرّاء الغارات، ومقطع [فيديو لشاب](https://www.youtube.com/watch?v%3DGMU54aiGSDA&sa=D&ust=1539189669572000) مُصاب أثناء تلقيه العلاج بعد أن أُخرج من تحت الأنقاض،  كما نشرت القناة [فيديو](https://www.youtube.com/watch?v%3DwUMWd_vmr1E&sa=D&ust=1539189669572000) يظهر إحدى مشافي مدينة تلبيسة الميدانية مزدحمةً بالمصابين والجرحى جرّاء الغارات.
 
@@ -166,7 +166,7 @@ image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 
 نشر حساب القوات المسلحة للاتحاد الروسي VK [خريطة](https://vk.com/wall-3457550_23655) تبين مناطق سيطرة تنظيم داعش وجبهة النصرة. إن الموقع الذي استهدفته الغارات الجوية في مدينة تلبيسة لا يقع ضمن المنطقة الخضراء، ما يعني أنه غير خاضع لأي من سيطرة تنظيم داعش أو جبهة النصرة.
 
-![](/assets/investigations/Talbiseh/0_140082_4067e5d2_orig.jpeg)
+![](../assets/investigations/Talbiseh/0_140082_4067e5d2_orig.jpeg)
 
 ## خاتمة
 

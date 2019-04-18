@@ -3,7 +3,7 @@ layout: investigation.html
 title: "ضربات كيماوية في اللطامنة"
 date: 2018-01-17
 desc: "تحقيق طلّابي مفتوح المصدر حول حادثتي الكيماوي في 25 و 30 مارس 2017"
-image: /assets/investigations/hrc_cover.png
+image: ../assets/investigations/hrc_cover.png
 ---
 في 18 كانون الثاني - يناير 2018؛ نشرت وحدة تحقيقات حقوق الإنسان في جامعة بيركلي (HRC Lab)، أحد شركاء الأرشيف السوري، نتائج تحقيق مفتوح المصدر يتعلق بهجومين على بلدة اللطامنة في مارس 2017 استُخدم فيهما السلاح الكيماوي.
 
@@ -16,4 +16,4 @@ image: /assets/investigations/hrc_cover.png
 أٌطلقت وحدة تحقيقات حقوق الإنسان (HRC Lab) في عام 2016 كجزء من مركز حقوق الإنسان في برنامج التكنولوجيا وحقوق الإنسان في جامعة بركلي.  تم تقديم الإرشاد والتوجيه للطلاب من قبل الأرشيف السوري؛ فضلًا عن المساعدة في التحليل والإرشاد التقني.
 
 للاطلاع على التقرير كاملًا باللغة الإنكليزية، أدناه:
-[Download the full report as .pdf](/assets/hama/Syrian_Archive_Hama_Report_Final.pdf)
+[Download the full report as .pdf](../assets/hama/Syrian_Archive_Hama_Report_Final.pdf)

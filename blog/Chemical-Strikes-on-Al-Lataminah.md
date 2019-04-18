@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Chemical Strikes on Al-Lataminah"
 date: 2018-01-17
 desc: "25 & 30 March 2017: A Student-Led Open Source Investigation"
-image: /assets/investigations/hrc_cover.png
+image: ../assets/investigations/hrc_cover.png
 ---
 On 18 January 2018, the Berkeley Human Rights Investigation Lab (HRC Lab), partner to the Syrian Archive, published findings of an open-source investigation regarding two attacks on al-Lataminah in March 2017 involving the use of chemical weapons.
 
@@ -16,4 +16,4 @@ By targeting a medical facility in one attack and utilising chemical weapons for
 The Human Rights Investigations Lab (HRC Lab) was launched in 2016 as part of the Human Rights Center at UC Berkeley's Technology and Human Rights Program. Students were provided with mentorships and guidance from the Syrian Archive, as well as assisting with analysis and technical guidance.
 
 The full report is available below:
-[Download the full report as .pdf](/assets/hama/Syrian_Archive_Hama_Report_Final.pdf)
+[Download the full report as .pdf](../assets/hama/Syrian_Archive_Hama_Report_Final.pdf)

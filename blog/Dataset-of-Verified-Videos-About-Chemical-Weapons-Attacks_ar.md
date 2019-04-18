@@ -3,7 +3,7 @@ layout: investigation.html
 title: "قاعدة بيانات بالهجمات الكيماوية ضد المدنيين في سوريا"
 date: 2016-12-13
 desc: "بيان حول الأدلة البصرية التي جمعها الأرشيف السوري كقاعدة بيانات عن الهجمات الكيماوية ضد المدنيين في سوريا"
-image: /assets/investigations/cw-attacks.png
+image: ../assets/investigations/cw-attacks.png
 ---
 
 
@@ -33,7 +33,7 @@ image: /assets/investigations/cw-attacks.png
 
 استخدمنا ملف اكسل للقيام بهذه العملية كما نرى في الأسفل.
 
-![screenshot](/assets/csv.png)
+![screenshot](../assets/csv.png)
 
 أضفنا معلومات بعد التحقق من البيانات كنوع السلاح المستخدم أو نوع الغاز السام المستخدم في حال توافر الأدلّة من قبل المنظمات الحقوقية والإنسانية.
 
@@ -98,7 +98,7 @@ image: /assets/investigations/cw-attacks.png
 
 نلاحظ من خلال الضغط على سنة 2015 في الخريطة استخدام الأسلحة الكيماوية في 25 موقع مختلف، و ثلاث مواقع مختلفة في سنة 2016\.
 
-![screenshot](/assets/attacks2015.png)
+![screenshot](../assets/attacks2015.png)
 
 حلّل فريق "الأرشيف السوري" البيانات أيضا عن طريق اظهارها بالرسم البياني التالي:
 
@@ -110,15 +110,15 @@ image: /assets/investigations/cw-attacks.png
 
 حلّل فريق "الأرشيف السوري" النص الموجود على عناوين 392 فيديو لإظهار أغلب المفردات المستخدمة. يوضح الشكل التالي أكثر الكلمات المستخدمة:
 
-![screenshot](/assets/cloud_ar.png)
+![screenshot](../assets/cloud_ar.png)
 
 استخدمت كلمة "القصف" في117 فيديو من أصل 392، استخدمت كلمة "الكيماوي" في 96 فيديو من أصل 392، وكلمة "السامة" 93 مرة وكلمة "كلور" 82 مرة كما نرى في الأسفل:
 
-![screenshot](/assets/list_ar_words.png)
+![screenshot](../assets/list_ar_words.png)
 
 استخدمت كلمة "القصف الكيماوي" 62 مرة وكلمة "الغازات السامة" 52 مرة كما نرى في الأسفل:
 
-![screenshot](/assets/list2_ar_words.png)
+![screenshot](../assets/list2_ar_words.png)
 
 ## خاتمة
 

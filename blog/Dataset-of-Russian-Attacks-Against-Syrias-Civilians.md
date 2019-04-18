@@ -2,7 +2,7 @@
 title: "Dataset of Russian Attacks Against Syria's Civilians"
 date: 2016-05-13
 desc: "Dataset of Russian Attacks Against Syria's Civilians"
-image: /assets/investigations/russian-attacks.png
+image: ../assets/investigations/russian-attacks.png
 ---
 
 The Syrian Archive maintains an extensive video database of all known allegations in which civilians have been reported killed or injured by Russia since September 30th 2015.\
@@ -37,11 +37,11 @@ Below you can see an interactive timeline to filter the attacks which happened b
 
 We can see from the timeline that **506 videos **have been captured in **October 2015** by citizen reporters as evidence of alleged Russian attacks against civilians.
 
-![screenshot](/assets/timeline_russianattacks.png)
+![screenshot](../assets/timeline_russianattacks.png)
 
 We can also see below that there were videos captured in **March 2016** by citizen reporters as evidence of alleged Russian attacks against civilians which means that Russia has possibly violated the ceasefire truce agreement in Syria that started in 27th February 2016. [The Syrian Network for Human Rights has a full report about this here.](http://sn4hr.org/blog/2016/03/15/19396/)
 
-![screenshot](/assets/timelinemarch.png)
+![screenshot](../assets/timelinemarch.png)
 
 ## Reports on Russian attacks on Syria's civilians
 
@@ -70,7 +70,7 @@ Some of the sources are citizen reporters such as Yasser Doumany, who since 2011
 
 After extracting data from around 98 sources which contained thousands of videos, we filtered their materials to extract those videos which refer to Russian attacks against civilians.
 
-![screenshot](/assets/sheet.png)
+![screenshot](../assets/sheet.png)
 
 ### Third: Verifying the location
 
@@ -103,16 +103,16 @@ Below are factors which indicate that attacks were Russians, not Syrian regime a
 
 The first [video is by the source abnhoran hariri](https://syrianarchive.org/en/database?term=cluster%20bombs%20was%20delivered%20by%20Russian%20aircraft%20flying%20over%20the%20western%20Aleppo&unit=efd4dd2f)
 
-![screenshot](/assets/cluster1.png)
+![screenshot](../assets/cluster1.png)
 
 and the [second video is by Aleppo civil defense](https://syrianarchive.org/en/database?term=The%20civil%20defense%20defuse%20a%20cluster%20bomb%20fired%20by%20a%20Russian&unit=7efa8e82)
 
-![screenshot](/assets/cluster2.png)
+![screenshot](../assets/cluster2.png)
 
 **B. Observatory workers are intercepting the communication of flights spoken orders**, which were given in Russian. There are about 50 observatories from Qalamoun in Damascus Countryside to Aleppo. Some of them were able to detect messages while taking off from the military airports such as Hmeim airbase.\
 The violation documentation center (VDC)obtained some of [the recordings such as this one](https://www.youtube.com/watch?v=EmWcfssz9r0) where it says: "I did the first. In a few minutes I will execute the second." And [here is another recording](https://www.youtube.com/watch?v=sa9LqFMk9mg). Below is a photo of the devices that has been sent to VDC.
 
-![screenshot](/assets/vdc.png)
+![screenshot](../assets/vdc.png)
 
 Also there are interviews with observatory workers explaining how they work on monitoring Russian airstrikes. [This is one of the videos that has been recorded by Step News Agency with the observatory office 80 and the observatory Abu Faisal](https://syrianarchive.org/en/database?term=Interview%20to%20the%2080%20observatory%20and%20Abu%20Faysal%20observatory%20in%20Hama%20province&unit=65f239d0) in Hamah country side.
 
@@ -132,9 +132,9 @@ Two YouTube channels have been removed which contained **104 videos** as evidenc
 
 Some videos have been removed from International human rights organisation's reports and maps such as Physicians for Human Rights which is documenting attacks on health care including Russian attacks. This is an example of one of their removed videos that show an attack on Benin ambulance by a Russian airstrike. We don't know the exact reasons of why and how the videos were removed from YouTube or Facebook. Below is the PHR removed video on the Map of attacks on health case in Syria
 
-![screenshot](/assets/phr.png)
+![screenshot](../assets/phr.png)
 
-![screenshot](/assets/yt1.png)
+![screenshot](../assets/yt1.png)
 
 ## Submitting videos
 

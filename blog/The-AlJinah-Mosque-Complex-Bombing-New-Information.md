@@ -2,7 +2,7 @@
 title: "The Al-Jinah Mosque Complex Bombing"
 date: 2017-04-19
 desc: "An investigation about Al-Jinah Mosque Bombing"
-image: /assets/11j.width-800.png
+image: ../assets/11j.width-800.png
 ---
 
 \_Live URL of this investigation is on the [Bellingcat website](https://www.bellingcat.com/) from April 18th 2017. \_\_Bellingcat exchanged information with Forensic Architecture and Human Rights Watch. Both of which carried out separate investigations into the attack. All multimedia information has been [archived by the Syrian Archive.](https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D8%A9&after=2017-03-15&before=2017-03-19)\_
@@ -47,27 +47,27 @@ The Sayidina Omar ibn al-Khattab mosque is located around 1.5 kilometers southwe
 
 The mosque complex's original contractor and care-taker, who was also wounded in the strike, has been interviewed by Forensic Architecture. The upper floor in the northern part of the complex, he claims, contained the living space for the Imam, whose wife was at home and killed in the strike.
 
-![j01.png](/assets/j01.width-800.png)
+![j01.png](../assets/j01.width-800.png)
 
 The ground floor of the northern section included a ritual wash room, toilets, a kitchen, and the Winter prayer hall.
 
-![02j.png](/assets/02j.width-800.png)
+![02j.png](../assets/02j.width-800.png)
 
 A video recorded during the construction of the mosque and [published on YouTube in November 2014](https://www.youtube.com/watch?v=SOdP6FbrFzQ), confirms the use of each room, such as the ritual wash room (4:37-4:54), the toilets (4:54-5:16), the Winter prayer hall (5:21-5:27), and the kitchen (5:37-5:57).
 
-![03j.png](/assets/03j.width-800.png)
+![03j.png](../assets/03j.width-800.png)
 
-![04j.png](/assets/04j.width-800.png)
+![04j.png](../assets/04j.width-800.png)
 
 There are several important features in the video of what used to be the north area. It is worth pointing out is that the winter prayer hall had two openings. One, facing the west-east corridor, was closed off, and the other was open as is visible in the video. The main prayer hall had sliding doors and non-moveable windows, showing that the two sections of the building were connected by doorways. The video also shows that even during the earlier phases of the construction, the mosque complex, including the prayer hall, was used by locals.
 
 The ground floor contained the main prayer hall in the southern side of the building, confirming Bellingcat's initial research. Forensic Architecture has made a 3D model of the mosque complex. Several aspects indicate the building is indeed a mosque, such as the shelves for worshippers' shoes, the rugs and the *mihrab*, where the Imam leads the prayer and indicates the direction to the Kaaba in Mecca.
 
-![05j.png](/assets/05j.width-800.png)
+![05j.png](../assets/05j.width-800.png)
 
 The 2014 video also shows worshippers in front of the same *mihrab*. Other features visible in the videos also match, confirming this is the same location.
 
-![06j.png](/assets/06j.width-800.png)
+![06j.png](../assets/06j.width-800.png)
 
 ## The Exterior
 
@@ -75,11 +75,11 @@ Two videos showing the mosque complex before the strike happened have been obtai
 
 The first video shows that the *athan* speaker, used for the call for prayer, is visible on the roof of the mosque. A sign next to the entrance reads "Sayidina Omar Ibn al-Khattab mosque". It is worth noting that this sign is in the very same position as seen in post-strike photos and videos.
 
-![07j.png](/assets/07j.width-800.png)
+![07j.png](../assets/07j.width-800.png)
 
 The second video starts with several photographs of the mosque complex under construction.
 
-![08j.png](/assets/08j.width-800.png)
+![08j.png](../assets/08j.width-800.png)
 
 \#\#The Activities in the Mosque
 \#\# The Tablighi Jamaat
@@ -88,7 +88,7 @@ Individuals featured in open source videos showing the aftermath of the attack c
 
 The pre-strike video showing the mosque under construction was uploaded by a group that appears to be affiliated with the Tablighi Jamaat, as its title is "Centre for Tablighi Da'wah in the Levant".
 
-![09j.png](/assets/09j.width-800.png)
+![09j.png](../assets/09j.width-800.png)
 
 Some individuals shown in the video, as well as Bilal Abdul Kareem, a controversial reporter for a small media outlet called *On the Ground News*, confirmed the account that the mosque was used by Tablighi Jamaat, which reportedly held religious lectures each Thursday. These accounts are corroborated with a reporter of [Anadolu Agency](http://aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%82%D8%AA%D9%84%D9%89-%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D9%85%D9%86-%D8%A3%D8%AA%D8%A8%D8%A7%D8%B9-%D8%AC%D9%85%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D8%A8%D9%84%D9%8A%D8%BA-%D9%88%D9%84%D9%8A%D8%B3%D9%88%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D8%A9/773921), and testimonies collected by Human Rights Watch:
 
@@ -122,25 +122,25 @@ The strike targeted the northern side of the building, just as a religious semin
 
 Two large craters in the north part of the building have been identified by Forensic Architecture. Munition experts have confirmed to them that these craters are consistent with two 500-pound bombs.
 
-![010j.png](/assets/010j.width-800.png)
+![010j.png](../assets/010j.width-800.png)
 
-![011j.png](/assets/011j.width-800.png)
+![011j.png](../assets/011j.width-800.png)
 
 As the bombs hit the northern part of the building, resulting in the total collapse of it, a large number of people started to flee the building, according to eyewitnesses interviewed by Human Rights Watch and Forensic Architecture. As they escaped outside, they were targeted by several smaller missiles.
 
-![012j.png](/assets/012j.width-800.png)
+![012j.png](../assets/012j.width-800.png)
 
-![013j.png](/assets/013j.width-800.png)
+![013j.png](../assets/013j.width-800.png)
 
 A US official later told a Washington Post reporter that Hellfire missiles were used in the attack.
 
 Mohammad Halak, director of the Syrian Civil Defence's western rural Aleppo sector, told Forensic Architecture that he saw around twenty to thirty dead bodies scattered between the mosque complex and the road. His account is confirmed by other witnesses. Mr. Halak told Forensic Architecture where they found victims in the rubble, including the location where they pulled out the 14-year old Mohammad Orabi, who later died of his injuries. That rescue attempt was filmed by Thiqa Agency.
 
-![015j.png](/assets/015j.width-800.png)
+![015j.png](../assets/015j.width-800.png)
 
 Markings on the road that indicate the traces of a Hellfire missile are also visible in open source multimedia information, and have been visualised in the 3D model of Forensic Architecture. The pattern is identifiable by its distinct fragmentation pattern and by shrapnel found nearby, Forensic Architecture asserts.
 
-![016j.png](/assets/016j.width-800.png)
+![016j.png](../assets/016j.width-800.png)
 
 In total, 38 bodies were recovered from the site according to the Syrian Civil Defence, who published 28 names of those who could be identified by relatives. Ten bodies were not identified, Human Rights Watch writes.
 \#\# A Timeline of Open Source Information

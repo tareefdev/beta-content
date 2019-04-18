@@ -3,7 +3,7 @@ layout: investigation.html
 title: "الهجوم الكيميائي على خان شيخون .. الأدلة حتى الآن"
 date: 2017-04-05
 desc: "تحقيق رقمي بالتعاون مع البيلينغ غات حول الهجوم الكيمائي على خان شيخون"
-image: /assets/17758314_1889429741270586_450301894920766305_o.width-800.png
+image: ../assets/17758314_1889429741270586_450301894920766305_o.width-800.png
 ---
 
 في يوم الثلاثاء 4 إبريل 2017 ظهرت فيديوهات وصور من مصادر داخل سوريا تُوضّح ما تم الادعاء بأنه هجوم بالسلاح الكيميائي استهدف [خان شيخون](https://goo.gl/maps/T58PgYZrZ8r) جنوب إدلب.
@@ -74,11 +74,11 @@ image: /assets/17758314_1889429741270586_450301894920766305_o.width-800.png
 
 كان من الممكن تحديد الموقع الجغرافي للحفرة أدناه اعتماداً على الفيديو والصور الواردة  في الأعلى.
 
-![geolocation_1_Khan.png](/assets/geolocation_1_Khan.width-800.png)
+![geolocation_1_Khan.png](../assets/geolocation_1_Khan.width-800.png)
 
 الموقع الجغرافي للحفرة في الأعلى واللقطات التي تم الادعاء بأنها تظهر لحظة حدوث الهجوم الكيميائي، يُوضّح أن موقع الحفرة غير مرئي في هذا الفيديو، لذلك لن تظهر اللقطات الهجوم الكيميائي إذا كان هذا هو الموقع الوحيد الذي وقع فيه الهجوم الكيميائي.
 
-![geolocation](/assets/GE_13-6-2014_video2-4.width-800.png)
+![geolocation](../assets/GE_13-6-2014_video2-4.width-800.png)
 
 موقع ضربة آخر ظهر في فيديو تم نشره من قبل [قناة المركز الصحفي السوري](https://www.youtube.com/channel/UCUuBtxlD8--AB9Q_1LV_Nnw) تم تحديد موقعه الجغرافي أيضاً.
 
@@ -86,7 +86,7 @@ image: /assets/17758314_1889429741270586_450301894920766305_o.width-800.png
 
 <iframe allowfullscreen="" src="https://www.youtube.com/embed/EnZxoLkb474" width="760" height="515" frameborder="0"></iframe>
 
-![geolocation 2](/assets/GE_28-9-2012_2_video.width-800.png)
+![geolocation 2](../assets/GE_28-9-2012_2_video.width-800.png)
 
 على الرغم من أنه قد تم [نشر صور لبقايا الذخيرة المستخدمة على الإنترنت](https://www.facebook.com/maaramediacenter/photos/a.222313004901998.1073741829.221452968321335/239932289806736/?type=3&theater) فإنه لم يتسن بعد التعرف على الذخائر المستخدمة.
 
@@ -98,13 +98,13 @@ image: /assets/17758314_1889429741270586_450301894920766305_o.width-800.png
 
 صحفي من وكالة الأنباء الفرنسية [كان متواجداً عندما حدث الهجوم الكيميائي](http://www.independent.co.uk/news/world/middle-east/syrian-civil-war-chemical-weapons-attack-idlib-hospital-bombed-khan-sheikhoun-gas-sarin-chlorine-a7665816.html) ويمكن تأكيد الضرر الذي حدث في المنطقة بمقارنة [الصور السابقة لها و الملتقطة في ذلك الصباح](https://www.facebook.com/edlibEmc12/photos/pcb.1889429761270584/1889429741270586/?type=3&theater) مع اللقطات التي تم تسجيلها بعد الغارة الجوية. الصور أدناه التقطت قبل وبعد الغارة الجوية. المبنى الكبير في الجانب الأيسر من الصورة انهار جزئياً.
 
-![hadi abdallah 1](/assets/17758314_1889429741270586_450301894920766305_o.width-800.png)
+![hadi abdallah 1](../assets/17758314_1889429741270586_450301894920766305_o.width-800.png)
 
 في الصور أدناه يمكننا رؤية الجانب الآخر من المبنى مع الكتابة الخضراء على الجدار ومدخل مميز، [قبل](https://www.youtube.com/watch?v=I9fWxtN6DQ8) و[بعد](https://www.youtube.com/watch?v=4yLmSJ_X6tk) القصف.
 
-![photo3](/assets/bomb-before-opposite.width-800.png)
+![photo3](../assets/bomb-before-opposite.width-800.png)
 
-![photo 4](/assets/bomb-after-opposite.width-800.png)
+![photo 4](../assets/bomb-after-opposite.width-800.png)
 
 ومن الجدير بالذكر أن أسرّة المستشفيات يبدو أنها تقع في مناطق حفرت تحت الأرض، في حين أن الهيكل المتضرر كان يستخدم للتخزين.
 

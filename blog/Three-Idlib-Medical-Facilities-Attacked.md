@@ -2,7 +2,7 @@
 title: "Three Idlib Medical Facilities Attacked"
 date: 2017-09-19
 desc: "Three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked in airstrikes attributed to Syrian or Russian forces"
-image: /assets/cover-photo-web.width-800.png
+image: ../assets/cover-photo-web.width-800.png
 ---
 
 On 19 September 2017, just four days after the [Astana International meeting establishing Syria's De-Escalation Zones](http://www.aljazeera.com/news/2017/09/final-de-escalation-zones-agreed-astana-170915102811730.html) in many parts of the country, and only days after[the United Nations' Commission of Inquiry presented findings of a fact-finding](http://webtv.un.org/live-now/watch/commission-of-inquiry-on-the-syrian-arab-republic-press-conference/4473491386001) mission confirming the illegal use of chemical weapons and the systemic targeting of medical facilities by the Syrian government in April 2017, three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked in airstrikes attributed to Syrian or Russian forces.
@@ -66,7 +66,7 @@ Additional videos related to this attack are provided below
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 7:00 and 15:00, the period directly before and after the reported attack.
 
-![mn-national-h1.jpg](/assets/19_sept_2017_-_2.width-800.png)\
+![mn-national-h1.jpg](../assets/19_sept_2017_-_2.width-800.png)\
 Through comparing where flights were observed, the time they were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify a flight potentially responsible for the attack (a fixed-wing Russian aircraft), seen circling the immediate vicinity of the geolocated attack site. Previous research has found that circling flights typically indicate target acquisition and/or preparation for imminent attack. Important to note is that while the aircraft type was Russian, it is possible the flight was operated by the Syrian airforce, rather than the Russian airforce, as the Syrian airforce also operates Russian planes.
 
 ## Incident 2: The Rahman hospital in Altah
@@ -162,7 +162,7 @@ Additional video documentation of this incident are provided below:
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 7:00 and 15:00, the period directly before and after the reported attack.
 
-![mn-national-h1.jpg](/assets/19_sept_2017_-_4.width-800.png)\
+![mn-national-h1.jpg](../assets/19_sept_2017_-_4.width-800.png)\
 Through comparing where flights were observed, the time they were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (several fixed-wing Russian aircraft as well as a MiG-23 Flogger), seen circling the immediate vicinity of the geolocated attack site. Previous research has found that circling flights typically indicate target acquisition and/or preparation for imminent attack. Important to note is that while the aircraft type were all Russian, it is possible the flights were operated by the Syrian airforce, rather than the Russian airforce, as the Syrian airforce also operates Russian planes.
 
 ## Incident 3: The Kafranbel Hospital
@@ -221,5 +221,5 @@ Additional video documentation of this incident are provided below:
 4.  Video of [citizen journalist Mustafa Hussein](https://www.youtube.com/watch?v=o2JKLgQyFk0) showing the attack from distance.
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 7:00 and 15:00, the period directly before and after the reported attack.\
-![mn-national-h1.jpg](/assets/19_sept_2017_-_3.width-800.png)\
+![mn-national-h1.jpg](../assets/19_sept_2017_-_3.width-800.png)\
 Through comparing where flights were observed, the time they were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (all fixed-wing Russian aircraft), seen circling the immediate vicinity of the geolocated attack site. Previous research has found that circling flights typically indicate target acquisition and/or preparation for imminent attack. Important to note is that while the aircraft type were all Russian, it is possible the flights were operated by the Syrian airforce, rather than the Russian airforce, as the Syrian airforce also operates Russian planes.

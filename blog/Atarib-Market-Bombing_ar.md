@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف مدنيين في سوق شعبي في الأتارب"
 date: 2017-12-20
 desc: "69 قتيلًا نتيجة غاراتِ جوية استهدفت سوق الأتارب"
-image: /assets/investigations/atarib-1.png
+image: ../assets/investigations/atarib-1.png
 ---
 
 - الموقع: الأتارب (محافظة حلب، سوريا)
@@ -18,7 +18,7 @@ image: /assets/investigations/atarib-1.png
 - الذخائر التي تم تحديدها: غير متوفر
 - المسؤول المحتمل عن الهجوم: القوات الجوية الروسية أو السورية
 
-![Drone image before and after the attack](/assets/investigations/atarib-1.png)
+![Drone image before and after the attack](../assets/investigations/atarib-1.png)
 
 ## مقدمة
 
@@ -26,9 +26,9 @@ image: /assets/investigations/atarib-1.png
 
 في 13 نوفمبر، اليكسندر ايفانوف، المتحدث غير الرسمي باسم قاعدة حميميم الجوية الي تستخدمها روسيا، قام بنفي قيام القوات الجوية الروسية بارتكاب "مجزرة" في موقع مدني في الأتارب. وقد تم نشر هذا في القناة المركزية والناطقة بصفة غير رسمية لمجموعة القوات الروسية المتواجدة في قاعدة حميميم العسكرية على التيليغرام. انظر أدناه
 
-![Telegram post](/assets/investigations/atarib-35.png)
+![Telegram post](../assets/investigations/atarib-35.png)
 
-![Telegram post](/assets/investigations/atarib-36.png)
+![Telegram post](../assets/investigations/atarib-36.png)
 
 
 إن مدينة الأتارب مشمولة في مذكرة التفاهم الدبلوماسية لمنطقة خفض التصعيد والتي تم توقيعها من قبل الدول الراعية لمحادثات أستانة (روسيا،تركيا وإيران) والتي لا تشمل المقرات التابعة لجبهة النصر أو داعش. لقد تم استهداف سوق الأتارب مرتين سابقاً، في 2014 و2016، وفقاً للمواد مفتوحة المصدر وتقارير مجموعات رصد حقوق الإنسان. إذا ما كان التحالف الروسي-السوري قد استهدف منطقة مأهولة بالسكان لا تحوي على وجود عسكري واضح أو هدف عسكري،فإن هذا سيشكل انتهاكاً للقانون الإنساني الدولي.
@@ -57,19 +57,19 @@ image: /assets/investigations/atarib-1.png
 بعد أن أجبر النظام السوري على الخروج من الأتارب في يوليو 2012،تم تشكيل مجلس من الأعيان – يتضمن شيوخ وشخصيات مؤثرة أخرى (مثل الأطباء والمحامين والمثقفين ورجال الدين) – وذلك لتسهيل عملية اتخاذ القرارات من خلال توافق الآراء وضمان تمثيل أوسع لمختلف العائلات. في أكتوبر من ذلك العام،[وافق مجلس الأعيان على تشكيل مجلس ثوري](https://www.youtube.com/watch?v=JqEuY2IRl_I)،وهو جزء من شبكة من مجالس الإدارة المحلية في المناطق الخاضعة لسيطرة المعارضة ليكون بديلاً عن النظام السوري. وتشمل مهامه إدارة المدينة وتأمين الخدمات العامة ويتضمن ذلك إنشاء والإشراف على نظام قضائي محلي ودائرة شرطة،وهذا المجلس فعال حتى تاريخ نشر هذا التقرير.  
 
 في أواخر عام 2013،جاء تنظيم الدولة الإسلامية(داعش) إلى المدينة،ولكن تم اعتباره “ضيفاً غير مدعو،” كما كتب حايد حايد في مقالته [“كيف قاومت مدينتي السورية الدولة الإسلامية وانتصرت”](http://archive.is/7a1Zh)، الذي تم نشره في صحيفة Middle East Eye. تمكنت المقاومة المحلية من دحر جماعة تنظيم الدولة من الأتارب، وفعل الشيء نفسه مع جبهة النصرة المرتبطة بالقاعدة في أوائل عام 2015 عندما حاولت الاستيلاء على المدينة،كما كتب حايد حايد في [تقرير شاثام هاوس](https://www.chathamhouse.org/sites/files/chathamhouse/publications/research/2017-06-01-local-community-resistance-syria-atarib-haid.pdf). تم [نشر العديد من الفيدوهات](https://www.youtube.com/watch?v=UQG_sg9S2JQ&feature=youtu.be) التي يظهر فيها سكان في مدينة الأتارب يتظاهرون ضد جبهة النصرة. ويتولى المجلس المدني حاليا إدارة المدينة وتقديم الخدمات للمدنيين.في [الخريطة أدناه في 13 نوفمبر عام 2017 من لايف يو ماب](https://syria.liveuamap.com/en/time/13.11.2017) تظهر مناطق السيطرة في الشمال السوري،حيث يمكن أن نرى أن الأتارب في وقت الهجوم كانت بعيدة عن أي خط جبهة أو اشتباكات (باللون الأحمر: الحكومة السورية - في الأزرق: قوات المعارضة السورية - في الأصفر: قوات سوريا الديمقراطية - في الأسود: داعش)
-![LiveUMap screenshot](/assets/investigations/atarib-2.png)
+![LiveUMap screenshot](../assets/investigations/atarib-2.png)
 
 ## منطقة خفض التصعيد
 في 4 مايو/أيار 2017، وقعت الدول الراعية لمحادثات الأستانة (روسيا،تركيا،وإيران) [مذكرة تفاهم لإنشاء مناطق خفض تصعيد في سوريا](https://www.youtube.com/watch?v=5cF-gIL8yzk) والتي أصبحت سارية المفعول في 6 مايو 2017. قامت وزارة الدفاع الروسية [بنشر خريطة تظهر](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) المواقع المشمولة في مذكرة التفاهم هذه كما هو واضح أدناه ( مناطق خفض التصعيد باللون الأزرق،داعش باللون الرمادي، والجيش السوري باللون البرتقالي).انظر أدناه:
 
-![Russian MOD video](/assets/investigations/atarib-3.png)
+![Russian MOD video](../assets/investigations/atarib-3.png)
 
-![Map of de-escalation zone](/assets/investigations/atarib-4.png)
+![Map of de-escalation zone](../assets/investigations/atarib-4.png)
 
 
 وشملت هذه المناطق محافظة إدلب، وبعض أجزاء من شمالي محافظة حمص، وبعض أجزاء من المحافظات المجاورة (اللاذقية وحماة وحلب) والغوطة الشرقية بريف دمشق وبعض أجزاء جنوب سوريا.
 
-![Atarib location](/assets/investigations/atarib-5.png)
+![Atarib location](../assets/investigations/atarib-5.png)
 
 في نظرة مكبرة على خريطة وزارة الدفاع الروسية (أعلاه) يظهر بوضوح أن الموقع الذي تم قصفه في مدينة أتارب هو جزء من منطقة خفض التصعيد التي تم الاتفاق عليها خلال محادثات أستانا.
 
@@ -81,7 +81,7 @@ image: /assets/investigations/atarib-1.png
 
 تم تحديد الموقع الجغرافي للفيديو باستخدام صور الأقمار الصناعية المتوفرة،كما يظهر أدناه. يمكن تحديد أربع مباني بالإضافة للمبنى الأزرق. كما يظهر الطريقان اللذان يقودان نحو الشرق بشكل واضح في الفيديو.
 
-![geolocation through DigitalGlobe sattelite imagery](/assets/investigations/atarib-6.png)
+![geolocation through DigitalGlobe sattelite imagery](../assets/investigations/atarib-6.png)
 
 
 المواطن الصحفي مازن الشامي [نشر فيديو](https://www.youtube.com/watch?v=g8_4yF0n5kU) في 13 نوفمبر 2017 يقول فيه: ” مجزرة ارتكبتها القوات الجوية السورية وسط سوق شعبي في مدينة الأتارب في ريف حلب الغربي.أكثر من 20 مدني بعضهم كان يعمل في المتاجر قتلوا نتيجة لثلاث ضربات جوية نفذتها القوات الجوية السورية حيث استهدفت السوق الشعبي ب 6 صواريخ فراغية. فرق الدفاع المدني تأتي إلى السوق لتنقذ المدنيين وتنتشل جثث القتلى من تحت الركام.“
@@ -90,19 +90,19 @@ image: /assets/investigations/atarib-1.png
 
 > ”تعرضت المدينة عصر اليوم الساعة 14:08 لبدء الغارات من الطيران الحربي الروسي مستهدفاً السوق الرئيسي للمدينة بثلاث غارات جوية بمعدل صاروخين في كل غارة أدت الغارات إلى عشرات الشهداء والجرحى وتدمير السوق بالكامل المتضمن أكثر من مئة محل وخروجه عن تقديم الخدمة وما تزال فرق الدفاع المدني تنتشل المدنيين من تحت الأنقاض.“
 
-![facebook post of Atarib media center](/assets/investigations/atarib-7.png)
+![facebook post of Atarib media center](../assets/investigations/atarib-7.png)
 
 [الأتارب 24](https://www.facebook.com/atareb24/?hc_ref=ARQov7mXHuseJZfbZ28jwxjfrAEZZI4_piDNX56ciuvthZxJn6ajPl-poquHl41sE1c&fref=nf)،مجموعة إخبارية محلية أخرى،نشرت أيضاً بلاغات عن الهجوم على صفحتها على فيسبوك من خلال منشورين. عند الساعة 14:11، زعمت هذه المجموعة الإخبارية أن [غارة جوية ثانية](https://www.facebook.com/atareb24/posts/1505253179550687)استهدفت الأتارب. (وقت الرفع بالتوقيت المحلي يمكن الحصول عليه من خلال استخدام محول الختم الزمني.)  
 
-![Atarib 24 - second strike](/assets/investigations/atarib-8.png)
+![Atarib 24 - second strike](../assets/investigations/atarib-8.png)
 
-![Timestamp screenshot](/assets/investigations/atarib-9.png)
+![Timestamp screenshot](../assets/investigations/atarib-9.png)
 
 بعد ذلك بوقت قصير، عند الساعة 12:13 بالتوقيت المحلي، الأتارب 24 أشارت إلى وقوع [ضربة جوية ثالثة](https://www.facebook.com/atareb24/posts/1505254219550583).
 
-![Atarib 24 - third strike](/assets/investigations/atarib-10.png)
+![Atarib 24 - third strike](../assets/investigations/atarib-10.png)
 
-![Timestamp screenshot](/assets/investigations/atarib-11.png)
+![Timestamp screenshot](../assets/investigations/atarib-11.png)
 
 تم رفع فيديوهين من كاميرا داشكام على صفحة الفيسبوك الخاصة ب ”تنسيقية الثورة السورية في مدينة الأتارب وقراها.“
 
@@ -112,7 +112,7 @@ image: /assets/investigations/atarib-1.png
 
 من الممكن تأكيد موقع السيارة التي تتجه جنوباً باتجاه [تقاطع الطرق](http://wikimapia.org/#lang=de&lat=36.140117&lon=36.825512&z=19&m=b&show=/37462730/Building-bottom-floors-destroyed-) باستخدام صور الأقمار الصناعية المتوفرة بشكل مفتوح في وسط الأتارب.في الثانية الثامنة من الفيديو،يمكن رؤية تأثير غارة جوية جلياً على هذا المبنى الذي تم القول بأنه [مبنى الشرطة الحرة](http://wikimapia.org/#lang=de&lat=36.139608&lon=36.825335&z=19&m=b&show=/37462730/Building-bottom-floors-destroyed-).
 
-![geolocation of car position](/assets/investigations/atarib-12.png)
+![geolocation of car position](../assets/investigations/atarib-12.png)
 
 [فيديو كاميرا داشكام الثاني](https://www.facebook.com/mohammad.saber.311/videos/822800251223338/)،تم رفعه على الفيسبوك من قبل ”محمد صابر”،ويظهر في هذا الفيديو أيضاً ختم زمني: 13/11/2017 عند الساعة 15:12، وفي حال كان الوقت صحيحاً فإن هذا يظهر لنا لحظة الضربة بعد ثلاث دقائق من الضربة الجوية الأولى على مبنى الشرطة الحرة. وهذا الوقت هو أيضاً وقت الضربة الجوية الثانية على الأتارب التي تم الإبلاغ عن وقوعها اليوم.
 
@@ -120,57 +120,57 @@ image: /assets/investigations/atarib-1.png
 
 باستخدام صور الأقمار الصناعية المتوفرة بشكل مفتوح، قام الأرشيف السوري بتحديد أن هنالك احتمال كبير أن السيارة كانت في الطريق أمام المبنى المتضرر في وقت التسجيل. في الثانية 24 في الفيديو، يمكننا رؤية النيران نتيجة الضربة الجوية التي استهدفت المبنى خلف السيارة. انظر أدناه:
 
-![geolocation of car position](/assets/investigations/atarib-13.png)
+![geolocation of car position](../assets/investigations/atarib-13.png)
 
 لتعزيز هذا التحليل، أجرى فريق الأرشيف السوري مقابلة مع مصدر الفيديو الذي أكد من جديد على الموقع الذي تم تصوير الفيديو فيه مع تحديد الموقع الجغرافي المذكور أعلاه.
 
 للتحقق من وقت [فيديو كاميرا داشكام الثانية](https://www.facebook.com/mohammad.saber.311/videos/822800251223338/)،تم إجراء تحليل لظلال الشمس [باستخدام أداة "سنكالك"](https://www.suncalc.org/#/36.1403،36.8262،19/2017.11.13/14:12/1/2).توقيت الضربة الجوية عند الساعة 14:12 بتوقيت دمشق، يتسق مع ظل المبنى الذي يظهر حيث تم ركن السيارة.
 
 
-![suncalc screenshot](/assets/investigations/atarib-14.png)
+![suncalc screenshot](../assets/investigations/atarib-14.png)
 
 
 [قامت الجزيرة بنشر فيديو](https://twitter.com/AJArabic/status/930276622694891520) عن اللحظة الأولى للهجوم حين سقطت ذخائر جو-أرض على السوق.
 
 
-![twitter post by Al Jazeera](/assets/investigations/atarib-15.png)
+![twitter post by Al Jazeera](../assets/investigations/atarib-15.png)
 
 ## تحديد الموقع الجغرافي لفيديو قناة الجزيرة
 
 تم تحديد الأجسام التالية في فيديو قناة الجزيرة بتقرير لصهيب الخلف. يمكن رؤية أربع ذخائر تم إسقاطها مباشرةً قبل الانفجار في الصورة التالية.
 
-![Munitions identified in Al Jazeera Video](/assets/investigations/atarib-16.png)
+![Munitions identified in Al Jazeera Video](../assets/investigations/atarib-16.png)
 
 يمكن رؤية قبة مسجد بلون أخضر فاتح بالإضافة لمئذنة مسجد في فيديو قناة الجزيرة أيضاً.
 
-![Dome and mosque minaret identified](/assets/investigations/atarib-17.png)
+![Dome and mosque minaret identified](../assets/investigations/atarib-17.png)
 
 
 بما أنه يمكننا رؤية المئذنة نفسها في إطارات متعددة من الفيديو من منظورات متعددة، وفي فيديوهات أخرى حيث يتم إنقاذ المدنيين في أعقاب الهجوم، يصبح من الممكن استخدام هذا كموقع مرجعي لأغراض تحديد الموقع الجغرافي.
 
-![mosque minaret identification](/assets/investigations/atarib-18.png)
+![mosque minaret identification](../assets/investigations/atarib-18.png)
 
 
 ## تحديد الموقع الجغرافي لمئذنة المسجد:
 
 قام فريق الأرشيف السوري بالتواصل مع [المواطن الصحفي محمد شاكردي](https://www.facebook.com/shaf3y90?ref=content_filter)الذي يعيش في الأتارب. في 9 ديسمبر 2017، قام محمد شاكردي بالتقاط صور للمسجد الذي بني حديثاً، والتي بمقارنتها مع صور الأقمار الصناعية الحالية من ديجيتال غلوب،تم تحديد موقعها الجغرافي كما هو ظاهر أدناه:
 
-![mosque geolocation](/assets/investigations/atarib-19.png)
+![mosque geolocation](../assets/investigations/atarib-19.png)
 
 ## تحديد الموقع الجغرافي لقبة المسجد:
 
 تم تحديد الموقع الجغرافي لقبة المسجد ذات اللون الأخضر الفاتح والتي ظهرت في فيديو قناة الجزيرة في مدينة الأتارب، كما يظهر أدناه. وكنتيجة لذلك يمكن التأكيد على أن فيديو قناة الجزيرة الذي تظهر فيه الأجسام الأربعة التي تم إسقاطها باتجاه السوق قد تم تصويره في الأتارب،كما ذكر.
 
-![mosque geolocation](/assets/investigations/atarib-20.png)
+![mosque geolocation](../assets/investigations/atarib-20.png)
 
 قام الأرشيف السوري بتقدير موقع الكاميرا وكذلك الاتجاه الذي واجهته الكاميرا (نحو موقع الضربة) باستخدام غوغل إيرث. انظر أدناه:
 
-![camera direction](/assets/investigations/atarib-21.png)
+![camera direction](../assets/investigations/atarib-21.png)
 
 من أجل التحقق من الوقت الذي تم فيه تصوير فيديو قناة الجزيرة تم إجراء تحليل لظلال الشمس باستخدام أداة SunCalc. توقيت الضربات الجوية، بين الساعة14:08 والساعة 14:12 بتوقيت دمشق، وهذا يتوافق مع ظل قبة المسجد التي تظهر في فيديو قناة الجزيرة. هذا يثبت ما تم الإبلاغ عنه من قبل المواطنين والمراسلين في الأتارب كون الهجوم وقع في 13 نوفمبر،حوالي الساعة 14:08.انظر لقطة شاشة من تحليل سنكالك أدناه:
 
 
-![SunCalc screenshot](/assets/investigations/atarib-22.png)
+![SunCalc screenshot](../assets/investigations/atarib-22.png)
 
 ## المعلومات البصرية (بعد الهجوم):
 
@@ -178,43 +178,43 @@ image: /assets/investigations/atarib-1.png
 
 تمكن فريق الأرشيف السوري من تحديد الموقع الجغرافي لستة أبنية متضررة باستخدام مقطع الفيديو أعلاه وخرائط غوغل إيرث. يشمل ذلك أربعة أبنية في شارع السوق، وبناء في مركز الشرطة الواقع عند مدخل شارع السوق، وبناء أمام مركز الشرطة. يمكن رؤية الأبنية الأربعة في شارع السوق في الصورة أدناه:
 
-![before and after buildings damage](/assets/investigations/atarib-23.png)
+![before and after buildings damage](../assets/investigations/atarib-23.png)
 
 نشرت وكالة "ثقة" الإخبارية [مقطع فيديو آخر](https://www.youtube.com/watch?v=AM0BgZVQGwk) تم تصويره من طائرة بدون طيار في 31 أغسطس 2017 يُظهر السوق قبل الهجوم. مكّن ذلك "الأرشيف السوريّ" من تحديد الأجسام الموجودة في السوق قبل الهجوم وبعده. انظر أدناه:
 
-![before and after drone image](/assets/investigations/atarib-24.png)
+![before and after drone image](../assets/investigations/atarib-24.png)
 
 يظهر الإطاران التاليان السوق نفسه قبل الهجوم وبعده. صُوّر [الإطار الأول من قبل مكتب RFS الإعلامي](https://www.youtube.com/watch?v=FFb8c8N-Au0)  باستخدام طائرة بدون طيار، أما الإطار الثاني فهو من تصوير  [وكالة "ثقة" الإخبارية](https://www.youtube.com/watch?v=0X128QHTd3k) لنفس البناء بعد الغارات الجوية.
 
-![damaged building](/assets/investigations/atarib-25.png)
+![damaged building](../assets/investigations/atarib-25.png)
 
 يمكن تحديد بنائين آخرين من إطارات الفيديو المصوّر من الطائرة بدون طيار قبل الهجوم وبعده. انظر أدناه:
 
-![damaged building](/assets/investigations/atarib-26.png)
+![damaged building](../assets/investigations/atarib-26.png)
 
 نشر مكتب RFS الإعلامي [مقطع فيديو آخر](https://www.youtube.com/watch?v=E6veK2FeGt4) يظهر المدنيين الذين قُتلوا جراء الغارات الجوية، فضلًا عن الدمار في مبنى مركز الشرطة والناجم عن نفس الهجوم. انظر أدناه:
 
-![police entrance](/assets/investigations/atarib-27.png)
+![police entrance](../assets/investigations/atarib-27.png)
 
 تمكن فريق الأرشيف السوري من تحديد الموقع الجغرافي لمبنى مركز الشرطة الظاهر في فيديو وكالة ثقة من خلال خرائط غوغل إيرث، مما يجعله خامس مبنى تمّ تدميره نتيجة للهجوم.
 
-![damaged free police building](/assets/investigations/atarib-28.png)
+![damaged free police building](../assets/investigations/atarib-28.png)
 
 تم تحديد المبنى السادس المتضرّر أمام مبنى الشرطة كما هو مبين أدناه. تمكن فريق الأرشيف السوري من تحديد الموقع الجغرافي لهذا المبنى باستخدام صورة [نُشرت من قبل محمّد شكردي](https://www.facebook.com/shaf3y90?ref=content_filter)، ومقطع فيديو نُشر من قبل  مكتب RFS الإعلامي في 13 نوفمبر 2017.
 
-![damaged building](/assets/investigations/atarib-29.png)
+![damaged building](../assets/investigations/atarib-29.png)
 
 ## الحُفر:
 
 نشرت وكالة RFS الإعلامية [مقطع فيديو يوثّق](https://www.youtube.com/watch?v=E6veK2FeGt4) حفرة ناجمة عن الغارة التي استهدفت الأتارب. [نشرت وكالة فرانس برس مقطع فيديو منفصل](https://www.youtube.com/watch?v=Fdm3YmUopWc) يُظهر الحفرة ذاتها جوار مبنى الشرطة، والمحدّد موقعه جغرافيًا أدناه. تمكن فريق الأرشيف السوري من تحديد الموقع الجغرافي للحفرة الناجمة عن الهجوم باستخدام مقطع فيديو وكالة فرانس برس. انظر أدناه:
 
-![crater identification](/assets/investigations/atarib-30.png)
+![crater identification](../assets/investigations/atarib-30.png)
 
 ## تحليل بيانات الطيران
 
 بغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوري النتائج المستخلصة من مقاطع الفيديو وإفادات الشهود مع بيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية تحليل بيانات رصد الطيران ما بين الساعة 14:00 و 14:30، وهي الفترة الزمنية التي سبقت الهجوم وتلته مباشرة، حيث أُبلغ عنه في 14:07 و 14:12 وفقًا للناشطين الإعلاميين، ولما تم مشاهدته في مقاطع فيديو كاميرات المراقبة. انظر أدناه:
 
-![flight data](/assets/investigations/atarib-31.png)
+![flight data](../assets/investigations/atarib-31.png)
 
 من خلال مقارنة الرحلات الجوية المرصودة، نوع الطائرات المرصودة، الوقت الذي رُصدت به، ووجهات هذه الرحلات، ومقارنة هذه البيانات مع المواقع الجغرافية المقدّمة في الخطوات السابقة؛ تمكّن الأرشيف السوري من تحديد العديد من الرحلات المحتملة المسؤولة عن هذا الهجوم (عدّة طائرات روسية ثابتة الجناح) حيث شوهدت هذه الطائرات تُحلق فوق المنطقة الجغرافية للهجوم. وقد خلصت التحقيقيات السابقة إلى أن الطيران الدائري في السماء عادةً ما يُشير إلى محاولة الاستحواذ على الهدف أو التحضير لهجوم وشيك.
 
@@ -224,9 +224,9 @@ image: /assets/investigations/atarib-1.png
 
  [نشرت لجان التنسيق المحلية - مدينة الأتارب 64 اسمًا](https://www.facebook.com/alatareb.l.c.c2011/) لمدنيين قُتلوا نتيجة لهذا الهجوم. كما نشروا أسماء 4 أشخاص فُقدوا بعده.
 
-![Names of civilians killed](/assets/investigations/atarib-32.png)
+![Names of civilians killed](../assets/investigations/atarib-32.png)
 
-![Names of civilians killed](/assets/investigations/atarib-33.png)
+![Names of civilians killed](../assets/investigations/atarib-33.png)
 
 نٌشرت قائمة أخرى تضم أسماء 69 مدنيًا قُتلوا نتيجة لهذا الهجوم من قبل [سوريون من أجل الحقيقة والعدالة](https://stj-sy.com/en/view/318) كما يتضّح أدناه:
 
@@ -310,7 +310,7 @@ image: /assets/investigations/atarib-1.png
 
 قام فريق الأرشيف السوري بمطابقة الأجسام من فيديو وكالة سمارت نيوز مع الأجسام المُشاهدة في مقطع فيديو التُقط من طائرة بدون طيّار من قبل مكتب RFS الإعلامي قبل الهجوم، ويُمكن رؤية الدمار الحاصل في المبنى من خلال الفيديو الذي نشرته وكالة سمارت نيوز.
 
-![Damages building - matching drone video with video captured after the attack](/assets/investigations/atarib-34.png)
+![Damages building - matching drone video with video captured after the attack](../assets/investigations/atarib-34.png)
 
 كما أُبلغ عن هجومٍ سابق على سوق الأتارب بتاريخ 24 إبريل / نيسان 2014، ونشر مركز توثيق الإنتهاكات تقريرًا عن هذا الهجوم، حيث وثّق 31 اسمًا لمدنيين قتلوا خلال هذا الهجوم. ونشرت قناة "عمر عز الدين" على موقع يوتيوب فيديو عن هجوم على سوق الأتارب يظهر فيه قلتى مدنيون في الشوارع نتيجة لغارات جوية كما أفاد التقرير. كما نشر عامر الفج شريط فيديو آخر يظهر القتلى المدنيين نتيجة هذا الهجوم.
 

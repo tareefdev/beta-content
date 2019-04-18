@@ -2,7 +2,7 @@
 title: "Dataset of Verified Videos About Chemical Weapons Attacks in Syria"
 date: 2016-12-13
 desc: "Dataset of Verified Videos About Chemical Weapons Attacks in Syria"
-image: /assets/investigations/cw-attacks.png
+image: ../assets/investigations/cw-attacks.png
 ---
 
 Since the UN Security Council [adopted Resolution 2118 three years ago](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2118.pdf), outlining the framework for the elimination of chemical weapons in Syria, and despite the Organization for [the Prohibition of Chemical Weapons (OPCW)](https://www.opcw.org/) working to destroy chemical weapons owned by the Syrian government, chemical weapons continue to be used against civilians by government forces and ISIS.
@@ -25,7 +25,7 @@ The Syrian Archive also works with local and international international news ag
 
 The Syrian Archive has collected hundreds of videos indicating attacks against civilians using chemical weapons.
 
-![screenshot](/assets/csv.png)
+![screenshot](../assets/csv.png)
 
 After verifying the video evidence and cross referencing it with other reports about the same incident, additional metadata is added to videos indicating items such as the type of weapon or chemical gas used.
 
@@ -94,7 +94,7 @@ In the map presented above, video evidence occurs most often in Damascus suburbs
 
 By clicking on the year 2015, we can see that there are 25 different locations attacked by chemical weapons. We can also see that in 2016, there are 3 different locations attacked by chemical weapons.
 
-![screenshot](/assets/attacks2015.png)
+![screenshot](../assets/attacks2015.png)
 
 The Syrian Archive has additionally carried out a time-series analysis on its database, whereby the upload dates of video evidence are investigated. See below:
 
@@ -108,11 +108,11 @@ The time-series analysis above demonstrates that the Syrian Archive has visual d
 
 [The Syrian Archive has conducted a text analysis of the titles and descriptions of the](https://www.opcw.org/fileadmin/OPCW/CSP/C-20/en/c2004_e_.pdf)[392 verified videos of chemical weapons](https://syrianarchive.org/en/database?type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons). A visualisation of text analysis is shown below:
 
-![screenshot](/assets/cloud_en.png)
+![screenshot](../assets/cloud_en.png)
 
 The term "weapons," "use," and "illegal" were used in all 392 videos. "Attack" appears in 342 verified videos, and "chemical" appears in 320 verified videos. The terms "casualties" and "gas" appear 182 times and 80 times in verified videos respectively. And the locations "Damascus" and "Idlib" appear 178 times and 97 times in verified videos.
 
-![screenshot](/assets/list_en.png)
+![screenshot](../assets/list_en.png)
 
 ## Conclusion
 

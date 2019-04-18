@@ -2,7 +2,7 @@
 title: "The Khan Sheikhoun Chemical Attack, The Evidence So Far"
 date: 2017-04-05
 desc: "An investigation about The Khan Sheikhoun Chemical Attack"
-image: /assets/17758314_1889429741270586_450301894920766305_o.width-800.png
+image: ../assets/17758314_1889429741270586_450301894920766305_o.width-800.png
 ---
 
 On Tuesday April 4th 2017, videos and images emerged from sources within Syria showing what is claimed to be a chemical weapon attack that targeted [Al Sheikhun](https://goo.gl/maps/T58PgYZrZ8r) south of Idlib.
@@ -74,15 +74,15 @@ Translation -- "Casualties and injured here in Al Shamali district in Khan Sheik
 
 Photos of the impact site were published by [Warsheh group on their facebook page](https://www.facebook.com/permalink.php?story_fbid=1580000705361859&id=1140855475943053).
 
-\[khan\]\[/assets/b1.jpg\]
+\[khan\]\[../assets/b1.jpg\]
 
 Other photos showing the impact site from a different angle were [published by news agencies such as Reuters](https://ichef.bbci.co.uk/news/624/cpsprodpb/9975/production/_95458293_d4234a7b-5817-489f-9e09-e986d4cea8e1.jpg). It was possible to geolocate the crater below based on the video and the photo above.
 
-![geolocation\_1\_Khan.png](/assets/geolocation_1_Khan.width-800.png)
+![geolocation\_1\_Khan.png](../assets/geolocation_1_Khan.width-800.png)
 
 The geolocation of the above crater, and the footage claiming to show the moment the chemical weapon attack occurred, shows that the crater site is not visible in that video, so that footage would not show the chemical attack if this is the only site where a chemical attack occurred:
 
-![geolocation](/assets/GE_13-6-2014_video2-4.width-800.png)
+![geolocation](../assets/GE_13-6-2014_video2-4.width-800.png)
 
 Another impact site that was shown in a video published by the [Syrian journalism Center Youtube channel](https://www.youtube.com/channel/UCUuBtxlD8--AB9Q_1LV_Nnw) was also geolocated
 
@@ -91,7 +91,7 @@ Translation -- 2:20 -- "Residential areas were attacked today. There are no pres
 <iframe allowfullscreen src="https://www.youtube.com/embed/EnZxoLkb474" width="760" height="515" frameborder="0">
 </iframe>
 
-![geolocation 2](/assets/GE_28-9-2012_2_video.width-800.png)
+![geolocation 2](../assets/GE_28-9-2012_2_video.width-800.png)
 
 While images of the remains of a munition have been [shared online](https://www.facebook.com/maaramediacenter/photos/a.222313004901998.1073741829.221452968321335/239932289806736/?type=3&theater) it has not yet been possible to identify the munition used.
 
@@ -104,13 +104,13 @@ In the aftermath of the attack victims were taken to hospitals and clinics, some
 
 A journalist from AFP [was also present when the attack occurred](http://www.independent.co.uk/news/world/middle-east/syrian-civil-war-chemical-weapons-attack-idlib-hospital-bombed-khan-sheikhoun-gas-sarin-chlorine-a7665816.html) and damage to the area can be confirmed by comparing [earlier photographs](https://www.facebook.com/edlibEmc12/photos/pcb.1889429761270584/1889429741270586/?type=3&theater) of the area taken that morning with footage filmed after the airstrike. In the below images, taken before and after the strike, the large building on the left hand side of the image has partly collapsed:
 
-![hadi abdallah 1](/assets/17758314_1889429741270586_450301894920766305_o.width-800.png)
+![hadi abdallah 1](../assets/17758314_1889429741270586_450301894920766305_o.width-800.png)
 
 In the below images we can see the opposite side of the building, with green graffiti and a distinct doorway, [before](https://www.youtube.com/watch?v=I9fWxtN6DQ8) and [after](https://www.youtube.com/watch?v=4yLmSJ_X6tk) the bombing:
 
-![photo3](/assets/bomb-before-opposite.width-800.png)
+![photo3](../assets/bomb-before-opposite.width-800.png)
 
-![photo 4](/assets/bomb-after-opposite.width-800.png)
+![photo 4](../assets/bomb-after-opposite.width-800.png)
 
 It's worth noting that the hospital beds appear to be located in areas dug underground, while the structure damaged was being used for storage.
 

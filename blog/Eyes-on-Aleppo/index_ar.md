@@ -3,7 +3,7 @@ layout: investigation.html
 title: "عين على حلب"
 date: 2017-03-29T00:01:18.055Z
 desc: "عين على حلب: تحليل الأدلّة البصرية لانتهاكات حقوق الإنسان"
-image: /assets/investigations/index-eoa.png
+image: ../../assets/investigations/index-eoa.png
 level: 1
 ---
 

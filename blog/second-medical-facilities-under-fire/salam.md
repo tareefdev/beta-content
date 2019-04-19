@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Bombing Al Salam Medical Facility"
 date: 2018-02-19T00:04:18.055Z
 desc: "Joint report of medical facilities attacked in Idlib"
-image: /assets/anas-alsalam.jpg
+image: ../../assets/anas-alsalam.jpg
 ---
 - Location: Maarat al-Numaan (Idlib governorate, Syria)
 - Claimed targets: Al-Salaam hospital
@@ -12,7 +12,7 @@ image: /assets/anas-alsalam.jpg
 - Reported injured: 10 injured, as reported by Thiqa News Agency
 - Potentially responsible: Russian or Syrian Air Force
 
-![al-salaam](/assets/al-salaam09.jpg)
+![al-salaam](../../assets/al-salaam09.jpg)
 
 ## Background of Maarat al-Numaan
 
@@ -30,7 +30,7 @@ Al Salaam Hospital is a maternity hospital in Maarat al-Numaan founded in 1995. 
 
 Prior to the attack on 3 Jan 2018, the hospital treated approximately 8.000 to 9.000 patients per month. In December of 2017, the [hospital delivered 674 babies](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) and [the total number of beneficiaries](https://www.facebook.com/alsalam.Hospital2/photos/a.390735564429659.1073741860.182840021885882/870621066441104/?type=3) from its services reached 8670 patients, including 1789 in the internal clinic, 3356 in the paediatrics clinic, 2668 in the women's clinics, and hundreds of other patients in different clinics. See below:
 
-![al-salaam00.jpg](/assets/al-salaam00.jpg)
+![al-salaam00.jpg](../../assets/al-salaam00.jpg)
 
 Al Salaam Hospital is the only maternity hospital in Maarat al-Numaan that provided emergency services, medical consultations, as well as deliveries.
 
@@ -42,17 +42,17 @@ On their Facebook page, [SAMS published a video](https://www.facebook.com/sams.a
 
 Thiqa News agency [also published a video on their YouTube channel](https://www.youtube.com/watch?v=kKJi6vdRAmM)  showing the destruction of the hospital. See still below:
 
-![al-salaam01](/assets/al-salaam01.png)
+![al-salaam01](../../assets/al-salaam01.png)
 
 The video includes an interview with one of the medical staff who stated: "Russian aircraft targeted al-Salaam hospital after the Duhur prayer [noon prayer]. The hospital is out of service now as a result of this attack, we have ten injuries, including three children."
 
 Hadi Alabdallah [also published a video](https://www.youtube.com/watch?v=Y6LrgHofQB4) showing destruction of the incubators section of the hospital. See below:
 
-![al-salaam01](/assets/al-salaam02.png)
+![al-salaam01](../../assets/al-salaam02.png)
 
 Another still from the Alabdallah video shows destruction outside of the hospital. The Syrian Archive has identified similar objects between Alabdallahs video and Thiqa News Agency video. See below:
 
-![al-salaam01](/assets/al-salaam11.jpg)
+![al-salaam01](../../assets/al-salaam11.jpg)
 
 In the same video, Alabdallah conducted an interview with one of the hospital doctors who stated: "We were in the operations room when we were surprised by a huge explosion caused by two missiles. We went out immediately to check the casualties. We had five victims and a number of wounded, in addition to extreme physical damage."
 
@@ -60,23 +60,23 @@ RFS Media [also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) 
 
 Maara Media Center (MMC) [published a video](https://www.youtube.com/watch?v=sVU982I06rY) by Mohamed Aldaher showing additional destruction outside of the hospital from a different perspective. See stills below:
 
-![al-salaam01](/assets/al-salaam04.jpg)
+![al-salaam01](../../assets/al-salaam04.jpg)
 
-![al-salaam01](/assets/al-salaam05.png)
+![al-salaam01](../../assets/al-salaam05.png)
 
 The video contains an interview with one of Syria Civil Defence members who stated: "Russian warplanes targeted Maarat al-Numan city with two air strikes targeting al-Salaam hospital and some shops surrounding it. A city inhabited by civilians."
 
 Eye on Homeland (EOH) [published an Additional video](https://www.youtube.com/watch?v=9l9hy36AbZo) on their youtube channel showing the outside of the hospital, where the attack caused destruction of nearby shops surrounding the al-Salaam hospital. See below:
 
-![al-salaam01](/assets/outside01.jpg)
+![al-salaam01](../../assets/outside01.jpg)
 
 The Syrian Archive identified objects contained in both the Maara Media Center video and the Eye on Homeland video to confirm both videos were filmed in the the same location. See below:
 
-![al-salaam01](/assets/al-salaam12.jpg)
+![al-salaam01](../../assets/al-salaam12.jpg)
 
 Edlib Media Center also published a video [showing the first moments after the attack](https://www.youtube.com/watch?v=Ht_bbjEXEUg). See below:
 
-![al-salaam01](/assets/outside07.png)
+![al-salaam01](../../assets/outside07.png)
 
 ## Where did it happen?
 
@@ -84,12 +84,12 @@ Al Jazeera published a video after the attack [showing rubble removal activites 
 
 The Syrian Archive was able to geolocate several landmarks and building using the above video and satellite images, thus confirming that the targeted location was the al-Salaam hospital and its surroundings. The below stills were taken from inside and outside the hospital:
 
-![al-salaam01](/assets/B.png)
-![al-salaam01](/assets/A.png)
+![al-salaam01](../../assets/B.png)
+![al-salaam01](../../assets/A.png)
 
 These landmarks and buildings were then compared with the following satellite image taken from Digital Globe, confirming the location:
 
-![al-salaam01](/assets/BB2.png)
+![al-salaam01](../../assets/BB2.png)
 
 ## When did it happen?
 
@@ -97,17 +97,17 @@ According to some testimonies in the videos above, the airstrike took place afte
 
 At 11:48 AM on 03 January, a citizen reporter, based in Maarat al-Numaan, [Anas Al Marwai, published a video](https://www.facebook.com/100010399271536/videos/543910859298885/) on his Facebook page showing destruction around the al-Salaam hospital. See below:
 
-![al-salaam01](/assets/anas-alsalam.jpg)
+![al-salaam01](../../assets/anas-alsalam.jpg)
 
 Another Citizen reporter Mutie Jalal also [published a tweet](https://twitter.com/shamalmjd1/status/948492991605411840?ref_src=twsrc%5Etfw) at 11:55 AM about the attack, stating: "Two Russian airstrikes on Sarakib and one on Maarat al-Numaan and another one on Muharram."
 
 Hadi Alabdallah [published another video](https://www.youtube.com/watch?v=5LIEMU7tMIQ) showing the destruction of shops around the hospital. See below:
 
-![al-salaam](/assets/al-salaam10.jpg)
+![al-salaam](../../assets/al-salaam10.jpg)
 
 In the same video, Alabdallah stated: "Although it's raining and the sky is full of clouds, the Russian warplanes do not stop flying and bombing the areas of Idlib countryside." Through comparing Alabdallah's description of the weather at the location to recorded data of the [weather on 03 January in Maarat al-Numaan](https://weather.com/en-GB/weather/monthly/l/SYXX0099:1:SY), the Syrian Archive was able to confirm the weather was rainy and cloudy, corroborating claims made in the videos. See below:
 
-![al-salaam01](/assets/al-salaam13.jpg)
+![al-salaam01](../../assets/al-salaam13.jpg)
 
 ## Flight Data Analysis
 

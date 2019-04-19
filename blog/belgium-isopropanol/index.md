@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Belgium illegally shipped 168 tonnes of sarin precursor to Syria"
 date: 2018-04-18
 desc: "Jeff Deutch, additional reporting by Kristof Clerix from Knack"
-image: /assets/port.jpg
+image: ../../assets/port.jpg
 level: 1
 ---
 
@@ -54,7 +54,7 @@ The summons of the lawsuit shows that the Belgian Customs only determined that t
 
 That chronology raises questions, especially bearing in mind public [statements](https://diplomatie.belgium.be/en/newsroom/news/2018/belgium_supports_fight_against_use_of_chemical_weapons) made by the Belgian government last month on the 100th anniversary of the first chemical weapons attack, which took place in Belgium in 1917. The Deputy Prime Minister and Minister of Foreign Affairs Didier Reynders and Minister of Defence Steven Vandeput released a statement that “Belgium condemns the use of chemical weapons by the regime and rebel groups in Syria. These constitute war crimes which must be punished.”
 
-![Belgium Politicians](/assets/politicians.jpg)
+![Belgium Politicians](../../assets/politicians.jpg)
 <small>*Deputy Prime Minister and Minister of Foreign Affairs Didier Reynders and Minister of Defence Steven Vandeput and Ahmet Üzümcü, Director-General of the Organisation for the Prohibition of Chemical Weapons (OPCW)*</small>
 
 In Belgium, the granting of export licenses is a responsibility of the three regions: Brussels, Wallonia and Flanders. Answers received after Freedom of Information Requests show that no export licenses for isopropanol were requested to the Walloon or Brussels authorities since 2013.  

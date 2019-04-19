@@ -1,7 +1,7 @@
 ---
 title: Summary of Findings - Eyes on Aleppo
 date: 2017-03-29T00:01:23.055Z
-image: /assets/investigations/eoa-summary.png
+image: ../../assets/investigations/eoa-summary.png
 ---
 
 The Syrian Archive has collected, securely stored, verified, and make publicly available a total of [1748 videos of human rights violations](https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%84%D8%A8&after=2016-07-01&before=2016-12-31) in Aleppo city and its suburbs committed by all major parties to the conflict in the period between July and December 2016. This section of the report provides a summary of videos disaggregated by**\_ type of violations identified\_**, ***specific munitions identified***, and ***location of where videos were filmed.***
@@ -20,7 +20,7 @@ An analysis of videos of violations disaggregated by the following types of viol
 
 In many cases, videos document several different types of violations. For example, an attack on a hospital with a chemical or incendiary munition could potentially be categorised both as violations against "Specially protected persons and objects" due to the special status of hospitals, as well as a violation of "Use of illegal munitions." For the purpose of clarity, and in order not to misleadingly double-count the number of videos, each video has been categorised under only one type of violation, the dominant violation identified in each video. Returning to categorise specific videos under multiple violation categories is a subject of further research. A summary table of violations by type and date is provided below:
 
-![screenshot](/assets/aleppo1.png)
+![screenshot](../../assets/aleppo1.png)
 
 First of all, arbitrary for forcible displacement were identified in eighteen (18) videos. The February 2017 OHCHR report on the situation in Aleppo found that "as warring parties agreed to the evacuation of eastern Aleppo for strategic reasons - and not for the security of civilians or imperative military necessity, which permit the displacement of thousands - the evacuation agreement amounts to the war crime of forced displacement."
 

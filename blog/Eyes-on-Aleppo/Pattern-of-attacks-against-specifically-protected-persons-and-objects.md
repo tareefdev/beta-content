@@ -1,7 +1,7 @@
 ---
 title: Pattern of attacks against specifically protected persons and objects - Eyes on Aleppo
 date: 2017-03-29T00:01:20.055Z
-image: /assets/investigations/pattern.png
+image: ../../assets/investigations/pattern.png
 ---
 
 This section provides a summary of attacks identified by the Syrian Archive against specially protected persons and objects.
@@ -110,11 +110,11 @@ In [one leaked video](https://www.youtube.com/watch?v=zlL8660ZViQ) of an evacuat
 
 The soldiers are heard speaking in Syrian and Lebanese dialect. The [video has been geolocated](https://goo.gl/maps/A3sqZ2G4Raw)next to Al Ramousah roundabout and 1070 apartments project and though based on witness testimony has been dated to 16 December 2016.
 
-![Aleppo\_evacuation\_2](/assets/Aleppo_evacuation_2.jpg)
+![Aleppo\_evacuation\_2](../../assets/Aleppo_evacuation_2.jpg)
 
 In this [witness testimony video taken](https://www.youtube.com/watch?v=mLN0vOwS4Og) by Aleppo Media Center, Ebrahim Abu Al leith mentions that during the evacuation on 16 December 2016 he was detailed while traveling on a bus to Aleppo countryside. The bus was stopped between Al Ramousa roundabout and 1070 apartments project as seen in the video below:
 
-![Cameralocationofleakedvideo](/assets/Cameralocationofleakedvideo.jpg)
+![Cameralocationofleakedvideo](../../assets/Cameralocationofleakedvideo.jpg)
 
 This confirms what has is shown in the first leaked video, as it is in the same location as the second video. In the second video, Ebrahim mentioned the presence of Hezbollah forces in the location, confirming the Lebanese accent from the first leaked video.
 

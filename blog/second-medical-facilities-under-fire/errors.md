@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Errors, Corrections, and Feedback"
 date: 2018-02-19T00:09:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
-image: /assets/cover-photo-web.width-800.png
+image: ../../assets/cover-photo-web.width-800.png
 ---
 
 The authors of this report have strived for accuracy and transparency of process in reporting and presentation, while balancing the need to protect the safety of those providing documentation in some instances. With these interests in mind, detailed methodologies for some information deemed sensitive have not been published.

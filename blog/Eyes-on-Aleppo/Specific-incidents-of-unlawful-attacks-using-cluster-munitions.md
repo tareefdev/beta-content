@@ -1,7 +1,7 @@
 ---
 title: Specific incidents of attacks using incendiary munitions - Eyes on Aleppo
 date: 2017-03-29T00:01:22.055Z
-image: /assets/investigations/incendiary-1.png
+image: ../../assets/investigations/incendiary-1.png
 ---
 
 This section provides a summary of incidents identified by the Syrian Archive in analysis of its violation database. Incidents to be investigated include those where incendiary munitions were used, those in which cluster munitions were used unlawfully, and those against specifically protected persons and objects.
@@ -58,11 +58,11 @@ A second video the Syrian Archive collected and preserved was published on YouTu
 
 The Syrian Archive collected a photo of Al Salheen gas station [posted on Facebook in October 17, 2013](https://www.facebook.com/409669172457466/photos/a.415330965224620.94847.409669172457466/523157401108642/?type=3&theater). Comparing the photo found with the above first video, it becomes apparent that the gas station attacked in the first video is the same gas station as that of the photo found on Facebook.
 
-![2\_gas\_station](/assets/2_gas_station.jpg)
+![2\_gas\_station](../../assets/2_gas_station.jpg)
 
 We identified the roofs comparing the photo above with the videos we have found online.
 
-![2gasstation](/assets/2gasstation.png)![roofs1](/assets/roofs1.png)
+![2gasstation](../../assets/2gasstation.png)![roofs1](../../assets/roofs1.png)
 
 A third video originally published by Halab News Network on July 9, 2016 and later preserved by the Syrian Archive, features an aircraft involved in the same Al Saleheen attack, as well as the attack's first moments.
 
@@ -71,52 +71,52 @@ A third video originally published by Halab News Network on July 9, 2016 and lat
 
 A still of the aircraft allegedly used in the attack is provided below.
 
-![plane1](/assets/plane1.png)
+![plane1](../../assets/plane1.png)
 
 In this same video, it is possible to identify the bomb falling from the plane onto Al Saleheen, as visible on the still from the video below.
 
-![plane2](/assets/plane2.png)
+![plane2](../../assets/plane2.png)
 
 The Syrian Archive geolocated the position of the citizen journalist who filmed this video - he was first standing in a cemetery in front of \"[Maqam Ibrahim al Salihin,\" as the place is tagged on Wikimapia](http://wikimapia.org/35781586/Maqam-Ibrahim-al-Salihin).
 
 Later, in the same video, the Syrian Archive geolocated another filming position based on the palm trees identified close to the impact site, as seen in the video still below:
 
-![plane3](/assets/plane3.png)
+![plane3](../../assets/plane3.png)
 
 Below is a video and a satellite image that show both positions from the above photos.
 
 <iframe allowfullscreen src="https://www.youtube.com/embed/yIOsBDkx2ZI" width="690" height="445" frameborder="0">
 </iframe>
 
-![HNN\_Video\_CameraPosition.jpg](/assets/HNN_Video_CameraPosition.jpg)
+![HNN\_Video\_CameraPosition.jpg](../../assets/HNN_Video_CameraPosition.jpg)
 
 This same video also shows members of the Syrian Civil Defence (more commonly known as \"the White Helmets') extinguishing the fire at the same gas station identified in the first video. This is visible on the still below.
 
-![10](/assets/10.png)
+![10](../../assets/10.png)
 
 Civilians, including children, are also seen running from the fire at the impact site in the same video, as seen in the following still.
 
-![11](/assets/11.png)
+![11](../../assets/11.png)
 
 On July 9, 2016, Aleppo Media Center additionally published a video on YouTube about the same attack. The Syrian Archive is able to determine this is the same attack due to the burned and damaged gas station appearing in the first video. See frames from video below:
 
-![12](/assets/12.png)
+![12](../../assets/12.png)
 
-![13](/assets/13.png)
+![13](../../assets/13.png)
 
 ## **Cluster munition model**
 
 Through analysing multiple videos, the Syrian Archive was able to identify the specific cluster munition model used in the 9 July 2016 attack. In the same Aleppo Media Center video described above, a man is shown holding a [cluster submunition ShOAB-0.5](http://sovetarmy.2x2forum.com/t222-topic). See video frames below:
 
-![p5](/assets/p5.png)
+![p5](../../assets/p5.png)
 
 The man in the video is heard saying: "There are injured people that we took to the hospital, and we don't know what is going to happen to them. Look at the bombs they are attacking us with, but we will keep staying in Aleppo."
 
-![14](/assets/14.png)
+![14](../../assets/14.png)
 
 The Syrian Archive was able to determine c[luster submunition ShOAB-0.5](http://sovetarmy.2x2forum.com/t222-topic) were used based on diagrams of the munition [freely available online](http://fishki.net/1831321-chto-takoe-rbk-500-shoab-05.html/gallery-2955556/).
 
-![15](/assets/15.png)
+![15](../../assets/15.png)
 
 "ShOAB" stands for Sharikovaya Oskolochnaya Aviatsionnaya Bomba, orspherical fragmentation aircraft bomb\", and describes the fragmentation (anti-personnel) effect of these submunitions. The ShOAB-0.5 is loaded into the RBK-500 ShOAB-0.5 cargo bomb, which contains a nominal 565 submunitions (+/- 5 pieces). Assembled, these bombs are 1950mm long, and weigh 334kg.
 
@@ -132,6 +132,6 @@ We have also obtained a [video by IRT (Instant Reporting Team) which filmed Al S
 
 The video shows the impact site, the mosque (in purple), the gas station (in blue), the roofs (in green), the building next to the mosque (in yellow) as well as the palm trees (in red).
 
-![20](/assets/20.jpg)
+![20](../../assets/20.jpg)
 
 Analysis of the munition remains above show that ShOAB-0.5 cluster bomb was used in an airstrike that targeted a civilian area, specifically a gas station, in the Al Saleheen district of Aleppo city on 9 July 2016. Alleged reports from the ground claimed this attack was carried by a Russian airstrike; journalists have previously found the SU-24 bombers at the Hmeim airbase engaged in the Syrian operation are armed with RBK-500 ShOAB-0.5 cluster bombs. Attribution to the Russian air force is not certain however, as the Syrian government began using this specific type of munition in the early years of the conflict [as of 2013 and continues to as of the date of this publication.](http://brown-moses.blogspot.de/2013/03/evidence-of-new-larger-cluster-bombs.html)

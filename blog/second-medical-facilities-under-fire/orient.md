@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Bombing the Orient Hospital"
 date: 2018-02-19T00:07:18.055Z
 desc: "Joint report of medical facilities attacked in Idlib"
-image: /assets/Impact-hospital.jpg
+image: ../../assets/Impact-hospital.jpg
 ---
 
 - Location: IDLIB : Kafranbel
@@ -23,11 +23,11 @@ image: /assets/Impact-hospital.jpg
 
 Orient hospital in Kafranbel was attacked on 19 September 2017 with three airstrikes that resulted in injuries to several people, structural damage to the building, as well as to the equipment of the hospital. [A detailed report titles about this previous incident](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) was published by the Syrian Archive and by [Syrians for Truth and Justice](https://www.stj-sy.com/uploads/pdf_files/Syria%2520Medical%2520Fcilities%2520excluded%2520from%2520de-escalation%2520zone%2520agreement.pdf) in 2017.
 
-![orient03](/assets/orient03.png)
+![orient03](../../assets/orient03.png)
 
 It was additionally attacked previously on 25 March 2017. Qasioun News Agency [published a video](https://www.youtube.com/watch?v=srgCm-W_gqM) showing the damage to the building and fire after the attack. See below:
 
-![march attack](/assets/march-attack-kafranbel.png)
+![march attack](../../assets/march-attack-kafranbel.png)
 
 ## What Happened
 
@@ -39,42 +39,42 @@ On 5 February 2018, local sources including [Muaz Al Shami reported](https://you
 
 <p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ"></a></p>
 
-![moment of attack](/assets/Impact-hospital.jpg)
+![moment of attack](../../assets/Impact-hospital.jpg)
 
 [Maara Media Center](https://www.facebook.com/maaramediacenter/posts/365657123900918) and other reporting from the ground blamed Russian aircraft for the attack.
 
-![fb-post-marra](/assets/fb-marra.png)
+![fb-post-marra](../../assets/fb-marra.png)
 
 Footage filmed after the airstrikes shows clear damage to the hospital building and to the surrounding area. Damage to the northeast corner of the building, consistent with footage of the airstrike, can be seen clearly as well. The corner of the building is badly damaged and the windows, bricked up in footage from 19 September 2017, have been completely blown out:
 
 Below is [a video publish](https://www.youtube.com/watch?v=2a1eWc0xRqo) by "Nidaa Syria" that shows the damage to the northeast corner of the hospital building:
 
-![orient04.jpg](/assets/orient04.jpg)
+![orient04.jpg](../../assets/orient04.jpg)
 
 The Syrian Archive compared images between previous attacks 19 September 2017 and this attack (5 February 2018) through videos of [Maara Media Center](https://www.youtube.com/watch?v=2RJ-k5jXopQ) and [Baladi news agency](https://www.youtube.com/watch?v=lP2SGkCAYgM).
 
-![before and after](/assets/before-after-corner-damage.jpg)
+![before and after](../../assets/before-after-corner-damage.jpg)
 
 [Maara Media Center published photos](https://www.facebook.com/maaramediacenter/posts/365657123900918) that show the small building in-front of the main hospital building completely destroyed.
 
-![orient09](/assets/orient099.jpg)
+![orient09](../../assets/orient099.jpg)
 
 The satellite image below shows the exact location of the impact site and damage, from Digital Globe.
 
-![sat-image](/assets/orient-sattelite-2.jpg)
+![sat-image](../../assets/orient-sattelite-2.jpg)
 
 Damage to the entrance of the building and an ambulance provided by the “UK 2 Syria” campaign can be seen in [a video published](https://www.youtube.com/watch?v=YwhGjgql7IU) by Sham News Network:
 
-![orient06](/assets/orient06.jpg)
+![orient06](../../assets/orient06.jpg)
 
 Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE) showing also the damage to the interior of the hospital:
 
-![orient12](/assets/orient12.jpg)
+![orient12](../../assets/orient12.jpg)
 
 Muaz Al Shami [published a video](https://www.youtube.com/watch?v=_dJphbuMm1E) showing three floors damage as a result of the munition that targeted the building.
 
 
-![3-floors](/assets/internal-damage-3-floors.png)
+![3-floors](../../assets/internal-damage-3-floors.png)
 
 
 

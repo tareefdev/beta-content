@@ -2,7 +2,7 @@
 title: "Methodology"
 date: 2018-02-19T00:02:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
-image: /assets/national15.jpg
+image: ../../assets/national15.jpg
 ---
 
 This report took an interdisciplinary approach towards investigating attacks on medical facilities in Idlib during January and February 2018. In the report, the authors have included a variety of sources for analysis and investigation, which each have their own respective methodologies. Specific methodologies are provided in the following pages:
@@ -35,7 +35,7 @@ Flight data and the visual content were analysed to identify whether flights wer
 
 The Syrian Archive employed its Digital Evidence Workflow, based off of the[Electronic Discovery Reference Model developed by Duke University School of Law](http://www.edrm.net/frameworks-and-standards/edrm-model/). This workflow consists of five components: A) Identification; B) Collection and secure preservation; C) Processing, verification and analysis; D) Review; and E) Publication. A "Do No Harm" ethical framework has been applied to all steps in the digital evidence workflow. Detailed methodologies of these components are analysed in the following subsections.
 
-## ![workflow](/assets/workflow.png) {#workflow2}
+## ![workflow](../../assets/workflow.png) {#workflow2}
 
 ### A. Identification
 

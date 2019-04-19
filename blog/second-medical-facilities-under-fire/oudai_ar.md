@@ -3,7 +3,7 @@ layout: investigation.html
 title: "قصف مستشفى عديّ"
 date: 2018-02-19T00:05:18.055Z
 desc: "مرافق صحية تحت النار"
-image: /assets/EMC-overview-damage.jpg
+image: ../../assets/EMC-overview-damage.jpg
 ---
 
 - الموقع: محافظة ادلب: سراقب
@@ -24,14 +24,14 @@ image: /assets/EMC-overview-damage.jpg
 
 أعلنت مديرية صحة ادلب [أن مستشفى عدي تعرّض للقصف](https://www.facebook.com/Idleb.Health.Directorate/posts/1190245281078825) بغارة جوية في 21/01/2018، ما تسبب بأضرار في بناء المستشفى ومعدّاته.
 
-![Idlib health directorate FB post](/assets/pre-attack-oudai.png)
+![Idlib health directorate FB post](../../assets/pre-attack-oudai.png)
 
 ## ماذا حدث؟
 
 أعلنت مصادر محلية في 29 يناير 2018 أن مستشفى عديّ في سراقب استُهدف بغارة جويّة، عقب غارة جويّة سابقة في 22 يناير 2018 تسبّبت بوقوع أضرارٍ في بناء المستشفى.
 نشر مركز ادلب الإعلامي [مقطع فيديو](https://www.youtube.com/watch?v=wQAVO0VECTs) يُظهر ما تم الادعاء بأنها اللحظات الأولى للهجوم الذي استهدف مستشفى عديّ الحسين. انظر أدناه:
 
-![first moment of the attack](/assets/first-moment.png)
+![first moment of the attack](../../assets/first-moment.png)
 
 [أشارت الشبكة السورية لحقوق الإنسان](http://sn4hr.org/sites/news/2018/01/29/russian-forces-shelled-oday-saraqeb-hospital-saraqeb-city-idlib-suburbs-january-29/) أن المستشفى كان يعالج ضحايا هجوم سابق على سوق البطاطا الجديد في سراقب في 29 يناير 2018 عندما وقع الهجوم عليه.
 
@@ -39,23 +39,23 @@ image: /assets/EMC-overview-damage.jpg
 
 نشر المواطن الصحفي هادي العبد الله [مقطع فيديو](https://www.youtube.com/watch?v=DHf5r3aPhgU) يظهر فريق الدفاع المدني السوري يسعف المصابين نتيجة الهجوم على سوق البطاطا في ادلب.
 
-![potato market](/assets/potator-market-1.png)
+![potato market](../../assets/potator-market-1.png)
 
 يقول العبد الله ضمن الفيديو: " 11 شهيدًا وعشرات الجرحى في مجزرة جديدة ارتكبتها الطائرات الحربية في مدينة سراقب، حيث قامت باستهداف سوق البطاطا".
 
 نشر مركز ادلب الإعلامي [مقطع فيديو](https://www.youtube.com/watch?v=kEh1xqI9UJ8) حول قصف سوق البطاطا يظهر الضحايا والمصابين نتيجة للغارة الجوية، إضافة إلى شاحنات متضررة جراء الهجوم. تظهر الصورة بوضوح حفرة يُحتمل أن تكون ناجمة عن الغارة الجوية التي استهدفت الموقع.
 
-![potato market-2](/assets/crater-potato-market.png)
+![potato market-2](../../assets/crater-potato-market.png)
 
 من خلال استخدام فيديو هادي العبد الله، أمكن تحديد الموقع الجغرافي للمكان المستهدف (سوق البطاطا). حيث يمكن بوضوح رؤية ثلاث لافتات في الشارع الرئيسيّ، وذلك في كلًا من الفيديو وصور الأقمار الصناعية. انظر أدناه:
 
-![potato market-3](/assets/geollocation-potato-market.jpg)
+![potato market-3](../../assets/geollocation-potato-market.jpg)
 
 وفقًا لإفادات شهود جُمعت من قبل سوريون من أجل الحقيقة والعدالة؛ فإنه تم نقل ضحايا وجرحى هجوم سوق البطاطا إلى مستشفى عديّ، والذي استُهدف عقب ذلك بغارة جويّة.
 
  حدّد الأرشيف السوريّ صورًا ثابتة من [مقطع فيديو وكالة سمارت للأنباء](https://www.youtube.com/watch?v=TBoFbO0YiYE) إضافة إلى  [مقطع فيديو وكالة ثقة للأنباء](https://www.youtube.com/watch?v=qi_h0TDek5A) حيث يمكن رؤية مستشفى عديّ قبل وبعد الهجوم. في الصورة العلويّة؛ يمكن بوضوح رؤية جثث ضحايا هجوم سوق البطاطا. أما ثاني الصورتين فتظهر الأضرار في الموقع ذاته عقب الغارة الجوية التي استهدفت المستشفى.
 
-![before-after-Oudai](/assets/before-after-oudai.jpg)
+![before-after-Oudai](../../assets/before-after-oudai.jpg)
 
 [نشر العبدالله مقطع فيديو آخر في اليوم ذاته حول هجوم سوق البطاطا في 29 يناير ](https://www.youtube.com/watch?v=R1LYNZ5-1BA) ويظهر تضرر مستشفى عديّ نتيجة للغارة الجوية التي تلت الغارة الجويّة على سوق البطاطا. انظر أدناه
 
@@ -67,23 +67,23 @@ image: /assets/EMC-overview-damage.jpg
 
 نشر مركز إدلب الإعلامي  [صورًا تظهر ](https://www.facebook.com/EdlibEmc1/photos/pcb.2020739931472899/2020739648139594/?type=3&theater) عمليات إسعاف خارج بناء المستشفى بعد الهجوم. انظر أدناه:
 
-![oudai-2](/assets/EMC-overview-damage.jpg)
+![oudai-2](../../assets/EMC-overview-damage.jpg)
 
 سقطت القذيفة أمام مبنى المستشفى الرئيسي، مخلفة حفرة كبيرة كما  [يظهر في مقطع فيديو تم نشره](https://www.youtube.com/watch?v=qi_h0TDek5A) من قبل وكالة ثقة للأنباء، ومتسببة في انهيار مستودع يحتوي على معدّات طبية.  يظهر الفيديو عناصر الدفاع المدني السوري ينتشلون جثة ذكر بالغ والذي قُتل نتيجة للهجوم تحت الحطام عقب عملية الإسعاف الأولية.
 
-![oudai-crater](/assets/crater-oudai.png)
+![oudai-crater](../../assets/crater-oudai.png)
 
 ## أين وقع الهجوم؟
 
 أنشأ فريق الأرشيف السوري صورة بانورامية باستخدام  [مقطع فيديو شبكة شام الإخبارية](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) والذي نُشر عقب الهجوم. أمكن تحديد بناء المستشفى وبناء آخر من خلال مقارنة الصورة مع صورة أقمار صناعية من غوغل إيرث. انظر أدناه:
 
-![geolocating Oudai Hospital](/assets/oudai-geolocation-1.jpg)
+![geolocating Oudai Hospital](../../assets/oudai-geolocation-1.jpg)
 
 ## تحديد الذخائر المستخدمة
 
 نشرت شبكة شام الإخبارية مقطع فيديو يظهر بقايا الذخائر المستخدمة في الهجوم على سوق البطاطا. تشير بقايا الصاروخ أنه قد يكون أُطلق من  [قاذفة الصواريخ المتعددة BM-30](https://twitter.com/EliotHiggins/status/563393370413105153)، وهي نوع من قاذفات صواريخ أرض أرض. إذا كانت بقايا الصاروخ تعود للذخيرة المستخدمة في الهجوم، فإن ذلك يتناقض مع الادعاءات بأن الهجوم كان جويًا.
 
-![weapon](/assets/weapon.png)
+![weapon](../../assets/weapon.png)
 
 ## متى وقع الهجوم؟
 

@@ -2,7 +2,7 @@
 layout: investigation.html
 title: Specific incidents of attacks using incendiary munitions - Eyes on Aleppo
 date: 2017-03-29T00:01:22.055Z
-image: /assets/investigations/incendiary-1.png
+image: ../../assets/investigations/incendiary-1.png
 ---
 This section provides a summary of incidents identified by the Syrian Archive in analysis of its violation database in which incendiary munitions were used.
 

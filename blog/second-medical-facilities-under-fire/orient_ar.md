@@ -3,7 +3,7 @@ layout: investigation.html
 title: "الهجوم على مشفى الأورينت"
 date: 2018-02-19T00:07:18.055Z
 desc: "مرافق صحية تحت النار"
-image: /assets/Impact-hospital.jpg
+image: ../../assets/Impact-hospital.jpg
 ---
 
 - الموقع: إدلب : كفرنبل
@@ -21,11 +21,11 @@ image: /assets/Impact-hospital.jpg
 
 قُصف مشفى أورينت في كفرنبل يوم 19 سبتمبر 2017 بثلاث غارات جويّة أسفرت عن جرح العديد من الأشخاص، تضرّر المبنى والمعدّات الطبية المتوفرة فيه. وكان كلًا من [فريق الأرشيف السوري](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) و[سوريون من أجل الحقيقة والعدالة](https://www.stj-sy.com/uploads/pdf_files/Syria%2520Medical%2520Fcilities%2520excluded%2520from%2520de-escalation%2520zone%2520agreement.pdf) قد نشروا تقريرًا مُفصّلًا حول هذه الحادثة السابقة في وقتها.
 
-![orient03](/assets/orient03.png)
+![orient03](../../assets/orient03.png)
 
 بالإضافة إلى الهجوم الأسبق على المشفى يوم 25 مارس 2017. وكالة قاسيون للأنباء [نشرت فيديو](https://www.youtube.com/watch?v=srgCm-W_gqM) يُظهر الضرر الذي لحق بالمنبى والنيران الناجمة عن الهجوم. انظر أداناه:
 
-![march attack](/assets/march-attack-kafranbel.png)
+![march attack](../../assets/march-attack-kafranbel.png)
 
 ### ماذا حدث؟
 
@@ -35,42 +35,42 @@ image: /assets/Impact-hospital.jpg
 
 <iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-![moment of attack](/assets/Impact-hospital.jpg)
+![moment of attack](../../assets/Impact-hospital.jpg)
 
 [اتهم مركز المعرة الإعلامي](https://www.facebook.com/maaramediacenter/posts/365657123900918) ووسائل إعلام ميدانية أخرى القوات الحربيّة الروسية بتنفيذ الهجوم.
 
-![fb-post-marra](/assets/fb-marra.png)
+![fb-post-marra](../../assets/fb-marra.png)
 
 
 وتُظهر صورًا التقطت بعد الغارات تضرر مبنى المشفى بشكلٍ واضح والمنطقة المحيطة به. الأضرار التي لحقت بالزاوية الشمال-شرقية من المبنى تتفق مع اللقطات التي ظهرت في الفيديو. تضررت زاوية المبنى بشكل كبير، كذلك النوافذ المسدودة بالطوب والظاهرة في لقطات 19 سبتمبر 2017، تظهر مدمرة بالكامل:
 
 [الفيديو التالي](https://www.youtube.com/watch?v=2a1eWc0xRqo) نُشر من قبل "نداء سوريا" ويُظهر الضرر الذي لحق بالزاوية الشمال-شرية من مبنى المشفى:
 
-![orient04.jpg](/assets/orient04.jpg)
+![orient04.jpg](../../assets/orient04.jpg)
 
 أجرى الأرشيف السوري مقارنةً بين الهجمات السابقة في 19 سبتمبر 2017 وبين هذه الهجمة (5 فبراير 2018) مُستخدمًا فيديوهات من [مركز المعرّة الإعلامي](https://www.youtube.com/watch?v=2RJ-k5jXopQ) [ووكالة بلدي نيوز](https://www.youtube.com/watch?v=lP2SGkCAYgM).
 
-![before and after](/assets/before-after-corner-damage.jpg)
+![before and after](../../assets/before-after-corner-damage.jpg)
 
 [نشر مركز المعرة الإعلامي صورًا](https://www.facebook.com/maaramediacenter/posts/365657123900918) تُظهر مبنىً صغيرًا يقع مقابل مبنى المشفى الرئيسي وهو مدمرٌ بالكامل.
 
-![orient09](/assets/orient099.jpg)
+![orient09](../../assets/orient099.jpg)
 
 يُمكن تحديد الضرر الخارجي المحيط بالمشفى في صورة الأقمار الصناعية التالية الملتقطة من طرف ديجيتال غلوب:
 
-![sat-image](/assets/orient-sattelite-2.jpg)
+![sat-image](../../assets/orient-sattelite-2.jpg)
 
 كما يمكن رؤية الضرر الذي لحق بمدخل المشفى وسيارة إسعاف مُقدمة من حملة "UK 2 Syria" من خلال فيديو [نشرته وكالة شام نيوز](https://www.youtube.com/watch?v=YwhGjgql7IU) الإخبارية:
 
-![orient06](/assets/orient06.jpg)
+![orient06](../../assets/orient06.jpg)
 
 [مركز إدلب الإعلامي نشر فيديو](https://www.youtube.com/watch?v=JEKPnfVrVQE) آخر يُظهر الضرر الذي لحق بمدخل المشفى:
 
-![orient12](/assets/orient12.jpg)
+![orient12](../../assets/orient12.jpg)
 
 [نشر معاذ الشامي فيديو](https://www.youtube.com/watch?v=_dJphbuMm1E) يُظهر ثلاثة طوابق متضرّرة نتيجة الذخيرة المُستخدمة بالهجوم على المشفى.
 
-![3-floors](/assets/internal-damage-3-floors.png)
+![3-floors](../../assets/internal-damage-3-floors.png)
 
 
 ### متى حدث؟

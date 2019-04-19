@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Methodology"
 date: 2018-04-19T00:02:18.055Z
 desc: "How we tracked the illegal shipment of sarin precursor from Belgium to Syria"
-image: /assets/shippingtracking.png
+image: ../../assets/shippingtracking.png
 ---
 
 On 18 April 2018 Syrian Archive and Knack revealed information that Belgium violated EU sanctions against Syria according to the summons of an upcoming lawsuit. The Belgian customs found that without having requested the appropriate export licenses three Flemish companies  have exported 168 tonnes of isopropanol in a concentration of 95% or higher to Syria since sanctions came into force in September 2013.

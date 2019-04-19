@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "هجمات ضد الأشخاص والأعيان المحميين على وجه التحديد - عين على حلب"
 date: 2017-03-29T00:01:20.055Z
-image: /assets/investigations/pattern.png
+image: ../../assets/investigations/pattern.png
 ---
 
 يرد في هذا القسم موجز لحوادث تم التعرف عليها من قبل "الأرشيف السوري" أثناء تحليل قاعدة بيانات الانتهاكات الخاصة به تشمل انتهاكات ضد الأشخاص والأعيان المحميين على وجه التحديد.
@@ -105,10 +105,10 @@ image: /assets/investigations/pattern.png
 
 سمع الجنود يتحدثون باللهجة السورية واللبنانية وقد تم تحديد الموقع الجغرافي الذي تم فيه تصوير الفيديو.
 
-![Aleppo_evacuation_2](/assets/Aleppo_evacuation_2.jpg)
+![Aleppo_evacuation_2](../../assets/Aleppo_evacuation_2.jpg)
 
 [قدم ابراهيم ابو الليث شهادته](https://www.youtube.com/watch?v=mLN0vOwS4Og) حول عملية الإخلاء في ١٦ ديسمبر ٢٠١٦، حيث تم إيقاف الباص الذي كان يقله بالقرب من دوار الراموسة كما نرى في الأسفل مما يؤكد الموقع الجغرافي الذي حددناه للفيديو المسرب.
 
-![Cameralocationofleakedvideo](/assets/Cameralocationofleakedvideo.jpg)
+![Cameralocationofleakedvideo](../../assets/Cameralocationofleakedvideo.jpg)
 
 ذكر ابراهيم وجود قوات لحزب الله في المكان الذي تم ايقافهم به مما يوضح اللكنة اللبنانية التي سمعناها في الفيديو المسرب، كما ذكر حالات اعدام في نفس الموقع والحادثة من قبل قوات الجيش السوري والميليشيات المتواجدة أثنائه.

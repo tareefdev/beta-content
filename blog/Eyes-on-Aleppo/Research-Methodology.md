@@ -2,7 +2,7 @@
 layout: investigation.html
 title: Research Methodology - Eyes on Aleppo
 date: 2017-03-29T00:01:24.055Z
-image: /assets/workflow.png
+image: ../../assets/workflow.png
 ---
 This section will provide an overview of the methodology used by the Syrian Archive in carrying out this research. The methodology section will be broken into the following sub-sections:
 
@@ -22,7 +22,7 @@ The Syrian Archive has divided its collection and archival methodology into five
 
 These five steps are presented and outlined in greater detail in the visualisation below
 
-![workflow](/assets/workflow.png)
+![workflow](../../assets/workflow.png)
 
 **Step 1 : Establish database of credible sources for content**  
 

@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Six Months On"
 date: 2018-02-17
 desc: "Medical Facilities in Syria Still Under Fire"
-image: /assets/orient07.jpg
+image: ../../assets/orient07.jpg
 level: 1
 ---
 
@@ -19,9 +19,9 @@ Findings in this previous report suggest that in April 2017, Syrian and Russian 
 
 On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey, and Iran) [signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.youtube.com/watch?v=5cF-gIL8yzk) for at least six months, which [was extended](https://sana.sy/en/?p=116911]) at Astana 7 on 31 October 2017. The Russian Ministry of Defense [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). See below:
 
-![Russian MOD video](/assets/atarib-3.png)
+![Russian MOD video](../../assets/atarib-3.png)
 
-![Map of de-escalation zone](/assets/atarib-4.png)
+![Map of de-escalation zone](../../assets/atarib-4.png)
 
 These areas included Idlib province, some parts of northern Homs province, as well as some parts of adjacent provinces (Latakia, Hama, and Aleppo), Eastern Ghouta in Damascus countryside and some parts of southern Syria.
 
@@ -33,7 +33,7 @@ Now, six months later, little has changed. Hospitals remain at the frontlines of
 
 The first week of February 2018 has shown a flurry of media attention focused on potential Russian involvement in the bombing of civilians in Syria. In response, the Russian Embassy to the United Kingdom [published a press release](https://www.rusemb.org.uk/fnapr/6391) on 15 Feb. 2018 claiming a misinformation campaign by "Western media." The press release claims "the misinformation comes down to allegations that the Russian Aerospace Forces are striking rebel strongholds in Idlib, killing civilians and damaging civilian infrastructure, including medical institutions." See below:
 
-![Ministry statement](/assets/russian_embassy_press_release_15022018.png)
+![Ministry statement](../../assets/russian_embassy_press_release_15022018.png)
 
 This statement, implies (though does not outrightly deny) that Russian airforces are not responsible for the bombing of civilian infrastructure, including hospitals and medical facilities. Later, the same press release states that "on February 3 the Russian Su-25 assault aircraft piloted by Major Roman Filippov...was monitoring compliance with the ceasefire in the Idlib de-escalation zone" at the time his plane was shot down.
 

@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "هجمات باستخدام الذخائر الحارقة - عين على حلب"
 date: 2017-03-29T00:01:22.055Z
-image: /assets/investigations/incendiary-1.png
+image: ../../assets/investigations/incendiary-1.png
 ---
 
 يرد في هذا القسم موجز لحوادث تم التعرف عليها من قبل "الأرشيف السوري" أثناء تحليل قاعدة بيانات الانتهاكات الخاصة به تشمل الحوادث التي سيتم التحقيق فيها تلك التي استُخدمت فيها ذخائر حارقة

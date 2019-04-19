@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Bombing the National Hospital"
 date: 2018-02-19T00:06:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
-image: /assets/national09.jpg
+image: ../../assets/national09.jpg
 ---
 
 - Location: IDLIB : Maarat al-Numan
@@ -33,11 +33,11 @@ On 4 February 2018 at 21:19, a citizen journalist named Anas Al Marwai (who live
 
 Idlib Health Directorate separately published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 21:21 stating: "Russian warplanes directly targeted the National Hospital in Maarat al-Numan, and the aircraft monitors interception calls between the driving room in Hameimim base, heard the air force stating they would repeat the targeting of the hospital." See below:
 
-![national07](/assets/national07.png)
+![national07](../../assets/national07.png)
 
 Syrian Civil Defense in Idlib [published photos](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1562499310515786) on their Facebook page at 22:41 saying "Civil Defense teams evacuated the patients from the national hospital in Maarat al-Nu'man to nearby hospitals after the hospital was targeted with four air strikes." Photos show destructions as a result of the attacks,  as well as of the Civil Defense evacuating injured people. See below:
 
-![national01](/assets/national06.jpg)
+![national01](../../assets/national06.jpg)
 
 On their YouTube channel Civil Defense published several videos additional in which members can be seen fighting fires outside the hospital. See below:
 
@@ -47,16 +47,16 @@ On their YouTube channel Civil Defense published several videos additional in wh
 
 Another video from Syria Civil Defense [presents a summary](https://www.youtube.com/watch?v=Q4DboRpV9L0) of what happened, stating that the National Hospital is out of service as a result of the attack, and shows stills from incubators room. See below:
 
-![national08.png](/assets/national08.png)
+![national08.png](../../assets/national08.png)
 
 The label is from a baby called Abdullah Amir Sarjawi, 13 days old, the date of his admission was 04 February, and his parents live in Aleppo.
 
-![national15.jpg](/assets/national15.jpg)
+![national15.jpg](../../assets/national15.jpg)
 *An exclusive photo to Syrians for Truth and Justice shows the location where one of the missiles downfall*
 
 Hadi Alabdallah, a citizen journalist, [published a video on his YouTube channel](https://www.youtube.com/watch?v=HcMurYLYlEo) showing destruction inside the hospital, injured (including elderly men and women), fires outside of the hospital as a result of the attack, as well as the evacuation of babies and injured from the hospital by the Syria Civil Defense members. See below:
 
-![national06](/assets/national07.jpg)
+![national06](../../assets/national07.jpg)
 
 In Alabdallah's video at 0:29 somebody asks the Syria Civil Defense members while they were carrying babies, "Where are you taking babies?" Someone can be heard answering: "To the incubators, Syria Civil Defense is taking them to the incubators."
 
@@ -64,7 +64,7 @@ In the same video at 0:49, Alabdallah stated: "A little while ago, Russian warpl
 
 At 1:47 in the same video, Alabdallah stated: "Many medical facilities in Idlib have been attacked. The air force is now flying over us and maybe it'll target this area in any moment because this hospital was attacked with more than ten airstrikes so maybe it gets targeted again."
 
-![national16.jpg](/assets/national16.jpg)
+![national16.jpg](../../assets/national16.jpg)
 *An exclusive photo to STJ shows a part of the destruction that has done in the hospital.*
 
 In a separate video, published by citizen reporter Moaz Alshami while they were standing in front of the hospital, Syrian Civil Defense members are seen working to put out fires. Moaz stated: "After the massacre carried out by Russian aircrafts in Kafranabel city, the National Hospital in Maarat al-Numan has now been targeted with more than six air strikes. It is the only hospital operating here. It contains dozens of injured people who were injured in Kafranabel and taken here."
@@ -79,38 +79,38 @@ SMART News Agency [published a video](https://www.youtube.com/watch?v=-GA92EyURH
 
 The following day, 5 February 2018, the Syrian American Medical Society (SAMS) - who supported the hospital - [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National Hospital in Maarat al-Numaan had become out of order as a result of being targeted by six airstrikes. See below:
 
-![national13.png](/assets/national13.png)
+![national13.png](../../assets/national13.png)
 
 ## Where did it happen?
 
 The Syrian Archive team was able to match several objects between Alshami's video and SMART News Agency's video which confirms both documented the same location. See below:
 
-![national08](/assets/national08.jpg)
+![national08](../../assets/national08.jpg)
 
 Other objects were identified from a different angle of the same location using the same videos above:
 
-![national09](/assets/national09.jpg)
+![national09](../../assets/national09.jpg)
 
 We also identified objects that were shown in Smart News Agency's morning video about this incident:
 
-![national13.jpg](/assets/national13.jpg)
+![national13.jpg](../../assets/national13.jpg)
 
 The Syrian Archive team was also able to geolocate several landmarks and objects using SMART News Agency's video and a satellite image for the National Hospital in Maarat al-Numaan, confirming it was the same location. See below:
 
-![national12.jpg](/assets/national12.jpg)
+![national12.jpg](../../assets/national12.jpg)
 
 
 Seems from inside the hospital were also able to be cross referenced. In a video [from the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0), the evacuation process for children and women can clearly be seen. It also documents two Syrian Civil Defense members walking in a hospital corridor. At 1:19 of the video, a banner can be seen on the floor that states: "Children's Division." See below:
 
-![national02](/assets/national02.jpg)
+![national02](../../assets/national02.jpg)
 
-![national05](/assets/national05.jpg)
+![national05](../../assets/national05.jpg)
 
 A separate vdeo was [published by Moaz Alshami](https://www.youtube.com/watch?v=IicAGAWhD_E) in which a sign reading "Emergency Operation" can be seen:
 
-![national11](/assets/national11.jpg)
+![national11](../../assets/national11.jpg)
 
-![national10](/assets/national10.jpg)
+![national10](../../assets/national10.jpg)
 
 ## When did it happen?
 
@@ -130,7 +130,7 @@ Abu Bahar, the supervisor of an observatory that monitors the movement of the wa
 
 Syrians for Truth and Justice was able to obtain a photo shows the remains of one of the missiles that fell in front of the National Hospital. See below:
 
-![national14.jpg](/assets/national14.jpg)
+![national14.jpg](../../assets/national14.jpg)
 
 The Syrian Archive was unable to gather additional information regarding munitions used in this attack.
 

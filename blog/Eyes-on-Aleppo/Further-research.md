@@ -2,7 +2,7 @@
 layout: investigation.html
 title: Further research - Eyes on Aleppo
 date: 2017-03-29T00:01:19.055Z
-image: /assets/investigations/cw-aleppo.png
+image: ../../assets/investigations/cw-aleppo.png
 ---
 
 Though the battle for control of Aleppo city is now over, human rights research into violations committed during this time will continue for many years to come. In this report, the Syrian Archive has described a dataset of verified visual evidence of human rights violations in the battle for Aleppo.

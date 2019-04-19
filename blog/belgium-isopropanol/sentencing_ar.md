@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "محكمة أنتويرب تدين ثلاثة شركات فلمنكية لشحن 168 طناً من الأيزوبروبانول إلى سوريا"
 date: 2019-02-07
-image: /assets/investigations/Belgium/image4.jpg
+image: ../../assets/investigations/Belgium/image4.jpg
 ---
 
 ### تصدير الأيزوبروبانول بشكل غير قانوني إلى سوريا
@@ -42,7 +42,7 @@ image: /assets/investigations/Belgium/image4.jpg
 
 وفقًا لهذا التقرير؛ طُلب من دائرة التفتيش الجمركية في 23 فبراير 2018 إجراء تدقيق في الموضوع. حدث ذلك بعد وقتٍ قصير من تواصل كناك بالجمارك البلجيكية حول وجود مؤشرات مقلقة - استندت إلى نتائج الأرشيف السوري في قاعدة بيانات الأمم المتحدة UN Comtrade database - حول تصدير الأيزوبروبانول إلى سوريا.
 
-![Internal audit](/assets/investigations/Belgium/image2.png)
+![Internal audit](../../assets/investigations/Belgium/image2.png)
 <small>*لقطة شاشة من ملف PDF لتقرير المراجعة الداخلي من قبل الجمارك البلجيكية، توضح الجدول الزمني لعملية المراجعة وخطة العمل التالية.*</small>
 
 خلُصت المراجعة إلى أن "معظم نقاط الضعف في التحكم تكمن في الصفوف الأولى". بعد دراسة عينات من عمليات تصدير الأيزوبروبانول؛ وجدت خدمة التفتيش في الجمارك أن "العديد من الفحوصات المادية طُلبت لكن لم يتم تنفيذ أي منها". وعادة ما تفحص الجمارك الوثائق فقط، وليس المواد الكيميائية نفسها. وأشار موظفو الجمارك الذين شملهم الاستطلاع إلى أنهم كانوا تحت ضغط ضيق الوقت، وأنه من الصعب التشاور حول التشريع الأوروبي في نظام الجمارك الداخلي، وأن الوثيقة المستخدمة من قبل الجمارك للكشف عن الاحتيال لا تحتوي معلوماتٍ كافية.
@@ -70,8 +70,8 @@ image: /assets/investigations/Belgium/image4.jpg
 فيما يلي لقطة شاشة لقاعدة بيانات TARIC، حيث يبدو أن رمز الإيزوبروبانول (2905120000) مُدخلًا بالفعل. من المهم ملاحظة أن هذا البحث أُجري في "05-05-2018"، أي بعد شهر تقريبًا من بدء المراجعة.
 
 
-![TARIC database](/assets/investigations/Belgium/image1.png)
+![TARIC database](../../assets/investigations/Belgium/image1.png)
 
-![TARIC database](/assets/investigations/Belgium/image3.png)
+![TARIC database](../../assets/investigations/Belgium/image3.png)
 
-![TARBEL database](/assets/investigations/Belgium/image5.png)
+![TARBEL database](../../assets/investigations/Belgium/image5.png)

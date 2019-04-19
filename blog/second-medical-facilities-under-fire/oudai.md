@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Bombing the Oudai Hospital"
 date: 2018-02-19T00:05:18.055Z
 desc: "Joint report of medical facilities attacked in Idlib"
-image: /assets/EMC-overview-damage.jpg
+image: ../../assets/EMC-overview-damage.jpg
 ---
 
 - Location: IDLIB : Saraqib
@@ -24,14 +24,14 @@ Oudai (Ehsan) Hospital is located in Saraqib city in the southern countryside of
 
 Idlib health directorate [reported that Oudai hospital was attacked](https://www.facebook.com/Idleb.Health.Directorate/posts/1190245281078825) on 21/01/2018 with an airstrike that resulted in structural damage to the hospital and its equipment.
 
-![Idlib health directorate FB post](/assets/pre-attack-oudai.png)
+![Idlib health directorate FB post](../../assets/pre-attack-oudai.png)
 
 ## What Happened
 
 On 29 January 2018 local sources reported that Owdai Hospital in Saraqib was targeted by an airstrike, following an earlier airstrike that damaged the hospital on 22 January 2018.
 Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VECTs) showing what they claim to be the first moment of the attack that bombed the Oudai Al Hussein hospital. See below:
 
-![first moment of the attack](/assets/first-moment.png)
+![first moment of the attack](../../assets/first-moment.png)
 
 The [Syrian Network for Human Rights reported](http://sn4hr.org/sites/news/2018/01/29/russian-forces-shelled-oday-saraqeb-hospital-saraqeb-city-idlib-suburbs-january-29/) that the hospital was treating victims of an earlier bombing at the new potato market in Saraqib January 29th 2018 when the hospital was attacked.
 
@@ -39,23 +39,23 @@ Assi Press [published photos at 9:35](https://www.facebook.com/assipress/posts/1
 
 Citizen journalist Hadi Alabdallah [published a video](https://www.youtube.com/watch?v=DHf5r3aPhgU) showing the Syrian Civil Defense rescuing the injured as a result of the attack on the Saraqib potato market.
 
-![potato market](/assets/potator-market-1.png)
+![potato market](../../assets/potator-market-1.png)
 
 Alabdallah stated in the video: "11 killed and many injured in a new massacre committed by the airforce which bombed the potato market."
 
 Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing showing those killed and injured people as a result of the airtsrike, as well trucks damaged in the attack. The photo clearly shows a possible crater as a result of the airstrike that targeted this location.
 
-![potato market-2](/assets/crater-potato-market.png)
+![potato market-2](../../assets/crater-potato-market.png)
 
 Geolocation of the impact site (the potato market) was possible through using the video published by Alabdallah. Three banners standing in the main street can clearly be seen both in the video still and in the satellite imagery. See below:
 
-![potato market-3](/assets/geollocation-potato-market.jpg)
+![potato market-3](../../assets/geollocation-potato-market.jpg)
 
 According to witness testimonies collected by the Syrians for Truth and Justice, the killed and injured people from the potato market attack were moved to Oudai hospital, which was then subsequently bombed by airstrikes.
 
 The Syrian Archive has identified stills from the [Smart News Agency video](https://www.youtube.com/watch?v=TBoFbO0YiYE) as well as from the [Thiqa News aAgency video](https://www.youtube.com/watch?v=qi_h0TDek5A) showing the Oudai hospital before and after the attack. In the still above, dead bodies as a result of the potato market attack can clearly b seen. In the second still below shows damage of the same location after the airstrike that targeted the hospital.
 
-![before-after-Oudai](/assets/before-after-oudai.jpg)
+![before-after-Oudai](../../assets/before-after-oudai.jpg)
 
 Alabdallah [published another video on the same day of the potato market attack on 29 January](https://www.youtube.com/watch?v=R1LYNZ5-1BA) showing damage to the Oudai hospital as a result of an airstrike following the airstrike on the potato market. See below:
 
@@ -67,23 +67,23 @@ Aljisr TV [published a a video of an interview](https://www.youtube.com/watch?v=
 
 Edlib Media Center [published photos](https://www.facebook.com/EdlibEmc1/photos/pcb.2020739931472899/2020739648139594/?type=3&theater) showing  rescue operations outside the hospital after the attack. See below:
 
-![oudai-2](/assets/EMC-overview-damage.jpg)
+![oudai-2](../../assets/EMC-overview-damage.jpg)
 
 The bomb landed in front of the main hospital building, leaving a large crater as [shown in a video published](https://www.youtube.com/watch?v=qi_h0TDek5A) by Thiqa News Agency, and resulting in the collapse of a warehouse containing medical supplies. The video shows the Syrian Civil Defence digging an adult male who died in the attack out of the debris after the initial rescue operation.
 
-![oudai-crater](/assets/crater-oudai.png)
+![oudai-crater](../../assets/crater-oudai.png)
 
 ## Where did it happen?
 
 The Syrian Archive team created a Panoramic image using the [video of Sham News Network](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) which was published after the attack. The hospital building and another building were identified through comparing the image with Google earth satellite imagery. See below:
 
-![geolocating Oudai Hospital](/assets/oudai-geolocation-1.jpg)
+![geolocating Oudai Hospital](../../assets/oudai-geolocation-1.jpg)
 
 ## Munitions identified
 
 Sham News Network published a video showing remnants of a munition that is claims was used during the potato market attack. The remains of the rocket indicates it would have been launched by a [BM-30 multiple rocket launcher](https://twitter.com/EliotHiggins/status/563393370413105153), a type of surface to surface rocket launcher. If this was the munition used in the attack, it would contradict claims the attack was launched from the air.
 
-![weapon](/assets/weapon.png)
+![weapon](../../assets/weapon.png)
 
 ## When did it happen?
 

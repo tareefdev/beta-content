@@ -3,6 +3,7 @@ title: "Dataset of Russian Attacks Against Syria's Civilians"
 date: 2016-05-13
 desc: "Dataset of Russian Attacks Against Syria's Civilians"
 image: ../assets/investigations/russian-attacks.png
+level: 0
 ---
 
 The Syrian Archive maintains an extensive video database of all known allegations in which civilians have been reported killed or injured by Russia since September 30th 2015.\

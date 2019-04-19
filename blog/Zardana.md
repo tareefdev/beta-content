@@ -5,6 +5,7 @@ date: 2018-12-17
 desc: "45 civilians dead as a result of airstrikes that attacked Zardana"
 image: ../assets/investigations/zardana/drone-zardana-after-airstrikes.png
 socialMediaImage: ../assets/investigations/zardana/111.jpg
+level: 0
 ---
 
 - Location: Zardana (Idlib Governorate, Syria)

@@ -3,6 +3,7 @@ title: "The Al-Jinah Mosque Complex Bombing"
 date: 2017-04-19
 desc: "An investigation about Al-Jinah Mosque Bombing"
 image: ../assets/11j.width-800.png
+level: 0
 ---
 
 \_Live URL of this investigation is on the [Bellingcat website](https://www.bellingcat.com/) from April 18th 2017. \_\_Bellingcat exchanged information with Forensic Architecture and Human Rights Watch. Both of which carried out separate investigations into the attack. All multimedia information has been [archived by the Syrian Archive.](https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D8%A9&after=2017-03-15&before=2017-03-19)\_

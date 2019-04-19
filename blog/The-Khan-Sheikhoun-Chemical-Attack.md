@@ -3,6 +3,7 @@ title: "The Khan Sheikhoun Chemical Attack, The Evidence So Far"
 date: 2017-04-05
 desc: "An investigation about The Khan Sheikhoun Chemical Attack"
 image: ../assets/17758314_1889429741270586_450301894920766305_o.width-800.png
+level: 0
 ---
 
 On Tuesday April 4th 2017, videos and images emerged from sources within Syria showing what is claimed to be a chemical weapon attack that targeted [Al Sheikhun](https://goo.gl/maps/T58PgYZrZ8r) south of Idlib.

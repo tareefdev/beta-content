@@ -3,6 +3,7 @@ title: "Fact Checking Russia’s Claim That It Didn’t Bomb A Mosque in Syria"
 date: 2015-11-01
 desc: "Fact Checking Russia’s Claim That It Didn’t Bomb A Mosque in Syria"
 image: ../assets/Al_Farouq_Idlib.jpeg
+level: 0
 ---
 
 *This post originally appeared on the [bellingcat.com](https://www.bellingcat.com/)*

@@ -4,6 +4,7 @@ title: "بعد ستّة أشهر!"
 date: 2018-02-17
 desc: "مرافق صحية تحت النار"
 image: /assets/orient07.jpg
+level: 1
 ---
 
 ## مُقدمة

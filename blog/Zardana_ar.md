@@ -5,6 +5,7 @@ date: 2018-12-17
 desc: "45 مدنيًا قُتلوا نتيجة غارات جويّة استهدفت زردنا"
 image: ../assets/investigations/zardana/drone-zardana-after-airstrikes.png
 socialMediaImage: ../assets/investigations/zardana/111.jpg
+level: 0
 ---
 
 - الموقع: زردنا (محافظة ادلب، سوريا)

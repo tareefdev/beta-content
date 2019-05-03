@@ -1,4 +1,5 @@
 ---
+parent: Eyes-on-Aleppo
 layout: investigation.html
 title: "هجمات ضد الأشخاص والأعيان المحميين على وجه التحديد - عين على حلب"
 date: 2017-03-29T00:01:20.055Z

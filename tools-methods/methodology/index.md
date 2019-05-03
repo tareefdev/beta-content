@@ -1,9 +1,9 @@
 ---
-layout: contentwithsiblings.html
+parent: tools-methods
 title: Research Methodology
-date: 2017-11-27
 desc: Open Source Tools and Methods for Open Source Investigations - Digital Evidence Workflow
-image: /assets/technology/methods-workflows.png
+image: ../../assets/technology/methods-workflows.png
+level: 1
 ---
 # Research Methodology - Syrian Archive
 
@@ -25,7 +25,7 @@ The Syrian Archive identification, collection, and secure preservation methodolo
 
 These five steps are presented and outlined in greater detail in the visualisation below
 
-![workflow][1]
+![workflow](../../assets/workflow.png)
 
 **Step 1 : Establish database of credible sources for content**  
 
@@ -107,5 +107,3 @@ After videos have gone through the basic verification process, they are backed u
 ## C. In-depth verification
 
 In some cases, the Syrian Archive is able to conduct in-depth online open source investigations. Videos and other open source materials shared online are used in order to understand the incident and verify the veracity of claims made about incidents. Time and capacity limitations means not all incidents are able to be analysed in-depth, however by developing a replicable workflow it is hoped that others can assist in these efforts to investigate other incidents using similar methods.
-
-[1]: /assets/workflow.png

@@ -1,4 +1,5 @@
 ---
+parent: Eyes-on-Aleppo
 title: Summary of Findings - Eyes on Aleppo
 date: 2017-03-29T00:01:23.055Z
 image: ../../assets/investigations/eoa-summary.png

@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: "في الصحافة"
 date: 2017-11-27
 image: "/assets/about/press-1.png"

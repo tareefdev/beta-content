@@ -17,6 +17,7 @@ Sarin is the nerve gas used by the Syrian government in the Khan Shaykhun attack
 
 <video controls width="100%">
   <source src="https://cube.syrianarchive.org/littlefork/youtube_video/4f20a66995412be034bff64e595eb843207327b163289844883b7fbd27e5c64d/0_1fkKEEJ5E.mp4#t=2" type="video/mp4">
+  </source>
 Your browser does not support the video tag.
 </video>
 <small>[Video](https://syrianarchive.org/en/database?unit=e58e64bc) by Hadi Alabdallah of a factory next to the impact site which was targeted by a chemical bomb in Khan Shaykhun</small>
@@ -46,7 +47,7 @@ Through information from the Antwerp Criminal Court, we now know that 'The custo
 
 Francis Adyns, spokesperson of the Finance department, confirms that the Customs had proposed to A.A.E. Chemie a friendly settlement.
 
-> <span style="color:#fb8520">**That proposal referred to a first, closed part, of the investigation. AAE Chemie did not agree with the proposal. When the customs performed additional investigative acts in this case, in which the involvement of AAE Chemie came up again, AAE Chemie referred to the proposal of a friendly settlement. But because the company had not accepted the proposed settlement, the Customs did prosecute the company in the end.**</span>
+<span style="color:#fb8520">**That proposal referred to a first, closed part, of the investigation. AAE Chemie did not agree with the proposal. When the customs performed additional investigative acts in this case, in which the involvement of AAE Chemie came up again, AAE Chemie referred to the proposal of a friendly settlement. But because the company had not accepted the proposed settlement, the Customs did prosecute the company in the end.**</span>
 
 Contacted by Knack, the three companies [stress](http://www.knack.be/nieuws/belgie/isopropanol-schandaal-hoe-een-grondstof-voor-gifgas-door-de-handen-van-de-belgische-douane-glipte/article-longread-1097291.html) that they were not aware that export licenses were compulsory for exports of chemicals to Syria, as they had been exporting chemicals to private companies in Syria for over a decade. They state that they acted in good faith and that they did not have the intention to hide anything. They argue that the Belgian Customs' information system on legal obligations (TARBEL/TARWEB) was not up to date, and that the Belgian Customs scanned and controlled all exports to Syria for 100%. According to the companies, the Customs never refused any of the exports.
 
@@ -57,7 +58,7 @@ That chronology raises questions, especially bearing in mind public [statements]
 ![Belgium Politicians](../../assets/politicians.jpg)
 <small>*Deputy Prime Minister and Minister of Foreign Affairs Didier Reynders and Minister of Defence Steven Vandeput and Ahmet Üzümcü, Director-General of the Organisation for the Prohibition of Chemical Weapons (OPCW)*</small>
 
-In Belgium, the granting of export licenses is a responsibility of the three regions: Brussels, Wallonia and Flanders. Answers received after Freedom of Information Requests show that no export licenses for isopropanol were requested to the Walloon or Brussels authorities since 2013.  
+In Belgium, the granting of export licenses is a responsibility of the three regions: Brussels, Wallonia and Flanders. Answers received after Freedom of Information Requests show that no export licenses for isopropanol were requested to the Walloon or Brussels authorities since 2013.
 
 Public documents from the Flemish authorities show that in October 2016 a requested export license was denied for the export of dual-use chemicals to Syria, totaling €1.93 million. That case did not concern isopropanol, Flemish authorities confirm. But it shows that Belgium is not willing to grant export licenses for the export of dual-use chemicals to Syria.
 

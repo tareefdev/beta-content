@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: "الفريق"
 desc: "فريق عمل الأرشيف السوري"
 image: "/assets/about/about1.jpg"

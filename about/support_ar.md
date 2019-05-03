@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: "التعاون"
 image: "/assets/about/about2.jpg"
 level: 7

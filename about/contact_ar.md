@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: "تواصل معنا"
 image: "/assets/about/contactusnew.png"
 level: 6

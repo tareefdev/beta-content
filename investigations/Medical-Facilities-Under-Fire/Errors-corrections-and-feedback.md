@@ -1,4 +1,5 @@
 ---
+parent: Medical-Facilities-Under-Fire
 title: Errors, Corrections, and Feedback - Medical Facilities Under Fire
 date: 2017-07-01T00:04:18.055Z
 desc: An investigation about attacking Syrian hospitals

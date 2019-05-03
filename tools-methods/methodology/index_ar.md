@@ -1,9 +1,9 @@
 ---
-layout: contentwithsiblings.html
+parent: tools-methods
 title: "منهجية البحث"
-date: 2017-11-27
 desc: "أدوات وطرائق مفتوحة المصدر للتحقيقات - سير عمل الأدلة الرقميّة"
-image: /assets/technology/methods-workflows.png
+image: ../assets/technology/methods-workflows.png
+level: 1
 ---
 
 # (ثانيًا) منهجية البحث
@@ -26,7 +26,7 @@ image: /assets/technology/methods-workflows.png
 
 تم عرض هذه الخطوات الخمس في الشكل أدناه، إضافة إلى مزيد من المعلومات التفصيلية في الصفحات التالية.
 
-![workflow](/assets/workflow.png)
+![workflow](../assets/workflow.png)
 
 **الخطوة 1: إنشاء قاعدة بيانات لمصادر موثوقة من أجل المحتوى**
 

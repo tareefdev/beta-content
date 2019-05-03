@@ -1,4 +1,5 @@
 ---
+parent: about
 title: Team
 desc: Syrian Archive Staff
 image: "/assets/about/about1.jpg"

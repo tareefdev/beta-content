@@ -25,17 +25,6 @@ Here you can find the [video dataset of alleged civilian casualties from Russian
 
 Below you can see an interactive timeline to filter the attacks which happened between September 29th 2015 \| March 31st 2016.
 
-::: {#viz1471964642657 .tableauPlaceholder style="position: relative"}
-<noscript>
-<a href='https:&#47;&#47;syrianarchive.org&#47;'><img alt='Timline of published videos [Sep 2015 | March 2016] ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;At&#47;Attackedlocations-monthlySep2015March2016&#47;TimlineofpublishedvideosSep2015March2016&#47;1_rss.png' style='border: none' /></a>
-</noscript>
-<object class="tableauViz" style="display:none;">
-<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Attackedlocations-monthlySep2015March2016&#47;TimlineofpublishedvideosSep2015March2016' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;At&#47;Attackedlocations-monthlySep2015March2016&#47;TimlineofpublishedvideosSep2015March2016&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' />
-</object>
-:::
-
-                <script type='text/javascript'>                    var divElement = document.getElementById('viz1471964642657');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
 We can see from the timeline that **506 videos **have been captured in **October 2015** by citizen reporters as evidence of alleged Russian attacks against civilians.
 
 ![screenshot](../assets/timeline_russianattacks.png)
@@ -46,7 +35,7 @@ We can also see below that there were videos captured in **March 2016** by citiz
 
 ## Reports on Russian attacks on Syria's civilians
 
-We have collected a list of reports which have been published by human rights organisations and investigative journalists about the Russian attacks on Syria's civilians in Sept 29th 2015 \| April 30th 2016. Organisations include **Physicians for Human Rights, Amnesty International, Human Rights Watch**, **Syrian Network for Human Rights, Violations Documentation Center, Bellingcat, Airwars, Carter Center and Atlantic Council**. You can find all reports in the end of this page.
+We have collected a list of reports which have been published by human rights organisations and investigative journalists about the Russian attacks on Syria's civilians in Sept 29th 2015 \| April 30th 2016. Organisations include **Physicians for Human Rights, Amnesty International, Human Rights Watch**, **Syrian Network for Human Rights, Violations Documentation Center, Bellingcat, Airwars, Carter Center and Atlantic Council** . You can find all reports in the end of this page.
 
 ## Our methodology of verification
 
@@ -55,17 +44,6 @@ We have collected a list of reports which have been published by human rights or
 We have identified **98 sources **of information and their channels on social media platform (e.g YouTube and Facebook, Telegram). These sources are established groups that have been working in Syria for a long time, some of them since 2011/2012, and have been reliable in their reporting. These groups are based in different provinces and have been spreading information about incidents and violations happening in their areas for several years.
 
 Some of the sources are citizen reporters such as Yasser Doumany, who since 2011 has been based in Douma, or Hashem Al Abdallah, who since 2011 has been based in Idlib. Local and international news agencies, such as Smart News Agency, have also been consulted as well as human rights organisations working on documenting violations in Syria (e.g. Violation Documentation Center, Syrian Human Rights Network, White Helmets teams working across Syria). Some sources we have verified sent us videos which have not been published on social media.
-
-::: {#viz1471964762684 .tableauPlaceholder style="position: relative"}
-<noscript>
-<a href='https:&#47;&#47;syrianarchive.org&#47;'><img alt='Sheet 3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;At&#47;Attackedlocations-sourcesSep2015March2016&#47;Sheet3&#47;1_rss.png' style='border: none' /></a>
-</noscript>
-<object class="tableauViz" style="display:none;">
-<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Attackedlocations-sourcesSep2015March2016&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;At&#47;Attackedlocations-sourcesSep2015March2016&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' />
-</object>
-:::
-
-                <script type='text/javascript'>                    var divElement = document.getElementById('viz1471964762684');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ### Second: Collecting and processing the video dataset
 
@@ -76,17 +54,6 @@ After extracting data from around 98 sources which contained thousands of videos
 ### Third: Verifying the location
 
 Every video went through basic geolocation to verify that it has been captured in Syria. We have identified the actual province in most videos and the actual coordinates in some of them. This has been done by comparing reference points such as buildings, mountains range, trees, minaret with Google Earth satellite imagery, openstreetmap and geolocated photographs from panoramio. In addition to this we have checked the Arabic accent spoken in the video to make sure of the location of the video. Where possible we have contacted the source directly to confirm the location and also consulted our network of journalists operating inside Syria to confirm the locations of specific incidents. As a result of geolocating the videos, we have noticed that most of the videos were captured in Talbisah which is located in Homs and Latamneh which is located in Hamah.
-
-::: {#viz1471964577467 .tableauPlaceholder style="position: relative"}
-<noscript>
-<a href='#'><img alt='Locations ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MapofattackedlocationsinSyriaSep2015March2016&#47;Locations&#47;1_rss.png' style='border: none' /></a>
-</noscript>
-<object class="tableauViz" style="display:none;">
-<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='MapofattackedlocationsinSyriaSep2015March2016&#47;Locations' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MapofattackedlocationsinSyriaSep2015March2016&#47;Locations&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' />
-</object>
-:::
-
-                <script type='text/javascript'>                    var divElement = document.getElementById('viz1471964577467');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ### Fourth: Verifying the date
 

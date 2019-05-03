@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: "الشراكات"
 image: "/assets/about/partners.png"
 level: 4
@@ -23,3 +23,4 @@ level: 4
 - [شبكة أنباء الشام](https://www.facebook.com/ShaamNetwork.Arabic/)
 -  [بلدي نيوز](https://www.baladi-news.com/ar/)
 - [وكالة خطوة الإخبارية](http://stepagency-sy.net/)
+layout: contentwithsiblings.htmllayout: contentwithsiblings.html

@@ -1,4 +1,5 @@
 ---
+parent: Medical-Facilities-Under-Fire
 title: Incident 1 - Medical Facilities Under Fire
 date: 2017-07-01T00:06:18.055Z
 desc: An investigation about attacking Syrian hospitals

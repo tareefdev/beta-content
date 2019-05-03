@@ -1,8 +1,10 @@
 ---
+parent: second-medical-facilities-under-fire
 title: "Methodology"
 date: 2018-02-19T00:02:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
 image: ../../assets/national15.jpg
+level: 2
 ---
 
 This report took an interdisciplinary approach towards investigating attacks on medical facilities in Idlib during January and February 2018. In the report, the authors have included a variety of sources for analysis and investigation, which each have their own respective methodologies. Specific methodologies are provided in the following pages:

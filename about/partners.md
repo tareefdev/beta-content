@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: Partners
 image: "/assets/about/partners.png"
 level: 4

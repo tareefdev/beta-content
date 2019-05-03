@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: Press
 date: 2017-11-27
 desc: Recent articles featuring the Syrian Archive

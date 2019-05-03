@@ -24,6 +24,7 @@ Below is a walkthrough of the search we conducted on the Comtrade database.
 
 <video controls autoplay width="100%">
   <source src="https://cube.syrianarchive.org/isopropanoluncomptrade.mp4" type="video/mp4">
+  </source>
 Your browser does not support the video tag.
 </video>
 

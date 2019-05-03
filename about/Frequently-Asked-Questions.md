@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: about
 title: Frequently Asked Questions
 image: "/assets/main_back.jpg"
 level: 2

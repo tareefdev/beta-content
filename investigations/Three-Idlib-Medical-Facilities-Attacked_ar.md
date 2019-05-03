@@ -27,40 +27,40 @@ level: 0
 الذخائر المحدّدة: غير متوافرة
 المسؤول المحتمل: القوات الجوية الروسية
 
-![Muaz-khan-sheikun.png](https://lh5.googleusercontent.com/beg_zFTfkcyiUWu86LCR5IWI1JKTIszfhknq4RqH5Pi4qklIc7vW-xhc-9LrtcrA7R1kTvFPtdC4GPMCKdv7TZ0V6HHHv9XAgTt_-ubzRNPew_MRCKr5XBtmYFV6j0Tb-1Uv3bqg)
-\[Written on the wall "The health care center of Khan Shaykoun"\]
+![Muaz-khan-sheikun.png](../assets/investigations/khan-sheikun01.png)
+[Written on the wall "The health care center of Khan Shaykoun"]
 
 في 19 أيلول - سبتمبر 2017، وما بين الساعة 11:00 إلى 11:45 صباحًا، هوجمت مستشفى الرحمة في خان شيخون بغارات جوية زُعم أنها من قبل القوات الجوية السورية. تقدم المستشفى ￼خدماتها الطبية لما يقارب 50,000 - 100,000 شخص. هوجمت مستشفى خان شيخون سابقًا في 4 نيسان - أبريل 2017، مباشرة عقب هجوم بالأسلحة الكيميائية بغاز السارين أو مادة شبيهة بالسارين،[تم تأكيده بتقرير نشرته منظمة حظر الأسلحة الكيميائي](https://www.opcw.org/fileadmin/OPCW/Fact_Finding_Mission/s-1510-2017_e_.pdf)ة.
 
 [نُشر أول مقطع فيديو يوثّق هجوم 19 أيلول - سبتمب](https://www.youtube.com/watch?v=CAeBtlsiwfE)ر من قبل معاذ الشامي، ويظهر فيه الدمار في بناء مستشفى خان شيخون، إضافة للحريق داخل المبنى. قال الشامي في مقطع الفيديو: "احترقت المعدات بشكل كامل، سيارتا إسعاف احترقوا بشكل كامل، إضافة لتدمير المشفى وخروجه عن الخدمة تمامًا".
 
-![Muaz3.png](https://lh5.googleusercontent.com/qJqFJnrcANcggABk2_WHXGGafd4VsaWh6Se2LhtdWF8S4TjNSuRT3upBThP24KNvb0pl4BMYFH37UcOa573DdCSIj6sZ13kXw5hHHcQHB0q9wTWUpbfRBdjo4fEG9a6xPmW-20f3)
+![Muaz3.png](../assets/investigations/muaz3453.png)
 
 أجرى الشامي مقابلة مع أحد العاملين بالمستشفى، والذي قال في مقطع الفيديو: "في 19 أيلول 2017 استُهدفت مشفى الرحمة بخان شيخون، تعالج هذه المشفى الأطفال والنساء، وتخدّم ما يقدر بين 75,000 و 100,000 نسمة، استهدف الطيران هذه المشفى فخرجت عن الخدمة، وخرجت عن الخدمة سيارتا إسعاف لمنظومة شام الإسعافية".
 
 [نشرت قناة أورينت نيوز مقطع فيدي](https://www.youtube.com/watch?v=eNMQXSkgB1g)و للحادثة نفسها، أٌعد من قبل محمد فيصل، انظر أدناه:
 
-![mouhamedfaisal1.png](https://lh3.googleusercontent.com/KqtoJs5iqq0FUxrRlQNUkX4f-HPww1xKxTDpQZIet2R5zoBwgBTbUapCA95dFSYZt2kgWqmlsZZ1MoxvPDLoAVqZhzDCTkBTZd-ayf1puYOoIuRXLE-QQ12hq8LC6NqPmZOia2Oe)
+![mouhamedfaisal1.png](../assets/investigations/mouhamedfaisal1653.png)
 
 يظهر الفيديو الدمار الكامل في المستشفى، انظر أدناه:
 
-![mf2.png](https://lh6.googleusercontent.com/JQ7FavjwHghglhLsh2Iu2HXQw_G0yczihwuMnW7ZSo7cJxTlLXv9o46arKm3vgpeFLWx-4PWRW7Nk6urzVHrWJcjrfZ-rg3KJMxIL_lVBcR__eJEZ1qReKTqfaDFrDQj6G7QZBOw)
+![mf2.png](../assets/investigations/mf23678.png)
 
 [نشر "الأرشيف السوري" تحقيقًا عن الهجوم السابق](https://syrianarchive.org/ar/investigations/Medical-Facilities-Under-Fire/Incident-2.html) على المستشفى في 4 نيسان - أبريل 2017، فيما يلي الموقع الجغرافي للهجوم السابق:
 
-![Screen Shot 2017-05-11 at 8.15.33 AM.png](https://lh4.googleusercontent.com/BBQiFza5NCIXt1TkQ3lR22Xcw2iBTRCv9G6qYuUdTjOOmjgTF7_Oeameztabke0HAenvZJ6Agg-OFGry7RZEwlLsNAx7oQ8c7vwUxLSrDskOqb1cYGP8srhE1mR8nbNKAz17bJHB)
+![Screen Shot 2017-05-11 at 8.15.33 AM.png](../assets/investigations/three387.png)
 
 فيديو من قبل معاذ الشامي ودرر الشام بعد الهجوم على خان شيخون في الرابع من أبريل - نيسان 2017
 
 يؤكد التوثيق المصوّر لحادثة 19 أيلول أن الهجوم وقع في الموقع الجغرافي ذاته، انظر أدناه:
 
-![kh-before-after-19-09-17-draft (1).png](https://lh3.googleusercontent.com/PNX4gzcvz7hA3rnYSNDqQ24taq4YLF65jN4Gd9kjR-PlofQFVZNbOa_TPWosWEAZ7uRZSuNJ5q4kkQw3jMqzfGMwbgUhu37eJt4j1RRmezAD7RvBa233nO9vuBR7OQO94893wY0P)
+![kh-before-after-19-09-17-draft (1).png](../assets/investigations/kh-before-after-19-09-17-draft353.png)
 
 لقطة من مقطع فيديو أورينت نيوز لهجوم 19-09-2017، مقارنة مع صور أقمار صناعية التُقطت في 21-02-2017 و 02-06-2017
 
 نشرت مديرية صحة حماة بيانًا عن الهجوم على[صفحتهم على موقع فيسبو](https://www.facebook.com/HamaHealthDirectorate/photos/a.491994577596716.1073741829.473950772734430/1334949736634525/?type=3&theater)ك، قالوا فيه أن المستشفى هوجمت في الساعة 11:00 صباحًا من يوم 19-09-2017 بغارتين جويتين، ما تسبب بأضرار في بناء المشفى، إضافة إلى تعطيل في المعدات واحتراق ثلاث سيارات إسعاف.
 
-![19-09-kh-statement.png](https://lh6.googleusercontent.com/flVQkjewmZj1rbvEQcwV3dbG-XOoseP08ZLmCDdxWcKx7QV2LyiZTFYBKoI15dRvHoHFlpyz2RBBE9ZcRT2HMi6YWHpXFwyUZuUcRnf3OlKAC22IMpiIysrgMT2daGdrNDscw7rN)
+![19-09-kh-statement.png](../assets/investigations/19-09-kh-statement535.png)
 
 فيما يلي مقاطع فيديو إضافية متعلقة بهذا الهجوم:
 
@@ -101,41 +101,41 @@ level: 0
 
 كما[نشرت وكالة سمارت للأنباء شريط فيدي](https://www.youtube.com/watch?v=JqYnn5J5AX4)و يُظهر سيارة إسعاف وسيارة مدنية دُمرتا نتيجةً للهجوم.
 
-![ambulancesmart.png](https://lh4.googleusercontent.com/r1ZE4NMCD0Ll9x6LysVZkRICknKRY1YVw2Aeh7kDQfzZXlCh3B9qhPAdCnzvKOyfimRgUZ-nsMUCYWRK__VcsixDqifWa1Rtq6LAGLcros5N-ZSGsSxXadFEwAjFogW7V-M9-Ls1)
+![ambulancesmart.png](../assets/investigations/ambulancesmart6738.png)
 
 كما نُشر فيديو آخر من قبل معاذ الشامي في قناته على اليوتيوب[يُظهر نفس سيارة الإسعاف](https://www.youtube.com/watch?v=kVd2AFqikhk)، انظر أدناه:
 
-![muazambulancerahman.png](https://lh3.googleusercontent.com/Owx0JtybfwPNvLG5SriVMsOGpLXWFVVhwb-XuNRRIPS_BMb3quh1hP9PuHWjfkwDFiB4uajt1np8Pf3S94kQpicZP_YVb2y_TxnvGk1b7zQAKNvUrVpSudLhnvev4rSkVlHWWZLR)
+![muazambulancerahman.png](../assets/investigations/muazambulancerahman294.png)
 
-![car-smart.png](https://lh4.googleusercontent.com/bCLdoK6LRajjSGmRtyklVxULVJlMrAqMp5S7xOuvAXbw44jxUiDCmbc_0xcKEwGdZbrXfHFUgO6gcjQWn0pVn9JwPLEWreAiYH9hXQ6hNyJtihXrx4mBVpvxDaY6NhzF2jUl4ZiU)
+![car-smart.png](../assets/investigations/car-smart930.png)
 
 في الفيديو، من الممكن قراءة اللافتة بجوار الباب والتي تقول "شُيّد هذا المشفى على نفقة أهل الخير بإشراف جميعة الإحسان الخيرية في عام 2016". انظر أدناه:
 
-![sign-smart.png](https://lh5.googleusercontent.com/gL1S--4m91IwFZAz8seoPADW5Dms3Y7IlxJMbRyEzSV27FbPxoPxrJkNdgicwBtFuhpcNGSBUkmBUAAU-EuDUOuDlGM0Tt6PxhyMkHLpoMhlbAdSUAdyk2dYRmq9KxXGm_nBHY9u)
+![sign-smart.png](../assets/investigations/sign-smart015.png)
 
 وظهرت لافتة أخرى في نفس الفيديو بالنصّ التالي: "مستشفى الرحمن الخيري التخصصي. نسائية - توليد - أطفال. اسعاف على مدار 24 ساعة".
 
-![muaz-hospital-sign.png](https://lh4.googleusercontent.com/QJ5_j6f6CTj-T6pgIsAb-wCgD-cVOrSiuye_d79SnbxDIH-FlJHLFLFgb-cfNcjm3K7wpJpIcZseyMF6LOsrjUo83FWpKarhFJ2wdeYdiJn_KVbft4gwZfZoaeRAwJfTJiyQr13j)
+![muaz-hospital-sign.png](../assets/investigations/muaz-hospital-sign401.png)
 
-والتقط مراسل وكالة سمارت للأنباء بعض اللقطات داخل المستشفى والتي تُظهر اللافتة التالية: "\[قسم\] الحواضن". انظر أدناه:
+والتقط مراسل وكالة سمارت للأنباء بعض اللقطات داخل المستشفى والتي تُظهر اللافتة التالية: "[قسم] الحواضن". انظر أدناه:
 
-![infant-dep-smart.png](https://lh4.googleusercontent.com/RERwyQXRHx1AU_khCZrNiDY_EMlkv7c6JawEekRfrPVRI9V1DrYSTphg4cXO5r6baQvnfdBt8ufom-1MsZ6XoSRnYjSH6p0QBXQvxTyJr4KkdW6vvHABCNvpmpmW-Uy_Hq9hY_JV)
+![infant-dep-smart.png](../assets/investigations/infant-dep-smart200.png)
 
-![infant-room.png](https://lh3.googleusercontent.com/sShX8BmdfgHzro6d80yxY7CTROndTTTHjncb-6JTBnHSTZsN79snPetKf5_Ki8hzQ0G8mS9Ri9u15zHjlqpUJU5nNIXnRqKN9URYJrmowMgpuOZyRNAS_h6k7jAdwkU0PbqHpmsN)
+![infant-room.png](../assets/investigations/infant-room104.png)
 
 ويُظهر فيديو معاذ الشامي بطاقات عُلقت على الحواضن، اللقطة التالية تُظهر أحدها وقد كُتب عليها "اسم الطفل: نور الشون، الجنس: أنثى، اسم الأب: عُمر، التاريخ: 18-09-2017". انظر أدناه:
 
-![postinfantmuaz2.png](https://lh3.googleusercontent.com/6EJQTg8N0ayBRwnA-vdI0DaLAcmBu4XKuq5BDwbZ1BLIZy8qYsvbqatt6TKqmZbSCw3ZaG7ezDbFbCBIK6qCcEmVJc7tcKxhEEs0QqXlV0IfsoQ_oepuESdNoN8HoHW_ijuTTQPQ)
+![postinfantmuaz2.png](../assets/investigations/postinfantmuaz239.png)
 
-![card-infant-muaz.png](https://lh3.googleusercontent.com/cd5Kc7_DpmVjiUMuM2tE9AmVaoi9fA-mMsAbc-PImvRI0Xzlb9QT8I_u7_BwRKEm8Q4xe_D9iGda8d3TalSzU8n46KfykmjrSGj3Q2H4M9Bq4busyHhepS_IU5dlzmh0F6TmHiYz)
+![card-infant-muaz.png](../assets/investigations/card-infant-muaz49.png)
 
 وتشمل أقسام المستشفى الأخرى والتي يُمكن التعرّف عليها من خلال فيديو سمارت نيوز "قسم مرضى النسائية" انظر أدناه:
 
-![women-section.png](https://lh3.googleusercontent.com/h4SlXP8VEb8qrNcjEx03JBAA5tjnxnxX2c2DL19fm1kP0GG1tVVoEKJQdt-wsp_yMUn2D_BLFRhtdzn9PDpailgOHEIEppCgMJJstxws4b-6HnHhPwzC82rA0Puovx4XEwLyYJXw)
+![women-section.png](../assets/investigations/women-section34.png)
 
 بالإضافة إلى قسم "الأشعة والإسعاف". انظر أدناه:
 
-![emergenct-departmentr.png](https://lh6.googleusercontent.com/_p7Zw1iUiGC4a3RxI4GmU6D54sg06fL4ivnMg1aG2FF-RclA0fPskWNxNbn7jr_nylcbgCMSdTdKiLSvPIoY6jnWPFXK0Ryd_IsID8OMAyzgs6p1secEwjvH5puoeCxRzJfD8UvS)
+![emergenct-departmentr.png](../assets/investigations/emergenct-departmentr90.png)
 
 وفي مقابلة بنفس الفيديو قال أحد الموظفين العاملين في المؤسسة الطبية "أصيب عدد من العاملين في المستشفى، بما فيهم مدير القسم الإداري. وتوفيت إحدى الموظفات نتيجة الهجوم. المنشأة الطبية خارج الخدمة الآن نتيجةَ لهذا الهجوم".
 
@@ -143,27 +143,27 @@ level: 0
 
 كما تم إنشاء صورة بانورامية للمستشفى المستهدف باستخدام اللقطات الثابتة[من فيديو معاذ الشامي](https://www.youtube.com/watch?v=kVd2AFqikhk). انظر أدناه:
 
-![1m - 7m.jpg](https://lh4.googleusercontent.com/etE-4mbcsPw2yMS0SjSbzGIC96nCg00E4Tjxm56vnedviennygLMRIk2j6cqENvddm_rLpCQop6epEkgKeVZZa5pDBchek0stQNxHU4WP5-0hKFMFW3Bhg82pE6McojdKghq1W-c)
+![1m - 7m.jpg](../assets/investigations/1m7m11.jpg)
 
 وتم الحصول على صور إضافية من الأقمار الصناعية من DigitalGlobe والذي يمكن من خلاله تحديد الموقع الجغرافي للمشفى. انظر أدناه:
 
-![teh-hospital-geolocation.png](https://lh3.googleusercontent.com/A1YGi-bbQ6q46n5naZjjMRL7tCCoVrkvog30lq6eUBkH8QaDcC28kDCII9XIiKerN3vnPlLm3uih9iMkW42sMWW7Ebkgy9Y7nAVL5EYDQRxdaueK4ivrjHGWuYKGXk0Kej_lqfeb)
+![teh-hospital-geolocation.png](../assets/investigations/teh-hospital-geolocation210.png)
 
 وفيما يلي وثائق فيديو إضافية عن هذا الحادث:
 
-1.  فيديو:[الطائرات الروسية تدمر مشفى التوليد في بلدة "التح" بشكل كامل](https://www.youtube.com/watch?v=xL_S1vkzBKA)
+1. فيديو:[الطائرات الروسية تدمر مشفى التوليد في بلدة "التح" بشكل كامل](https://www.youtube.com/watch?v=xL_S1vkzBKA)
 
-2.  فيديو:[شاهد الدمار الذي خلفته الطائرات الحربية إثر الغارات التي نفذتها على مشفى الرحمن في بلدة التح](https://www.youtube.com/watch?v=eQHvrWI3s20)
+2. فيديو:[شاهد الدمار الذي خلفته الطائرات الحربية إثر الغارات التي نفذتها على مشفى الرحمن في بلدة التح](https://www.youtube.com/watch?v=eQHvrWI3s20)
 
-3.  فيديو:[الدفاع المدني -اخماد حريق مشفى الرحمن ببلدة التح بريف معرة النعمان](https://www.youtube.com/watch?v=N_nrvqA8mw8)
+3. فيديو:[الدفاع المدني -اخماد حريق مشفى الرحمن ببلدة التح بريف معرة النعمان](https://www.youtube.com/watch?v=N_nrvqA8mw8)
 
-4.  فيديو:[قصف مشفى الرحمن قي بلدة التح 19/9/2017 ريف ادلب الجنوبي الشرقي - بلدة التح](https://www.youtube.com/watch?time_continue=1&v=sDHG9Rnev8w)
+4. فيديو:[قصف مشفى الرحمن قي بلدة التح 19/9/2017 ريف ادلب الجنوبي الشرقي - بلدة التح](https://www.youtube.com/watch?time_continue=1&v=sDHG9Rnev8w)
 
-5.  تغريدة:[الطيران الروسي يدمر مشفى التوليد في بلدة \#التح](https://twitter.com/MOAZALSHAMY/status/910130188922576897)
+5. تغريدة:[الطيران الروسي يدمر مشفى التوليد في بلدة #التح](https://twitter.com/MOAZALSHAMY/status/910130188922576897)
 
 وبغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوري النتائج المستخلصة من مقاطع الفيديو مع بيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية تحليل بيانات رصد الطيران ما بين الساعة 07:00 و 15:00، وهي الفترة الزمنية التي سبقت الهجوم وتلته مباشرة. انظر أدناه:
 
-![mn-national-h1.jpg](../assets/19_sept_2017_-_4.width-800.png)
+![mn-national-h2](../assets/19_sept_20174width-800.png)
 
 من خلال مقارنة الرحلات الجوية المرصودة، والوقت الذي رُصدت به، ووجهات هذه الرحلات، ومقارنة هذه البيانات مع المواقع الجغرافية المقدّمة في الخطوة السابقة؛ تمكّن الأرشيف السوري من تحديد العديد من الرحلات المحتملة المسؤولة عن هذا الهجوم (عدّة طائرات روسية ثابتة الجناح، بالإضافة إلى طائرة من طراز ميغ-23 فلوجر) حيث شوهدت هذه الطائرات تُحلق فوق المنطقة الجغرافية للهجوم. وقد خلصت التحقيقيات السابقة إلى أن الطيران الدائري في السماء عادةً ما يُشير إلى محاولة الاستحواذ على الهدف أو التحضير لهجوم وشيك. تجدر الإشارة إلى أنه وعلى الرغم من أن نوع الطائرات المرصودة روسية، فمن الممكن أنه يكون قد تم تشغيل هذه الرحلات الطلعات الجوية من قبل القوات الجوية السورية بدلًا من القوات الجوية الروسية. حيث تقوم القوات الجوية السورية بتشغيل الطيران الحربي الروسي أحيانًا.
 
@@ -171,10 +171,10 @@ level: 0
 
 الموقع: إدلب: كفرنبل
 المستشفى: مستشفى كفرنبل
-المستفيدون: \~ 3000 شخص شهريا
+المستفيدون: ~ 3000 شخص شهريا
 التاريخ: 19/9/2017
 وقت الهجوم: الغارة الجوية الأولى: 10:30، الغارة الجوية الثانية: 10:35، الغارة الجوية الثالثة: 10:40
-الهجمات: ثلاث غارات جوية روسية مزعومة\
+الهجمات: ثلاث غارات جوية روسية مزعومة
 القتلى المبلغ عنهم: لا يتم الإبلاغ عن وقوع قتلى
 الجرحى المبلغ عنهم: جريح واحد كان يقف كان يقف خارج المشفى
 الذخائر التي تم تحديدها: لم يتم تحديد الذخائر المستخدمة
@@ -184,33 +184,33 @@ level: 0
 
 راديو "فريش"[نشر فيدي](https://www.facebook.com/Radio.Fresh.90.00FM/videos/1663365057041915/)و يوثق اللحظات الأولى من الهجوم، حيث أن مصورهم كان متواجداً في موقع الحادثة.
 
-كما[نشرت وكالة \"عين على وطن أيضا فيدي](https://www.youtube.com/watch?v=eYUZlbUKH2k)و يظهر لافتة المستشفى والتي تتضمن اسم وشعار المنظمة الداعمة[(يدا بيد لسور](https://hihfad.org/)ية). وتصف المنظمة نفسها على الموقع: "يدا بيد من أجل سوريا هي مؤسسة خيرية مسجلة في المملكة المتحدة أنشئت بعد فترة وجيزة من بدء الصراع في سوريا في عام 2011. تم انشاؤها من قبل مجموعة من السوريين البريطانيين، نمت المؤسسة الخيرية لتصبح قوة إنسانية رائدة داخل البلاد". انظر أدناه
+كما[نشرت وكالة "عين على وطن أيضا فيدي](https://www.youtube.com/watch?v=eYUZlbUKH2k)و يظهر لافتة المستشفى والتي تتضمن اسم وشعار المنظمة الداعمة[(يدا بيد لسور](https://hihfad.org/)ية). وتصف المنظمة نفسها على الموقع: "يدا بيد من أجل سوريا هي مؤسسة خيرية مسجلة في المملكة المتحدة أنشئت بعد فترة وجيزة من بدء الصراع في سوريا في عام 2011. تم انشاؤها من قبل مجموعة من السوريين البريطانيين، نمت المؤسسة الخيرية لتصبح قوة إنسانية رائدة داخل البلاد". انظر أدناه
 
-![handinhand.png](https://lh3.googleusercontent.com/_CILap3b9Tt1L-tSownhEXXABatVTuKNWrg6TCi08cVh0lBTQ5k-LqL1ln3Fya4ammFWtnMyZE9YljPSRMMk4q2ZSLYFgVFN0MyEgT7Zo1ZMgjz3F6woUut5RsrS10mgd8lEJ4g6)
+![handinhand.png](../assets/investigations/handinhand-554.png)
 
 يظهر الفيديو أيضا مبنى صغير تضرر نتيجة لهذا الهجوم والهجوم السابق الذي استهدف نفس المستشفى . انظر أدناه:
 
-![Screen Shot 2017-09-22 at 10.52.19 AM.png](https://lh5.googleusercontent.com/hp93k4GKQ92TW8iNCx5tK8a6B_wTv1xbBhCYlYP5Hy6TdtaR9UZj5F1zQDHw6dmmL-hF3yCqCvK-0S9A87bkU87H06jbInpK653Jsn0PPOgqsBrP-Wwy98hpuVGFlYlzZWs0tDHy)
+![Screen Shot 2017-09-22 at 10.52.19 AM.png](../assets/investigations/19-09-kh00.png)
 
 كما[نشر محمد الضاهر](https://www.youtube.com/watch?v=2RJ-k5jXopQ) مركز المعرة الإعلامي فيديو يظهر حفرة تقع أمام المستشفى نتجت عن لهجوم. انظر أدناه :
 
-![crater-mmc1.png](https://lh4.googleusercontent.com/buka2m5_UMRFS4c40ooDdtBM5C0Eu49X0MIPD6s3LljSiU1Sk2xwrLss8kO9GeoL0zGg6734QmNWxqU6tivl86gFWiOD9AwtmhVJJzrOlEMagop-pq3M5vAfZMDsOW9cHEO31rgt)
+![crater-mmc1.png](../assets/investigations/crater-mmc081.png)
 
 وفي مقابلة ضمن الفيديو، قال أحد الناجين: "كنا نعمل، ثم رأينا القوات الجوية التي استهدفتنا ولم نكن نتوقع ذلك"
 
 وتظهر[صورة أخرى نشرت على صفحة الفيسبوك](https://www.facebook.com/maaramediacenter/photos/pcb.311922602607704/311922422607722/?type=3&theater) الخاصة بمركز المعرة الإعلامي نفس الحفرة أمام المستشفى. انظر أدناه:
 
-![crater.jpg](https://lh4.googleusercontent.com/Y1-ixgj93wYzDhpStuqKo1jeYNW7CQnU2Tp0ppRxyYkbq6yY40gNrHVmQeiLhBEctGuL39D00k8D_u3kahbkt0ijsNZyPiOVKghESX3A8zViVd3UObQG-uiWeWTeNpHwJQimxxAW)
+![crater.jpg](../assets/investigations/crater20983.jpg)
 
 [نشرت وكالة سمارت](https://www.youtube.com/watch?v=M3zsuyum6QQ) للأنباء فيديو يظهر مدخل المستشفى. وفي نفس الفيديو، قال أحد موظفي المستشفى في مقابلة: "كنا نعمل على حالة طارئة عندما وقعت الغارة الجوية. لم يتعرض أحد من الطاقم الطبي للإصابة، ولكن أصيبت فتاة واحدة في ظهرها، بينما كانت تقف خارج المستشفى."
 
 استخدم الأرشيف السوري إطارات من هذا الفيديو لإنشاء مشهد بانورامي لمدخل المستشفى. انظر أدناه:
 
-![1smart - 2smart3.jpg](https://lh6.googleusercontent.com/F2ZA7ezW9bcO6uL5zE3aCuCsbnFfY2mURRjJXgv1o53YaN2-yKWNI3mJ7wIFySkC1F9C4AtcXQsiMsZZWGB0BQYsXWCRCAKv9U4O6-fd7hPg_46cQA1l3F8yHMpBEBhqbuIMaRAy)
+![1smart - 2smart3.jpg](../assets/investigations/1smart2smart3.jpg)
 
 وبالاعتماد على هذا، جنباً إلى جنب مع صور القمر الصناعي التي تم الحصول عليها من (ديجيتال غلوب) ،تمكنا من تحديد الموقع الجغرافي للمستشفى. انظر أدناه :
 
-![geo-draft1.png](https://lh5.googleusercontent.com/WpSnJCUM1-hWhXo9Pv_05visesJCheYseiecr7UuAgPUuq4AgaZs3TAqgUa9EyFuaoM8i_EuHzq-OUkAcnj-Kv9dKwMS6abLnKJNcUVV_iSFKFFqUwyoc2-Jp5fPvNv06EcHEUPt)
+![geo-draft1.png](../assets/investigations/geo-draft081.png)
 
 وفيما يلي فيديوهات إضافية توثق هذه الحادثة :
 

@@ -1,4 +1,5 @@
 ---
+parent: Eyes-on-Aleppo
 layout: investigation.html
 title: "موجز النتائج - عين على حلب"
 date: 2017-03-29T00:01:23.055Z

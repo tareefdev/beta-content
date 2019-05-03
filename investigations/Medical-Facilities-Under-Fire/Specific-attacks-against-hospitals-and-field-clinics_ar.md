@@ -1,4 +1,5 @@
 ---
+parent: Medical-Facilities-Under-Fire
 layout: investigation.html
 title: "حوادث مُحدّدة لهجمات ضد المستشفيات والمشافي الميدانية - مرافق صحية تحت النار"
 date: 2017-07-01T00:00:18.055Z

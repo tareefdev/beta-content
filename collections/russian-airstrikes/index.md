@@ -1,9 +1,10 @@
 ---
-layout: "collections/russianairstrikes.html"
+parent: collections
 title: Russian Airstrikes Database
 date: 2018-10-31T00:05:18.055Z
 desc: Documentation of alleged Russian airstrikes targeting civilians and civilian infrastructure
 image: /assets/collections/atarib-airstrike100.jpg
+level: 1
 ---
 
 <small>31 Oct 2018</small>

@@ -7,57 +7,58 @@ image: /assets/chemical/chemicalheader.jpg
 level: 1
 ---
 
-import Abouten from './aboutSA.md';
-import Acknowledgements from './acknowledgements.md';
-import Errors from './errors.md';
-import Intro from './intro.md';
-import Methodology from './methodology.md';
-import Shortsaabout from './shortSAabout.md';
-import Submit from './submit.md';
-import Thedata from './thedata.md';
-import Thedata2 from './thedata2.md';
-import Useofchemicalweapons1 from './useofchemicalweapons1.md';
-import Useofchemicalweapons2 from './useofchemicalweapons2.md';
-import Usingthedatabase from './usingthedatabase.md';
-import Violationslist from './violationslist.md';
+import ChAbout from './aboutSA.md';
+import ChAcknowledgements from './acknowledgements.md';
+import ChErrors from './errors.md';
+import ChIntro from './intro.md';
+import ChMethodology from './methodology.md';
+import ChShortsaabout from './shortSAabout.md';
+import ChSubmit from './submit.md';
+import ChThedata from './thedata.md';
+import ChThedata2 from './thedata2.md';
+import ChUseofchemicalweapons1 from './useofchemicalweapons1.md';
+import ChUseofchemicalweapons2 from './useofchemicalweapons2.md';
+import ChUsingthedatabase from './usingthedatabase.md';
+import ChViolationslist from './violationslist.md';
 
 import Timeline from '../../../src/components/timeline.js';
 
 ## Chemical Weapons Database
-<Intro />
-<Shortsaabout />
+<ChIntro />
+<ChShortsaabout />
 
 ## These videos include
-<Violationslist />
+<ChViolationslist />
 
 ## The use of chemical weapons in Syria
-<Useofchemicalweapons1 />
-<Useofchemicalweapons2 />
+<ChUseofchemicalweapons1 />
+<ChUseofchemicalweapons2 />
 
 <Timeline 
 	width={700}
 	height={200}
 	collectionName = {"Chemical weapons"}
+	lang={"en"}
 />
 
 ## The Data
-<Thedata />
-<Thedata2 />
+<ChThedata />
+<ChThedata2 />
 
 ## Using the Database
-<Usingthedatabase />
+<ChUsingthedatabase />
 
 ## Methodology
-<Methodology />
+<ChMethodology />
 
 ## About Syrian Archive
-<Abouten />
+<ChAbouten />
 
 ## Video submission
-<Submit />
+<ChSubmit />
 
 ## Errors, corrections and feedback
-<Errors />
+<ChErrors />
 
 ## Acknowledgements
-<Acknowledgements />
+<ChAcknowledgements />

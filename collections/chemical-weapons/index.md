@@ -22,6 +22,7 @@ import ChUsingthedatabase from './usingthedatabase.md';
 import ChViolationslist from './violationslist.md';
 
 import Timeline from '../../../src/components/timeline.js';
+import BlockViz from '../../../src/components/blockviz.js';
 
 ## Chemical Weapons Database
 <ChIntro />
@@ -29,6 +30,27 @@ import Timeline from '../../../src/components/timeline.js';
 
 ## These videos include
 <ChViolationslist />
+
+###### Number of Videos
+<BlockViz 
+	width={700}
+	numbers={[862]}
+	colors={["teal"]}
+/>
+
+###### Sources of data
+<BlockViz 
+	width={700}
+	numbers={[193]}
+	colors={["red"]}
+/>
+
+###### Chemical weapon attacks
+<BlockViz 
+	width={700}
+	numbers={[162,50]}
+	colors={["SkyBlue","orange"]}
+/>
 
 ## The use of chemical weapons in Syria
 <ChUseofchemicalweapons1 />
@@ -40,6 +62,8 @@ import Timeline from '../../../src/components/timeline.js';
 	collectionName = {"Chemical weapons"}
 	lang={"en"}
 />
+
+
 
 ## The Data
 <ChThedata />

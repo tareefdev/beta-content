@@ -22,6 +22,7 @@ import ChUsingthedatabaseAr from './usingthedatabase_ar.md';
 import ChViolationslistAr from './violationslist_ar.md';
 
 import Timeline from '../../../src/components/timeline.js';
+import BlockViz from '../../../src/components/blockviz.js';
 
 ## قاعدة بيانات الأسلحة الكيماوية
 <ChIntroAr />
@@ -29,6 +30,27 @@ import Timeline from '../../../src/components/timeline.js';
 
 ## تحتوي مقاطع الفيديو على
 <ChViolationslistAr />
+
+###### عدد الفيديوهات
+<BlockViz 
+width={700}
+numbers={[862]}
+colors={["teal"]}
+/>
+
+###### مصادر البيانات
+<BlockViz 
+width={700}
+numbers={[193]}
+colors={["red"]}
+/>
+
+###### هجمات الأسلحة الكيماوية
+<BlockViz 
+width={700}
+numbers={[162,50]}
+colors={["SkyBlue","orange"]}
+/>
 
 ## استخدام الأسلحة الكيماوية في سوريا
 <ChUseofchemicalweapons1Ar />

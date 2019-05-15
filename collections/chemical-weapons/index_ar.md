@@ -23,6 +23,7 @@ import ChViolationslistAr from './violationslist_ar.md';
 
 import Timeline from '../../../src/components/timeline.js';
 import BlockViz from '../../../src/components/blockviz.js';
+import RemovedVideos from '../../../src/components/removedvideos.js';
 
 ## قاعدة بيانات الأسلحة الكيماوية
 <ChIntroAr />
@@ -65,6 +66,14 @@ lang={"ar"}
 
 ## البيانات
 <ChThedataAr />
+
+###### فيديوهات حُذفت من يوتيوب
+
+<small> بتاريخ 20.4.2018 </small>
+<RemovedVideos 
+width={800}
+/>
+
 <ChThedata2Ar />
 
 ## استخدام قاعدة البيانات

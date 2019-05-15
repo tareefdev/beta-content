@@ -23,6 +23,7 @@ import ChViolationslist from './violationslist.md';
 
 import Timeline from '../../../src/components/timeline.js';
 import BlockViz from '../../../src/components/blockviz.js';
+import RemovedVideos from '../../../src/components/removedvideos.js';
 
 ## Chemical Weapons Database
 <ChIntro />
@@ -67,6 +68,13 @@ import BlockViz from '../../../src/components/blockviz.js';
 
 ## The Data
 <ChThedata />
+
+###### Videos Removed From Youtube
+<small> as of 20.4.2018 </small>
+<RemovedVideos 
+	width={800}
+/>
+
 <ChThedata2 />
 
 ## Using the Database

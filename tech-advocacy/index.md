@@ -3,6 +3,7 @@ layout: contentwithsiblings.html
 title: "Tech Advocacy"
 desc: "Amount of content preserved, made unavailable and restored"
 image: /assets/takedowns.jpg
+level: 1
 ---
 
 Gaining physical access to be able to investigate and report on human rights violations in Syria is very limited and dangerous for independent journalists, international news agencies, UN investigation bodies and international human rights organisations. This is the main reason Syrian Archive and other documentation groups depend on verified user generated content to assist in criminal case building as well as human rights research. 

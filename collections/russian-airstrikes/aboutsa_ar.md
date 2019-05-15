@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: "حول الأرشيف السوري"
 date: 2018-10-31T03:05:18.055Z
 desc: ""

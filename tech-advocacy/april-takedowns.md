@@ -1,5 +1,5 @@
 ---
-layout: contentwithsiblings.html
+parent: tech-advocacy
 title: "Removals of Syrian human rights content: April 2019"
 date: 2019-04-29
 desc: "Amount of content preserved, made unavailable and restored"

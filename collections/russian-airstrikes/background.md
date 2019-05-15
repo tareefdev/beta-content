@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: Background on Russian involvement in Syria
 date: 2018-10-31T11:05:18.055Z
 desc: ""

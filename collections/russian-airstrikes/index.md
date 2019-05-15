@@ -50,3 +50,5 @@ It is possible to search the database using keywords. This means a user can sear
 ---
 
 Syrian Archive is a civil society group that has been documenting the Syrian conflict since 2014. To date over 3.3 million units of digital content have been located and preserved. Like many monitoring organisations, Syrian Archive is unable to go into Syria to investigate these attacks. Relying on a network of journalists and video makers it is essential to monitor, document and report on the crimes in Syria and preserve these pieces of evidence for accountability and justice initiatives.
+
+[Background ](./background)

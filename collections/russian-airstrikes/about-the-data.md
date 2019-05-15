@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: About the Data
 date: 2018-10-31T08:05:18.055Z
 desc: ""

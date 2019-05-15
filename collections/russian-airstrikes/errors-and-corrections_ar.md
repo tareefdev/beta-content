@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: "الأخطاء والتصحيحات"
 date: 2018-10-31T00:05:18.055Z
 desc: ""

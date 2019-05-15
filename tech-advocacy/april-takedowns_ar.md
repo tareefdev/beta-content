@@ -1,5 +1,5 @@
 ---
-layout: investigation.html
+parent: tech-advocacy
 title: "إزالة المحتوى السوريّ المرتبط بحقوق الإنسان: أبريل 2019"
 desc: "إحصائيات المواد الرقمية المؤرشفة والتي تم استرجاعها"
 image: /assets/takedowns.jpg

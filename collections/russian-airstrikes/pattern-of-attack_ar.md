@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: "أنماط الهجمات"
 date: 2018-10-31T10:05:18.055Z
 desc: ""

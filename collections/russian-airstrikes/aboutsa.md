@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: About Syrian Archive
 date: 2018-10-31T03:05:18.055Z
 desc: ""

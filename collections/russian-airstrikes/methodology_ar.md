@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: "المنهجية"
 date: 2018-10-31T07:05:18.055Z
 desc: ""

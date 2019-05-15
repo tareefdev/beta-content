@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: Munitions Identified
 date: 2018-10-31T09:05:18.055Z
 desc: ""

@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: Acknowledgements
 date: 2018-10-31T05:05:18.055Z
 desc: ""

@@ -1,5 +1,5 @@
 ---
-layout: "collections/russiancontent.html"
+parent: russian-airstrikes
 title: "الذخائر التي تم تحديدها"
 date: 2018-10-31T09:05:18.055Z
 desc: ""

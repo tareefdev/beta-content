@@ -1,19 +1,23 @@
 ---
 title: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
-date: 2017-04-18
+date: "2017-04-18T00:00:00.000Z"
 desc: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
-image: ../assets/8j.width-800.png
+image: "../assets/8j.width-800.png"
 level: 0
 ---
-*This is a developing investigation, which will be updated as soon as there are new findings. We are currently waiting for a reaction from CENTCOM and the Pentagon with regards to our findings. Last update: March 18, 2017, 19:41 UTC.*
+***This is a developing investigation,** which will be updated as soon as there are new findings. We are currently waiting for a reaction from CENTCOM and the Pentagon with regards to our findings. Last update: March 18, 2017, 19:41 UTC.*
 
 This is an investigation into the bombing by the United States (US) of a mosque in Al-Jīnah, a Syrian village located in the western part of the Aleppo governorate. The report is structured along the lines of the five W-questions:
 
--   **What happened?**
--   **When did it happen?**
--   **Where did it happen?**
--   **Who is responsible?**
--   **Why did it happen?**
+* **What happened?**
+
+* **When did it happen?**
+
+* **Where did it happen?**
+
+* **Who is responsible?**
+
+* **Why did it happen?**
 
 ## What happened?
 
@@ -61,7 +65,7 @@ The southern side of the 'Umar ibn al-Khaṭṭāb mosque, which is the prayer r
 
 ![6j.png](../assets/6j.width-800.png)
 
-The old mosque as well as the new construction right north of the new mosque are completely intact. Locals confirmed to \_Bellingcat \_that the smaller building with minarets and speakers is indeed a mosque, which is visible in a video of RFS.
+The old mosque as well as the new construction right north of the new mosque are completely intact. Locals confirmed to _Bellingcat _that the smaller building with minarets and speakers is indeed a mosque, which is visible in a video of RFS.
 
 ![8j.png](../assets/8j.width-800.png)
 
@@ -101,7 +105,7 @@ On eve of the attack, CENTCOM did report that they struck "Al Qaeda meeting loca
 
 As we have seen above, the mosque's location is in the Aleppo governorate though only 4 km from the governorate's border with Idlib. For that reason, it may have been that the Idlib strike referred to the same incident -- something Airwars journalist [Samuel Oakford first noted](https://twitter.com/samueloakford/status/842514169941442561).
 
-However, confusion remained, so \_Bellingcat \_e-mailed CENTCOM for a statement of clarification regarding these strikes. In an e-mailed reply, they said that:
+However, confusion remained, so _Bellingcat _e-mailed CENTCOM for a statement of clarification regarding these strikes. In an e-mailed reply, they said that:
 
 *We believe this is the same strike. We do not mean to cause any confusion. Different internal reports may have this listed differently.*
 
@@ -133,7 +137,7 @@ Noteworthy is that the exact same label on a weapon remnant was found at the sit
 
 ![19j.png](../assets/19j.width-800.png)
 
-If the photo of Mr. Khader thus indeed was taken at the mosque site, it is highly likely that the US is the perpetrator of this attack. It is, however, also worth mentioning that the damage shown in the October 16, 2016, footage of Idlib is considerably smaller than the March 16, 2017, strike, as was noted by Twitter-uster [@sasmojo][39](https://twitter.com/sasmojo/status/842513526174433281).
+If the photo of Mr. Khader thus indeed was taken at the mosque site, it is highly likely that the US is the perpetrator of this attack. It is, however, also worth mentioning that the damage shown in the October 16, 2016, footage of Idlib is considerably smaller than the March 16, 2017, strike, as was noted by Twitter-uster \[@sasmojo\][39](https://twitter.com/sasmojo/status/842513526174433281).
 
 An explanation follows the next day, when Washington Post journalist Thomas Gibbons-Neff [tweets a statement](https://twitter.com/Tmgneff/status/842740011099459585) by a US official he spoke: "US official: AQ strike in N. Syria involved two Reapers that fired roughly entirety of their Hellfire payload and followed up w/ 500lb bomb."
 
@@ -151,11 +155,11 @@ First of all, there is an object with the Latin inscription which reads "3000089
 
 ![23j.png](../assets/23j.width-800.png)
 
-The second object has a label with a text in Latin and three bar codes. The text read: "WOODWARD HRT Revision B"; "(1P) MFR PART\# 41013490-108"; "SERIAL\# 15862"; and "\[??\] DATE 1\[?\]12/22"; "(17V) MFR CAGE 81873".
+The second object has a label with a text in Latin and three bar codes. The text read: "WOODWARD HRT Revision B"; "(1P) MFR PART# 41013490-108"; "SERIAL# 15862"; and "\[??\] DATE 1\[?\]12/22"; "(17V) MFR CAGE 81873".
 
 Woodward is a US company which supplies fin actuators for Joint Direct Attack Munitions (JDAMs), which are guidance kits which convert unguided bombs, or "dumb bombs", into all-weather "smart" munitions. The CAGE code (Commercial and Government Entity Code), a unique identifier assigned to suppliers to various government or defence agencies, also corresponds to Woodward.
 
-[It has been suggested](https://twitter.com/marcgarlasco/status/842744382512140289) that the remnants pictured may be related to JDAM-ER. Woodward received several US Department of Defence (DoD) contracts, though the [the Military-Industrial Complex website](http://www.militaryindustrialcomplex.com/totals.asp?thisContractor=Woodward%20HRT) only lists contracts with a value of \$6.5 million USD or higher.
+[It has been suggested](https://twitter.com/marcgarlasco/status/842744382512140289) that the remnants pictured may be related to JDAM-ER. Woodward received several US Department of Defence (DoD) contracts, though the [the Military-Industrial Complex website](http://www.militaryindustrialcomplex.com/totals.asp?thisContractor=Woodward%20HRT) only lists contracts with a value of $6.5 million USD or higher.
 
 ![24j.png](../assets/24j.width-800.png)
 

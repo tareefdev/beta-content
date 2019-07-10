@@ -23,6 +23,7 @@ import ChViolationslist from './violationslist.md';
 
 import Timeline from '../../../src/components/timeline.js';
 import BlockViz from '../../../src/components/blockviz.js';
+import SyriaMap from '../../../src/components/sy-map.js';
 import RemovedVideos from '../../../src/components/removedvideos.js';
 
 ## Chemical Weapons Database
@@ -64,7 +65,11 @@ import RemovedVideos from '../../../src/components/removedvideos.js';
 	lang={"en"}
 />
 
-
+###### Syria Map Resources
+<SyriaMap
+	width={500}
+	height={500}
+/>
 
 ## The Data
 <ChThedata />

@@ -1,9 +1,9 @@
 ---
-layout: investigation.html
 title: "استهداف مدنيين في سوق شعبي في الأتارب"
 date: 2017-12-20
 desc: "69 قتيلًا نتيجة غاراتِ جوية استهدفت سوق الأتارب"
 image: ../assets/investigations/atarib-1.png
+type: investigation
 level: 0
 ---
 

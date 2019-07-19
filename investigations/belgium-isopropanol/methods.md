@@ -1,5 +1,4 @@
 ---
-layout: investigation.html
 title: "Methodology"
 date: 2018-04-19T00:02:18.055Z
 desc: "How we tracked the illegal shipment of sarin precursor from Belgium to Syria"

@@ -1,6 +1,5 @@
 ---
 parent: Eyes-on-Aleppo
-layout: investigation.html
 title: Research Methodology - Eyes on Aleppo
 date: 2017-03-29T00:01:24.055Z
 image: ../../assets/workflow.png

@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "Bombing Al Salam Medical Facility"
 date: 2018-02-19T00:04:18.055Z
 desc: "Joint report of medical facilities attacked in Idlib"
 image: ../../assets/anas-alsalam.jpg
+type: investigation
 level: 5
 ---
 - Location: Maarat al-Numaan (Idlib governorate, Syria)

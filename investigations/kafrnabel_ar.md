@@ -2,6 +2,7 @@
 title: "استهداف مشفى كفرنبل الجراحي"
 date: 2019-06-27
 image: ../assets/investigations/kafranabel/image2.jpg
+type: investigation
 level: 0
 ---
 

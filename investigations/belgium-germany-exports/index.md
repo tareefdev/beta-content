@@ -3,6 +3,7 @@ title: "German and Belgian prosecutors urged to shed light on exports of dual-us
 date: 2019-06-03
 desc: "Joint press release: OSJI, Trial International and Syrian Archive"
 image: ../assets/investigations/3-logos.jpg
+type: investigation
 level: 1
 ---
 

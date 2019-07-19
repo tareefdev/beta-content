@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "Bombing the National Hospital"
 date: 2018-02-19T00:06:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
 image: ../../assets/national09.jpg
+type: investigation
 level: 3
 ---
 

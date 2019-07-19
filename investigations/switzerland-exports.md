@@ -1,8 +1,8 @@
 ---
-layout: investigation.html
 title: "German and Belgian authorities react to new findings on chemicals’ exports to Syria"
 date: 2019-03-27
 image: ../assets/investigations/3-logos.jpg
+type: investigation
 level: 0
 ---
 

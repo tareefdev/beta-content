@@ -3,6 +3,7 @@ title: "مطالبة مدّعين عامين بلجيكين وألمان بتس�
 date: 2019-06-03
 desc: "بيان صحفي مشترك: OSJI, Trial International والأرشيف السوريّ"
 image: ../assets/investigations/3-logos.jpg
+type: investigation
 level: 1
 ---
 

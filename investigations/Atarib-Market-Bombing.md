@@ -1,9 +1,10 @@
 ---
-layout: investigation.html
 title: "Targeting civilians in public market in Al Atarib"
 date: 2017-12-20
 desc: "69 civilians dead as a result of airstrikes that attacked Atarib market"
 image: ../assets/investigations/atarib-25.png
+layout: investigation.html
+type: investigation
 level: 0
 ---
 

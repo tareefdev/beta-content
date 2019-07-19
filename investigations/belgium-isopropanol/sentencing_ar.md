@@ -1,5 +1,4 @@
 ---
-layout: investigation.html
 title: "محكمة أنتويرب تدين ثلاثة شركات فلمنكية لشحن 168 طناً من الأيزوبروبانول إلى سوريا"
 date: 2019-02-07
 image: ../../assets/investigations/Belgium/image4.jpg

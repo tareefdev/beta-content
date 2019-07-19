@@ -1,6 +1,5 @@
 ---
 parent: Eyes-on-Aleppo
-layout: investigation.html
 title: "منهجية البحث - عين على حلب"
 date: 2017-03-29T00:01:24.055Z
 image: ../../assets/workflow.png

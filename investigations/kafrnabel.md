@@ -3,6 +3,7 @@ title: "The Attack on the Kafranbel Surgical Hospital"
 date: 2019-06-27
 image: ../assets/investigations/kafranabel/image2.jpg
 desc: "The Attack on the Kafranbel Surgical Hospital"
+type: investigation
 level: 0
 ---
 

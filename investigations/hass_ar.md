@@ -1,10 +1,10 @@
 ---
-layout: investigation.html
 title: "استهداف مستشفى نبض الحياة في حاس، محافظة ادلب"
 date: 2019-05-08
 desc: "تحقيق مفتوح المصدر حول استهداف مستشفى نبض الحياة في حاس"
 image: ../assets/investigations/hass/image2.png
 socialMediaImage: ../assets/investigations/hass/image2.png
+type: investigation
 level: 0
 ---
 

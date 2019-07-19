@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "قصف مستشفى السلام في ادلب"
 date: 2018-02-19T00:04:18.055Z
 desc: "مرافق صحية تحت النار"
 image: ../../assets/anas-alsalam.jpg
+type: investigation
 level: 5
 ---
 - الموقع: معرة النعمان (محافظة ادلب، سوريا)

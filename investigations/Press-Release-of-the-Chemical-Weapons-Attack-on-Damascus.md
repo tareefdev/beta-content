@@ -3,6 +3,7 @@ title: "Press Release of the Chemical Weapons Attack on Damascus"
 date: 2015-08-21
 desc: "The Syrian Archive Team on the 2nd anniversary of the chemical weapons attack on Ghouta, Syria"
 image: ../assets/media_activist_in_Damascus.jpg
+type: investigation
 level: 0
 ---
 The Syrian Archive Team on the 2nd anniversary of the chemical weapons attack on Ghouta, Syria \| 21 August 2015

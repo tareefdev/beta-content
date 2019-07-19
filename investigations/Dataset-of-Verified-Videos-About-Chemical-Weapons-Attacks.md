@@ -3,6 +3,7 @@ title: "Dataset of Verified Videos About Chemical Weapons Attacks in Syria"
 date: 2016-12-13
 desc: "Dataset of Verified Videos About Chemical Weapons Attacks in Syria"
 image: ../assets/investigations/cw-attacks.png
+type: investigation
 level: 0
 ---
 

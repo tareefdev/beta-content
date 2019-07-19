@@ -1,8 +1,8 @@
 ---
-layout: investigation.html
 title: "ردود السلطات الألمانية والبلجيكية على النتائج الجديدة بخصوص صادرات المواد الكيميائية إلى سوريا"
 date: 2019-03-27
 image: ../assets/investigations/3-logos.jpg
+type: investigation
 level: 0
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: investigation.html
 title: "Antwerp court convicts three Flemish firms for shipping 168 tonnes of isopropanol to Syria"
 date: 2019-02-07
 image: ../../assets/investigations/Belgium/image4.jpg

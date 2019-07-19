@@ -3,6 +3,7 @@ title: "Dataset of Russian Attacks Against Syria's Civilians"
 date: 2016-05-13
 desc: "Dataset of Russian Attacks Against Syria's Civilians"
 image: ../assets/investigations/russian-attacks.png
+type: investigation
 level: 0
 ---
 

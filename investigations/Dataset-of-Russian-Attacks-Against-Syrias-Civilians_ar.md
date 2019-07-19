@@ -1,9 +1,9 @@
 ---
-layout: investigation.html
 title: "قاعدة بيانات بالهجمات الروسية ضد المدنيين في سوريا"
 date: 2016-05-13
 desc: "بيان حول الأدلة البصرية التي جمعها الأرشيف السوري كقاعدة بيانات عن الهجمات الروسية ضد المدنيين في سوريا"
 image: ../assets/investigations/russian-attacks.png
+type: investigation
 level: 0
 ---
 

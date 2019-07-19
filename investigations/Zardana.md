@@ -1,10 +1,10 @@
 ---
-layout: investigation.html
 title: "Zardana residential neighborhood targeted with airstrikes"
 date: 2018-12-17
 desc: "45 civilians dead as a result of airstrikes that attacked Zardana"
 image: ../assets/investigations/zardana/drone-zardana-after-airstrikes.png
 socialMediaImage: ../assets/investigations/zardana/111.jpg
+type: investigation
 level: 0
 ---
 

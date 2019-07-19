@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "Bombing the Orient Hospital"
 date: 2018-02-19T00:07:18.055Z
 desc: "Joint report of medical facilities attacked in Idlib"
 image: ../../assets/Impact-hospital.jpg
+type: investigation
 level: 4
 ---
 

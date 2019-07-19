@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "الأخطاء، التصحيحات، والملاحظات - مرافق صحية تحت النار"
 date: 2018-02-19T00:08:18.055Z
 desc: "مرافق صحية تحت النار"
 image: ../../assets/cover-photo-web.width-800.png
+type: investigation
 level: 7
 ---
 

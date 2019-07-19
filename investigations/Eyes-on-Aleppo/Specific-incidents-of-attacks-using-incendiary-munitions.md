@@ -1,6 +1,5 @@
 ---
 parent: Eyes-on-Aleppo
-layout: investigation.html
 title: Specific incidents of attacks using incendiary munitions - Eyes on Aleppo
 date: 2017-03-29T00:01:22.055Z
 image: ../../assets/investigations/incendiary-1.png

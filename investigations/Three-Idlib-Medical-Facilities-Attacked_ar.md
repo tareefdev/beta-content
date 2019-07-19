@@ -3,6 +3,7 @@ title: "ثلاثة هجمات على مستشفيات ادلب"
 date: 2017-09-19
 desc: "ثلاث منشآت طبية هوجمت بغارات جوية نُسبت للقوات السورية أو الروسية"
 image: ../assets/cover-photo-web.width-800.png
+type: investigation
 level: 0
 ---
 

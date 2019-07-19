@@ -1,5 +1,4 @@
 ---
-layout: investigation.html
 title: "Belgium illegally shipped 168 tonnes of sarin precursor to Syria"
 date: 2018-04-18
 desc: "Jeff Deutch, additional reporting by Kristof Clerix from Knack"

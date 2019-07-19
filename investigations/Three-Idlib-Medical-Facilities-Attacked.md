@@ -3,6 +3,7 @@ title: "Three Idlib Medical Facilities Attacked"
 date: 2017-09-19
 desc: "Three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked in airstrikes attributed to Syrian or Russian forces"
 image: ../assets/cover-photo-webwidth-800.png
+type: investigation
 level: 0
 ---
 

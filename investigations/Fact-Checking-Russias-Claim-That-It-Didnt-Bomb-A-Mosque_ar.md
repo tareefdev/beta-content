@@ -1,9 +1,9 @@
 ---
-layout: investigation.html
 title: "التحقّق من استهداف جامع عمر بن الخطاب من قبل الطيران الروسي"
 date: 2015-11-01
 desc: "ترجمة للتقرير الذي نشرته البيلنغ كات عن استهداف جامع عُمر بن الخطاب في مدينة جسر الشغور بمحافظة إدلب"
 image: ../assets/Al_Farouq_Idlib.jpeg
+type: investigation
 level: 0
 ---
 

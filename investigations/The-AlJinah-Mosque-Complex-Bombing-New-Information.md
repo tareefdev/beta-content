@@ -3,6 +3,7 @@ title: "The Al-Jinah Mosque Complex Bombing"
 date: 2017-04-19
 desc: "An investigation about Al-Jinah Mosque Bombing"
 image: ../assets/11j.width-800.png
+type: investigation
 level: 0
 ---
 

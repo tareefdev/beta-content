@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "الهجوم على مشفى الأورينت"
 date: 2018-02-19T00:07:18.055Z
 desc: "مرافق صحية تحت النار"
 image: ../../assets/Impact-hospital.jpg
+type: investigation
 level: 4
 ---
 

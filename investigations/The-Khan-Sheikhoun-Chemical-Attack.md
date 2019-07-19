@@ -3,6 +3,7 @@ title: "The Khan Sheikhoun Chemical Attack, The Evidence So Far"
 date: 2017-04-05
 desc: "An investigation about The Khan Sheikhoun Chemical Attack"
 image: ../assets/17758314_1889429741270586_450301894920766305_o.width-800.png
+type: investigation
 level: 0
 ---
 

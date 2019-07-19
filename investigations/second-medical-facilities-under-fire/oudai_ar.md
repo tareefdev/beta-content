@@ -1,10 +1,10 @@
 ---
 parent: second-medical-facilities-under-fire
-layout: investigation.html
 title: "قصف مستشفى عديّ"
 date: 2018-02-19T00:05:18.055Z
 desc: "مرافق صحية تحت النار"
 image: ../../assets/EMC-overview-damage.jpg
+type: investigation
 level: 6
 ---
 

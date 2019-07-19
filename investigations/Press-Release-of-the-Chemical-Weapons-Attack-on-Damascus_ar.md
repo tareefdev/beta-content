@@ -1,9 +1,9 @@
 ---
-layout: investigation.html
 title: "بيان صحفي حول الضربات الكيماوية في سوريا"
 date: 2015-08-21
 desc: "بيان صحفي حول الضربات الكيماوية في سوريا في الذكرى الثانية لمجزرة الكيماوي التي ارتُكبت في الغوطة الشرقية لدمشق"
 image: ../assets/media_activist_in_Damascus.jpg
+type: investigation
 level: 0
 ---
 

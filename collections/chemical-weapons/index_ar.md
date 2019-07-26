@@ -21,9 +21,9 @@ import ChUseofchemicalweapons2Ar from './useofchemicalweapons2_ar.md';
 import ChUsingthedatabaseAr from './usingthedatabase_ar.md';
 import ChViolationslistAr from './violationslist_ar.md';
 
-import Timeline from '../../../src/components/timeline.js';
-import BlockViz from '../../../src/components/blockviz.js';
-import RemovedVideos from '../../../src/components/removedvideos.js';
+import Timeline from '../../../src/components/charts/timeline.js';
+import BlockViz from '../../../src/components/charts/blockviz.js';
+import RemovedVideos from '../../../src/components/charts/removedvideos.js';
 
 ## قاعدة بيانات الأسلحة الكيماوية
 <ChIntroAr />

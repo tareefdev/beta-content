@@ -21,9 +21,9 @@ import ChUseofchemicalweapons2 from './useofchemicalweapons2.md';
 import ChUsingthedatabase from './usingthedatabase.md';
 import ChViolationslist from './violationslist.md';
 
-import Timeline from '../../../src/components/timeline.js';
-import BlockViz from '../../../src/components/blockviz.js';
-import RemovedVideos from '../../../src/components/removedvideos.js';
+import Timeline from '../../../src/components/charts/timeline.js';
+import BlockViz from '../../../src/components/charts/blockviz.js';
+import RemovedVideos from '../../../src/components/charts/removedvideos.js';
 
 ## Chemical Weapons Database
 <ChIntro />
